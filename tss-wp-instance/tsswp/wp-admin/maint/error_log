@@ -1,0 +1,2 @@
+[01-Mar-2022 20:28:52 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/thescien/public_html/tsswp/wp-content/plugins/wp-optimize/minify/class-wp-optimize-minify-functions.php on line 11
+[01-Mar-2022 20:28:52 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/thescien/public_html/tsswp/wp-content/plugins/wp-optimize/minify/class-wp-optimize-minify-functions.php on line 12
