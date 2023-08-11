@@ -165,17 +165,17 @@
     }
     wpfront_scroll_top_init();
 </script>
-<script type="text/javascript" src="../wp-content/plugins/wpfront-scroll-top/js/wpfront-scroll-top.minb0d2.js?ver=2.0.4.04013" id="wpfront-scroll-top-js" async="async" defer="defer"></script>
-<script type="text/javascript" src="../wp-content/plugins/ht-mega-for-elementor/assets/js/popper.min001e.js?ver=2.0.0" id="htmega-popper-js"></script>
-<script type="text/javascript" src="../wp-content/plugins/ht-mega-for-elementor/assets/js/htbbootstrap001e.js?ver=2.0.0" id="htbbootstrap-js"></script>
-<script type="text/javascript" src="../wp-content/plugins/ht-mega-for-elementor/assets/js/waypoints001e.js?ver=2.0.0" id="waypoints-js"></script>
-<script type="text/javascript" src="../wp-content/plugins/elementor/assets/js/webpack.runtime.minaeb9.js?ver=3.1.4" id="elementor-webpack-runtime-js"></script>
-<script type="text/javascript" src="../wp-content/plugins/elementor/assets/js/frontend-modules.minaeb9.js?ver=3.1.4" id="elementor-frontend-modules-js"></script>
-<script type="text/javascript" src="../wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2" id="jquery-ui-core-js"></script>
-<script type="text/javascript" src="../wp-content/plugins/elementor/assets/lib/dialog/dialog.mina288.js?ver=4.8.1" id="elementor-dialog-js"></script>
-<script type="text/javascript" src="../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2" id="elementor-waypoints-js"></script>
-<script type="text/javascript" src="../wp-content/plugins/elementor/assets/lib/share-link/share-link.minaeb9.js?ver=3.1.4" id="share-link-js"></script>
-<script type="text/javascript" src="../wp-content/plugins/ht-mega-for-elementor/assets/js/swiper.min001e.js?ver=2.0.0" id="swiper-js"></script>
+<script type="text/javascript" src="wp-content/plugins/wpfront-scroll-top/js/wpfront-scroll-top.minb0d2.js?ver=2.0.4.04013" id="wpfront-scroll-top-js" async="async" defer="defer"></script>
+<script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/popper.min001e.js?ver=2.0.0" id="htmega-popper-js"></script>
+<script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/htbbootstrap001e.js?ver=2.0.0" id="htbbootstrap-js"></script>
+<script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/waypoints001e.js?ver=2.0.0" id="waypoints-js"></script>
+<script type="text/javascript" src="wp-content/plugins/elementor/assets/js/webpack.runtime.minaeb9.js?ver=3.1.4" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="wp-content/plugins/elementor/assets/js/frontend-modules.minaeb9.js?ver=3.1.4" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" src="wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="wp-content/plugins/elementor/assets/lib/dialog/dialog.mina288.js?ver=4.8.1" id="elementor-dialog-js"></script>
+<script type="text/javascript" src="wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script type="text/javascript" src="wp-content/plugins/elementor/assets/lib/share-link/share-link.minaeb9.js?ver=3.1.4" id="share-link-js"></script>
+<script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/swiper.min001e.js?ver=2.0.0" id="swiper-js"></script>
 <script id="elementor-frontend-js-before" type="text/javascript">
     var elementorFrontendConfig = {
         environmentMode: {

@@ -133,7 +133,7 @@
     }
 </script>
 <div id="wpfront-scroll-top-container">
-    <img src="/wp-content/uploads/2021/11/up-arrow-3.png" alt="" />
+    <img src="wp-content/uploads/2021/11/up-arrow-3.png" alt="" />
 </div>
 <script type="text/javascript">
     function wpfront_scroll_top_init() {
@@ -142,22 +142,22 @@
         typeof jQuery !== "undefined"
         ) {
             wpfront_scroll_top({
-                "scroll_offset": 100,
-                "button_width": 0,
-                "button_height": 0,
-                "button_opacity": 0.90000000000000002220446049250313080847263336181640625,
-                "button_fade_duration": 200,
-                "scroll_duration": 1000,
-                "location": 1,
-                "marginX": 20,
-                "marginY": 20,
-                "hide_iframe": false,
-                "auto_hide": false,
-                "auto_hide_after": 2,
-                "button_action": "top",
-                "button_action_element_selector": "",
-                "button_action_container_selector": "html, body",
-                "button_action_element_offset": 0
+                scroll_offset: 100,
+                button_width: 0,
+                button_height: 0,
+                button_opacity: 0.90000000000000002220446049250313080847263336181640625,
+                button_fade_duration: 200,
+                scroll_duration: 1000,
+                location: 1,
+                marginX: 20,
+                marginY: 20,
+                hide_iframe: false,
+                auto_hide: false,
+                auto_hide_after: 2,
+                button_action: "top",
+                button_action_element_selector: "",
+                button_action_container_selector: "html, body",
+                button_action_element_offset: 0,
             });
         } else {
             setTimeout(wpfront_scroll_top_init, 100);
@@ -168,11 +168,11 @@
 <link rel='stylesheet' id='htmega-widgets-css' href='wp-content/plugins/ht-mega-for-elementor/assets/css/htmega-widgets001e.css?ver=2.0.0' type='text/css' media='all' />
 <link rel='stylesheet' id='slick-css' href='wp-content/plugins/ht-mega-for-elementor/assets/css/slick.min001e.css?ver=2.0.0' type='text/css' media='all' />
 <script type="text/javascript" src="wp-content/plugins/wpfront-scroll-top/js/wpfront-scroll-top.minb0d2.js?ver=2.0.4.04013" id="wpfront-scroll-top-js" async="async" defer="defer"></script>
-<script type='text/javascript' src='wp-content/plugins/ht-mega-for-elementor/assets/js/popper.min001e.js?ver=2.0.0' id='htmega-popper-js'></script>
-<script type='text/javascript' src='wp-content/plugins/ht-mega-for-elementor/assets/js/htbbootstrap001e.js?ver=2.0.0' id='htbbootstrap-js'></script>
-<script type='text/javascript' src='wp-content/plugins/ht-mega-for-elementor/assets/js/waypoints001e.js?ver=2.0.0' id='waypoints-js'></script>
-<script type='text/javascript' src='wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/universal-tilt.min8e83.js?ver=4.9.10' id='tilt-js-js'></script>
-<script type='text/javascript' id='premium-addons-js-extra'>
+<script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/popper.min001e.js?ver=2.0.0" id="htmega-popper-js"></script>
+<script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/htbbootstrap001e.js?ver=2.0.0" id="htbbootstrap-js"></script>
+<script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/waypoints001e.js?ver=2.0.0" id="waypoints-js"></script>
+<script type="text/javascript" src="wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/universal-tilt.min8e83.js?ver=4.9.10" id="tilt-js-js"></script>
+<script type="text/javascript" id="premium-addons-js-extra">
     /* <![CDATA[ */
     var PremiumSettings = {
         "ajaxurl": "https:\/\/thescienceschool.edu.pk\/tsswp\/wp-admin\/admin-ajax.php",
