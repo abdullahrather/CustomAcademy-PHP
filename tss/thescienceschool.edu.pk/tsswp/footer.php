@@ -113,7 +113,8 @@
     </div>
 
     <div class="site-info">
-       <i class="fa fa-copyright" aria-hidden="true"></i>  2013 - <?php echo date('Y'); ?> The Science School</div>
+        <i class="fa fa-copyright" aria-hidden="true"></i> 2013 - <?php echo date('Y'); ?> The Science School
+    </div>
 </footer>
 <script type="text/javascript">
     function showhide_toggle(e, t, r, g) {
@@ -434,6 +435,35 @@ function myFunction2() {
         return false;
     });
 </script>
+
+<!-- Results menu item set current_page_item -->
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const menuItems = document.querySelectorAll('#menu-results .menu-item');
+        
+        // Get the result year from the URL query string
+        const queryString = window.location.search;
+        const urlParams = new URLSearchParams(queryString);
+        const selectedResult = urlParams.get('result');
+
+        if (selectedResult) {
+            // Remove 'current' class from all menu items
+            menuItems.forEach(item => {
+                item.classList.remove('current-menu-item', 'current_page_item');
+            });
+
+            // Find the corresponding menu item and add 'current' class
+            const selectedItem = document.querySelector(`#menu-results .menu-item a[href*="result=${selectedResult}"]`);
+            if (selectedItem) {
+                selectedItem.parentNode.classList.add('current-menu-item', 'current_page_item');
+            }
+        }
+    });
+</script>
+
+
+
+
 </body>
 
 </html>

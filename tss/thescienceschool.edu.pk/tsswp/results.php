@@ -10,9 +10,8 @@ $resultsData = array(
 if (array_key_exists($selectedResult, $resultsData)) {
 	$selectedContent = $resultsData[$selectedResult];
 } else {
-	$selectedContent = '<p>Invalid result year selected.</p>';
+	$selectedContent = '<div style="margin: auto;" class="alert alert-warning" role="alert"><h2 class=" elementor-heading-title elementor-size-default">Result not uploaded for the year selected.</h2></div>';
 }
-
 $bodyClass = "page-template-default page page-id-8530 wp-custom-logo page-two-column elementor-default elementor-kit-160 elementor-page elementor-page-8530";
 $pageTitle = "Results 2022";
 include_once "header.php";
@@ -29,7 +28,7 @@ include_once "header.php";
 					</header>
 					<div class="entry-content">
 						<p>
-						<div data-elementor-type="wp-page" data-elementor-id="8530" class="elementor elementor-8530" data-elementor-settings="[]">
+						<div data-elementor-type="wp-page" data-elementor-id="8679" class="elementor elementor-8679" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 								<section class="elementor-section elementor-top-section elementor-element elementor-element-353864f elementor-section-full_width edu-parent-and-std  elementor-section-height-default elementor-section-height-default" data-id="353864f" data-element_type="section" id="high-achiever-page">
 									<div class="elementor-container elementor-column-gap-default">

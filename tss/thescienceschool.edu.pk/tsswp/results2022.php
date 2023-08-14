@@ -7,8 +7,6 @@ include_once "header.php";
 	<div class="container" id="custom-a-tag">
 		<div id="primary" class="content-area entry-content">
 			<main id="main" class="site-main" role="main">
-
-
 				<article id="post-8530" class="post-8530 page type-page status-publish hentry">
 					<header class="entry-header">
 						<h1 class="entry-title"><span><?php echo $pageTitle ?></span></h1>
