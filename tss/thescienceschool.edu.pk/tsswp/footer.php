@@ -113,7 +113,7 @@
     </div>
 
     <div class="site-info">
-        © 2013 &amp; 2022 The Science School</div>
+       <i class="fa fa-copyright" aria-hidden="true"></i>  2013 - <?php echo date('Y'); ?> The Science School</div>
 </footer>
 <script type="text/javascript">
     function showhide_toggle(e, t, r, g) {
@@ -122,14 +122,14 @@
             i = jQuery("#" + e + "-content-" + t),
             l = jQuery("#" + e + "-toggle-" + t);
         a.toggleClass("sh-show sh-hide"),
-        i.toggleClass("sh-show sh-hide").toggle(),
-        "true" === s.attr("aria-expanded") ?
-        s.attr("aria-expanded", "false") :
-        s.attr("aria-expanded", "true"),
-        l.text() === r ?
-        (l.text(g), a.trigger("sh-link:more")) :
-        (l.text(r), a.trigger("sh-link:less")),
-        a.trigger("sh-link:toggle");
+            i.toggleClass("sh-show sh-hide").toggle(),
+            "true" === s.attr("aria-expanded") ?
+            s.attr("aria-expanded", "false") :
+            s.attr("aria-expanded", "true"),
+            l.text() === r ?
+            (l.text(g), a.trigger("sh-link:more")) :
+            (l.text(r), a.trigger("sh-link:less")),
+            a.trigger("sh-link:toggle");
     }
 </script>
 <div id="wpfront-scroll-top-container">
@@ -139,7 +139,7 @@
     function wpfront_scroll_top_init() {
         if (
             typeof wpfront_scroll_top === "function" &&
-        typeof jQuery !== "undefined"
+            typeof jQuery !== "undefined"
         ) {
             wpfront_scroll_top({
                 scroll_offset: 100,
@@ -165,13 +165,15 @@
     }
     wpfront_scroll_top_init();
 </script>
-<link rel='stylesheet' id='htmega-widgets-css' href='wp-content/plugins/ht-mega-for-elementor/assets/css/htmega-widgets001e.css?ver=2.0.0' type='text/css' media='all' />
-<link rel='stylesheet' id='slick-css' href='wp-content/plugins/ht-mega-for-elementor/assets/css/slick.min001e.css?ver=2.0.0' type='text/css' media='all' />
+<link rel="stylesheet" id="htmega-widgets-css" href="wp-content/plugins/ht-mega-for-elementor/assets/css/htmega-widgets001e.css?ver=2.0.0" type="text/css" media="all" />
+<link rel="stylesheet" id="slick-css" href="wp-content/plugins/ht-mega-for-elementor/assets/css/slick.min001e.css?ver=2.0.0" type="text/css" media="all" />
 <script type="text/javascript" src="wp-content/plugins/wpfront-scroll-top/js/wpfront-scroll-top.minb0d2.js?ver=2.0.4.04013" id="wpfront-scroll-top-js" async="async" defer="defer"></script>
 <script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/popper.min001e.js?ver=2.0.0" id="htmega-popper-js"></script>
 <script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/htbbootstrap001e.js?ver=2.0.0" id="htbbootstrap-js"></script>
 <script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/waypoints001e.js?ver=2.0.0" id="waypoints-js"></script>
 <script type="text/javascript" src="wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/universal-tilt.min8e83.js?ver=4.9.10" id="tilt-js-js"></script>
+<script type="text/javascript" src="wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/typed.min8e83.js?ver=4.9.10" id="pa-typed-js"></script>
+<script type="text/javascript" src="wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/vticker.min8e83.js?ver=4.9.10" id="pa-vticker-js"></script>
 <script type="text/javascript" id="premium-addons-js-extra">
     /* <![CDATA[ */
     var PremiumSettings = {
@@ -180,87 +182,88 @@
     };
     /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/premium-addons.min8e83.js?ver=4.9.10' id='premium-addons-js'></script>
-<script type='text/javascript' src='wp-content/plugins/ht-mega-for-elementor/assets/js/slick.min001e.js?ver=2.0.0' id='slick-js'></script>
-<script type='text/javascript' id='htmega-widgets-scripts-js-extra'>
+<script type="text/javascript" src="wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/premium-addons.min8e83.js?ver=4.9.10" id="premium-addons-js"></script>
+<script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/slick.min001e.js?ver=2.0.0" id="slick-js"></script>
+<script type="text/javascript" src="wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/lottie.min8e83.js?ver=4.9.10" id="lottie-js-js"></script>
+<script type="text/javascript" id="htmega-widgets-scripts-js-extra">
     /* <![CDATA[ */
     var HTMEGAF = {
         "elementorpro": ""
     };
     /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/plugins/ht-mega-for-elementor/assets/js/htmega-widgets-active001e.js?ver=2.0.0' id='htmega-widgets-scripts-js'></script>
-<script type='text/javascript' src='wp-content/plugins/elementor/assets/js/webpack.runtime.minaeb9.js?ver=3.1.4' id='elementor-webpack-runtime-js'></script>
-<script type='text/javascript' src='wp-content/plugins/elementor/assets/js/frontend-modules.minaeb9.js?ver=3.1.4' id='elementor-frontend-modules-js'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2' id='jquery-ui-core-js'></script>
-<script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/dialog/dialog.mina288.js?ver=4.8.1' id='elementor-dialog-js'></script>
-<script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2' id='elementor-waypoints-js'></script>
-<script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/share-link/share-link.minaeb9.js?ver=3.1.4' id='share-link-js'></script>
-<script type='text/javascript' src='wp-content/plugins/ht-mega-for-elementor/assets/js/swiper.min001e.js?ver=2.0.0' id='swiper-js'></script>
+<script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/htmega-widgets-active001e.js?ver=2.0.0" id="htmega-widgets-scripts-js"></script>
+<script type="text/javascript" src="wp-content/plugins/elementor/assets/js/webpack.runtime.minaeb9.js?ver=3.1.4" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="wp-content/plugins/elementor/assets/js/frontend-modules.minaeb9.js?ver=3.1.4" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" src="wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="wp-content/plugins/elementor/assets/lib/dialog/dialog.mina288.js?ver=4.8.1" id="elementor-dialog-js"></script>
+<script type="text/javascript" src="wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script type="text/javascript" src="wp-content/plugins/elementor/assets/lib/share-link/share-link.minaeb9.js?ver=3.1.4" id="share-link-js"></script>
+<script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/swiper.min001e.js?ver=2.0.0" id="swiper-js"></script>
 <script id="elementor-frontend-js-before" type="text/javascript">
     var elementorFrontendConfig = {
-        "environmentMode": {
-            "edit": false,
-            "wpPreview": false,
-            "isScriptDebug": false,
-            "isImprovedAssetsLoading": false
+        environmentMode: {
+            edit: false,
+            wpPreview: false,
+            isScriptDebug: false,
+            isImprovedAssetsLoading: false,
         },
-        "i18n": {
-            "shareOnFacebook": "Share on Facebook",
-            "shareOnTwitter": "Share on Twitter",
-            "pinIt": "Pin it",
-            "download": "Download",
-            "downloadImage": "Download image",
-            "fullscreen": "Fullscreen",
-            "zoom": "Zoom",
-            "share": "Share",
-            "playVideo": "Play Video",
-            "previous": "Previous",
-            "next": "Next",
-            "close": "Close"
+        i18n: {
+            shareOnFacebook: "Share on Facebook",
+            shareOnTwitter: "Share on Twitter",
+            pinIt: "Pin it",
+            download: "Download",
+            downloadImage: "Download image",
+            fullscreen: "Fullscreen",
+            zoom: "Zoom",
+            share: "Share",
+            playVideo: "Play Video",
+            previous: "Previous",
+            next: "Next",
+            close: "Close",
         },
-        "is_rtl": false,
-        "breakpoints": {
-            "xs": 0,
-            "sm": 480,
-            "md": 768,
-            "lg": 1025,
-            "xl": 1440,
-            "xxl": 1600
+        is_rtl: false,
+        breakpoints: {
+            xs: 0,
+            sm: 480,
+            md: 768,
+            lg: 1025,
+            xl: 1440,
+            xxl: 1600
         },
-        "version": "3.1.4",
-        "is_static": false,
-        "experimentalFeatures": {
-            "e_dom_optimization": true,
-            "a11y_improvements": true,
-            "landing-pages": true
+        version: "3.1.4",
+        is_static: false,
+        experimentalFeatures: {
+            e_dom_optimization: true,
+            a11y_improvements: true,
+            "landing-pages": true,
         },
-        "urls": {
-            "assets": "https:\/\/thescienceschool.edu.pk\/tsswp\/wp-content\/plugins\/elementor\/assets\/"
+        urls: {
+            assets: "https:\/\/thescienceschool.edu.pk\/tsswp\/wp-content\/plugins\/elementor\/assets\/",
         },
-        "settings": {
-            "page": [],
-            "editorPreferences": []
+        settings: {
+            page: [],
+            editorPreferences: []
         },
-        "kit": {
-            "global_image_lightbox": "yes",
-            "lightbox_enable_counter": "yes",
-            "lightbox_enable_fullscreen": "yes",
-            "lightbox_enable_zoom": "yes",
-            "lightbox_enable_share": "yes",
-            "lightbox_title_src": "title",
-            "lightbox_description_src": "description"
+        kit: {
+            global_image_lightbox: "yes",
+            lightbox_enable_counter: "yes",
+            lightbox_enable_fullscreen: "yes",
+            lightbox_enable_zoom: "yes",
+            lightbox_enable_share: "yes",
+            lightbox_title_src: "title",
+            lightbox_description_src: "description",
         },
-        "post": {
-            "id": 90,
-            "title": "The%20Science%20School",
-            "excerpt": "",
-            "featuredImage": false
-        }
+        post: {
+            id: 90,
+            title: "The%20Science%20School",
+            excerpt: "",
+            featuredImage: false,
+        },
     };
 </script>
-<script type='text/javascript' src='wp-content/plugins/elementor/assets/js/frontend.minaeb9.js?ver=3.1.4' id='elementor-frontend-js'></script>
-<script type='text/javascript' src='wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.minaeb9.js?ver=3.1.4' id='preloaded-elements-handlers-js'></script>
+<script type="text/javascript" src="wp-content/plugins/elementor/assets/js/frontend.minaeb9.js?ver=3.1.4" id="elementor-frontend-js"></script>
+<script type="text/javascript" src="wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.minaeb9.js?ver=3.1.4" id="preloaded-elements-handlers-js"></script>
 
 <!-- <script>
 window.onload = function() {
@@ -357,7 +360,7 @@ function myFunction2() {
         $("#error").hide();
         $("#show_message").hide();
         // on submit...
-        $('#registrationForm').submit(function(e) {
+        $("#registrationForm").submit(function(e) {
             //alert('a3');
             e.preventDefault();
             $("#error").hide();
@@ -411,7 +414,9 @@ function myFunction2() {
                 return false;
             }
             if (re_password != password) {
-                $("#error").fadeIn().text("Password and re-password should be same");
+                $("#error")
+                    .fadeIn()
+                    .text("Password and re-password should be same");
                 $("input#re-password").focus();
                 return false;
             }
@@ -423,7 +428,7 @@ function myFunction2() {
                 success: function() {
                     $("#show_message").fadeIn();
                     //$("#ajax-form").fadeOut();
-                }
+                },
             });
         });
         return false;
