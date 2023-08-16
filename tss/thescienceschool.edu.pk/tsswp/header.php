@@ -5,7 +5,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="assets/css/use.fontawesome.com/releases/v5.7.0/css/all.css">
-
     <title>
         <?php echo $pageTitle; ?> || The Science School
     </title>
@@ -130,9 +129,9 @@
             padding: 0 !important;
         }
     </style>
-    	<link rel='stylesheet' id='pa-frontend-css' href='wp-content/uploads/premium-addons-elementor/pa-frontend-78d006582.minc28a.css?ver=1691696764' type='text/css' media='all' />
-        <link rel='stylesheet' id='wp-block-library-css' href='wp-includes/css/dist/block-library/style.minf801.css?ver=6.3' type='text/css' media='all' />
-        <link rel='stylesheet' id='pa-frontend-css' href='wp-content/uploads/premium-addons-elementor/pa-frontend-c968aad59.mine530.css?ver=1691696517' type='text/css' media='all' />
+    <link rel='stylesheet' id='pa-frontend-css' href='wp-content/uploads/premium-addons-elementor/pa-frontend-78d006582.minc28a.css?ver=1691696764' type='text/css' media='all' />
+    <link rel='stylesheet' id='wp-block-library-css' href='wp-includes/css/dist/block-library/style.minf801.css?ver=6.3' type='text/css' media='all' />
+    <link rel='stylesheet' id='pa-frontend-css' href='wp-content/uploads/premium-addons-elementor/pa-frontend-c968aad59.mine530.css?ver=1691696517' type='text/css' media='all' />
     <link rel='stylesheet' id='classic-theme-styles-inline-css' href='assets/css/classic-theme-styles-inline-css/style.css' type='text/css' media='all' />
     <link rel='stylesheet' id='global-styles-inline-css' href='assets/css/global-styles-inline-css/style-inline.css' type='text/css' media='all' />
     <link rel='stylesheet' id='wpos-magnific-style-css' href='wp-content/plugins/album-and-image-gallery-plus-lightbox/assets/css/magnific-popup1f22.css?ver=1.6.2' type='text/css' media='all' />
@@ -158,6 +157,8 @@
     <link rel='stylesheet' id='elementor-animations-css' href='wp-content/plugins/elementor/assets/lib/animations/animations.minaeb9.css?ver=3.1.4' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-frontend-css' href='wp-content/plugins/elementor/assets/css/frontend.minaeb9.css?ver=3.1.4' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-post-160-css' href='wp-content/uploads/elementor/css/post-160b34f.css?ver=1672409768' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-3043-css' href='wp-content/uploads/elementor/css/post-30438394.css?ver=1672761566' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-1959-css' href='wp-content/uploads/elementor/css/post-195980df.css?ver=1672420881' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-post-8530-css' href='wp-content/uploads/elementor/css/post-85307546.css?ver=1672412311' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-post-8679-css' href='wp-content/uploads/elementor/css/post-8679ac15.css?ver=1672412461' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-post-5924-css' href='wp-content/uploads/elementor/css/post-5924927f.css?ver=1672413232' type='text/css' media='all' />
@@ -169,12 +170,14 @@
     <link rel='stylesheet' id='elementor-icons-shared-0-css' href='wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min9e0b.css?ver=5.15.1' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-solid-css' href='wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min9e0b.css?ver=5.15.1' type='text/css' media='all' />
     <script type='text/javascript' src='wp-includes/js/jquery/jquery.min3088.js?ver=3.7.0' id='jquery-core-js'></script>
+    <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1' id='jquery-migrate-js'></script>
     <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1' id='jquery-migrate-js'></script>
     <script type='text/javascript' src='wp-content/themes/education-insight/assets/js/education-insight-custom68b3.js?ver=1' id='education-insight-custom.js-js'></script>
     <script type='text/javascript' src='wp-content/themes/education-insight/assets/js/navigation-focus68b3.js?ver=1' id='education-insight-navigation-focus-js'></script>
     <script type='text/javascript' src='wp-content/themes/education-insight/assets/js/jquery.superfish68b3.js?ver=1' id='superfish-js-js'></script>
     <script type='text/javascript' src='wp-content/themes/education-insight/assets/js/bootstrap68b3.js?ver=1' id='bootstrap.js-js'></script>
     <link rel="https://api.w.org/" href="wp-json/index.html" />
+    <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/1959.json" />
     <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/8530.json" />
     <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/8679.json" />
     <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/5924.json" />
@@ -184,15 +187,17 @@
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.html?rsd" />
     <meta name="generator" content="WordPress 6.3" />
     <link rel="canonical" href="index.html" />
+    <link rel='shortlink' href='indexbe1b.html?p=1959' />
     <link rel='shortlink' href='index9226.html?p=8530' />
-	<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed7238.json?url=https%3A%2F%2Fthescienceschool.edu.pk%2Ftsswp%2Fresults%2F" />
-	<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed81db?url=https%3A%2F%2Fthescienceschool.edu.pk%2Ftsswp%2Fresults%2F&amp;format=xml" />
+    <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed7003.json?url=https%3A%2F%2Fthescienceschool.edu.pk%2Ftsswp%2Fcelebrating-23rd-march%2F" />
+    <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed7238.json?url=https%3A%2F%2Fthescienceschool.edu.pk%2Ftsswp%2Fresults%2F" />
+    <link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed81db?url=https%3A%2F%2Fthescienceschool.edu.pk%2Ftsswp%2Fresults%2F&amp;format=xml" />
     <link rel='shortlink' href='indexe0ce.html?p=8679' />
-	<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed1abc.json?url=https%3A%2F%2Fthescienceschool.edu.pk%2Ftsswp%2Fresults2021%2F" />
-	<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embedf4d7?url=https%3A%2F%2Fthescienceschool.edu.pk%2Ftsswp%2Fresults2021%2F&amp;format=xml" />
+    <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed1abc.json?url=https%3A%2F%2Fthescienceschool.edu.pk%2Ftsswp%2Fresults2021%2F" />
+    <link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embedf4d7?url=https%3A%2F%2Fthescienceschool.edu.pk%2Ftsswp%2Fresults2021%2F&amp;format=xml" />
     <link rel='shortlink' href='index41eb.html?p=5924' />
-	<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embedc26f.json?url=https%3A%2F%2Fthescienceschool.edu.pk%2Ftsswp%2Fresult2020%2F" />
-	<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed035f?url=https%3A%2F%2Fthescienceschool.edu.pk%2Ftsswp%2Fresult2020%2F&amp;format=xml" />
+    <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embedc26f.json?url=https%3A%2F%2Fthescienceschool.edu.pk%2Ftsswp%2Fresult2020%2F" />
+    <link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed035f?url=https%3A%2F%2Fthescienceschool.edu.pk%2Ftsswp%2Fresult2020%2F&amp;format=xml" />
     <link rel='shortlink' href='indexd8eb.html?p=17' />
     <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed2460.json?url=https%3A%2F%2Fthescienceschool.edu.pk%2Ftsswp%2Fgoverning-body%2F" />
     <link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed2bca?url=https%3A%2F%2Fthescienceschool.edu.pk%2Ftsswp%2Fgoverning-body%2F&amp;format=xml" />

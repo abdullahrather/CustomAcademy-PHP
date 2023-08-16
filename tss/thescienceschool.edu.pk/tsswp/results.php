@@ -13,7 +13,7 @@ if (array_key_exists($selectedResult, $resultsData)) {
 	$selectedContent = '<div style="margin: auto;" class="alert alert-warning" role="alert"><h2 class=" elementor-heading-title elementor-size-default">Result not uploaded for the year selected.</h2></div>';
 }
 $bodyClass = "page-template-default page page-id-8530 wp-custom-logo page-two-column elementor-default elementor-kit-160 elementor-page elementor-page-8530";
-$pageTitle = "Results 2022";
+$pageTitle = "Results";
 include_once "header.php";
 ?>
 <main id="content">

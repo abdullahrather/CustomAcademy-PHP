@@ -460,10 +460,6 @@ function myFunction2() {
         }
     });
 </script>
-
-
-
-
 </body>
 
 </html>
