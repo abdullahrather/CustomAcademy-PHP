@@ -440,7 +440,7 @@ function myFunction2() {
 <script>
     document.addEventListener('DOMContentLoaded', function() {
         const menuItems = document.querySelectorAll('#menu-results .menu-item');
-
+        
         // Get the result year from the URL query string
         const queryString = window.location.search;
         const urlParams = new URLSearchParams(queryString);

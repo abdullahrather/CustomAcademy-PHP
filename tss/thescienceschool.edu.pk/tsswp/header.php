@@ -187,7 +187,7 @@
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.html?rsd" />
     <meta name="generator" content="WordPress 6.3" />
     <link rel="canonical" href="index.html" />
-    <link rel='shortlink' href='index1313.html?p=3043' 
+    <link rel='shortlink' href='index1313.html?p=3043' />
     <link rel='shortlink' href='indexbe1b.html?p=1959' />
     <link rel='shortlink' href='index9226.html?p=8530' />
     <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed7a8f.json?url=https%3A%2F%2Fthescienceschool.edu.pk%2Ftsswp%2Feducation%2Fparents-and-students%2Funiform%2F" />
@@ -225,6 +225,14 @@
 
         .heading {
             font-family: Sans-serif !important;
+        }
+    </style>
+
+    <style type="text/css" id="parents-and-students">
+        .heading-parents {
+            font-family: 'Arial', 'sans-serif';
+            color: #666c6e;
+
         }
     </style>
 </head>
