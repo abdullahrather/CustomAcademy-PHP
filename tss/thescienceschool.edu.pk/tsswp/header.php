@@ -187,8 +187,11 @@
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.html?rsd" />
     <meta name="generator" content="WordPress 6.3" />
     <link rel="canonical" href="index.html" />
+    <link rel='shortlink' href='index1313.html?p=3043' 
     <link rel='shortlink' href='indexbe1b.html?p=1959' />
     <link rel='shortlink' href='index9226.html?p=8530' />
+    <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed7a8f.json?url=https%3A%2F%2Fthescienceschool.edu.pk%2Ftsswp%2Feducation%2Fparents-and-students%2Funiform%2F" />
+    <link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embedd05b?url=https%3A%2F%2Fthescienceschool.edu.pk%2Ftsswp%2Feducation%2Fparents-and-students%2Funiform%2F&amp;format=xml" />
     <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed7003.json?url=https%3A%2F%2Fthescienceschool.edu.pk%2Ftsswp%2Fcelebrating-23rd-march%2F" />
     <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed7238.json?url=https%3A%2F%2Fthescienceschool.edu.pk%2Ftsswp%2Fresults%2F" />
     <link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed81db?url=https%3A%2F%2Fthescienceschool.edu.pk%2Ftsswp%2Fresults%2F&amp;format=xml" />
