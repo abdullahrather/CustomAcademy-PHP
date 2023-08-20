@@ -45,9 +45,10 @@ include_once "header.php";
 												<div class="elementor-element elementor-element-1d5e62d elementor-widget elementor-widget-sidebar" data-id="1d5e62d" data-element_type="widget" data-widget_type="sidebar.default">
 													<div class="elementor-widget-container">
 														<section id="nav_menu-3" class="widget widget_nav_menu">
-															<div class="menu-parent-student-side-bar-container">
-																<ul id="menu-parent-student-side-bar" class="menu">
-																	<li id="menu-item-3072" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3043 current_page_item menu-item-3072"><a href="parents-and-students.php?section=uniform" aria-current="page">Uniform</a></li>
+															<div class="menu-education-side-bar-container">
+																<ul id="menu-education-side-bar" class="menu">
+																<li id="menu-item-3072" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item current_page_item"><a href="parents-and-students.php?section=parents-and-students" aria-current="page">Parents And Students</a></li>
+																	<li id="menu-item-3072" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3072"><a href="parents-and-students.php?section=uniform">Uniform</a></li>
 																	<li id="menu-item-3065" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3065"><a href="parents-and-students.php?section=medical-assistance">Medical Assistance</a></li>
 																	<li id="menu-item-3063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3063"><a href="parents-and-students.php?section=attendance">Attendance</a></li>
 																	<li id="menu-item-3066" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3066"><a href="parents-and-students.php?section=report-to-student-and-parents">Report to Student and Parents</a></li>

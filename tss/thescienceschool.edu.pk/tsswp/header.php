@@ -11,8 +11,6 @@
     <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
     <meta name='robots' content='max-image-preview:large' />
     <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-    <link rel="alternate" type="application/rss+xml" title="The Science School &raquo; Feed" href="feed/index.html" />
-    <link rel="alternate" type="application/rss+xml" title="The Science School &raquo; Comments Feed" href="comments/feed/index.html" />
     <script type="text/javascript">
         window._wpemojiSettings = {
             "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/",
@@ -157,6 +155,9 @@
     <link rel='stylesheet' id='elementor-animations-css' href='wp-content/plugins/elementor/assets/lib/animations/animations.minaeb9.css?ver=3.1.4' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-frontend-css' href='wp-content/plugins/elementor/assets/css/frontend.minaeb9.css?ver=3.1.4' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-post-160-css' href='wp-content/uploads/elementor/css/post-160b34f.css?ver=1672409768' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-2827-css' href='wp-content/uploads/elementor/css/post-2827032f.css?ver=1672452762' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-2823-css' href='wp-content/uploads/elementor/css/post-2823e4b6.css?ver=1672575723' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-2903-css' href='wp-content/uploads/elementor/css/post-2903e858.css?ver=1672761583' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-post-3043-css' href='wp-content/uploads/elementor/css/post-30438394.css?ver=1672761566' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-post-1959-css' href='wp-content/uploads/elementor/css/post-195980df.css?ver=1672420881' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-post-8530-css' href='wp-content/uploads/elementor/css/post-85307546.css?ver=1672412311' type='text/css' media='all' />

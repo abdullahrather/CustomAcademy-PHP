@@ -436,24 +436,24 @@ function myFunction2() {
     });
 </script>
 
-<!-- Results menu item set current_page_item -->
+<!-- menu item set current_page_item -->
 <script>
     document.addEventListener('DOMContentLoaded', function() {
-        const menuItems = document.querySelectorAll('#menu-results .menu-item');
+        const menuItems = document.querySelectorAll('#menu-education-side-bar .menu-item');
         
-        // Get the result year from the URL query string
+        // Get the section from the URL query string
         const queryString = window.location.search;
         const urlParams = new URLSearchParams(queryString);
-        const selectedResult = urlParams.get('result');
+        const selectedSection = urlParams.get('section');
 
-        if (selectedResult) {
+        if (selectedSection) {
             // Remove 'current' class from all menu items
             menuItems.forEach(item => {
                 item.classList.remove('current-menu-item', 'current_page_item');
             });
 
             // Find the corresponding menu item and add 'current' class
-            const selectedItem = document.querySelector(`#menu-results .menu-item a[href*="result=${selectedResult}"]`);
+            const selectedItem = document.querySelector(`#menu-education-side-bar .menu-item a[href*="section=${selectedSection}"]`);
             if (selectedItem) {
                 selectedItem.parentNode.classList.add('current-menu-item', 'current_page_item');
             }
