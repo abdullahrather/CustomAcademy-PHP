@@ -54,7 +54,7 @@ include_once "header.php";
 																	<div class="elementor-widget-container">
 																		<div class="elementor-image">
 																			<figure class="wp-caption">
-																				<a href="students-achievements/index.html">
+																				<a href="students-achievements.php">
 																					<img decoding="async" src="wp-content/uploads/elementor/thumbs/e-7-1-p5b6zw42qy960qv03ipi5yo6mkgg52d0esbl4q26vs.png" title="e-7" alt="e-7" /> </a>
 																				<figcaption class="widget-image-caption wp-caption-text">High Achievers / Pride of TSS</figcaption>
 																			</figure>
@@ -65,7 +65,7 @@ include_once "header.php";
 																	<div class="elementor-widget-container">
 																		<div class="elementor-image">
 																			<figure class="wp-caption">
-																				<a href="results/index.html">
+																				<a href="results.php">
 																					<img width="53" height="51" src="wp-content/uploads/2021/04/e-14.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" /> </a>
 																				<figcaption class="widget-image-caption wp-caption-text">Results 2022</figcaption>
 																			</figure>
@@ -76,7 +76,7 @@ include_once "header.php";
 																	<div class="elementor-widget-container">
 																		<div class="elementor-image">
 																			<figure class="wp-caption">
-																				<a href="news/index.html">
+																				<a href="news.php">
 																					<img width="60" height="39" src="wp-content/uploads/2021/04/e-6.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" /> </a>
 																				<figcaption class="widget-image-caption wp-caption-text">News<blink>*</blink>
 																				</figcaption>
@@ -88,7 +88,7 @@ include_once "header.php";
 																	<div class="elementor-widget-container">
 																		<div class="elementor-image">
 																			<figure class="wp-caption">
-																				<a href="admissions/index.html">
+																				<a href="admissions.php">
 																					<img decoding="async" src="wp-content/uploads/elementor/thumbs/students-cap-pbqv9wgqdrz26vay7xusurkum4yds1dkjtgsxsirxu.png" title="students-cap" alt="students-cap" /> </a>
 																				<figcaption class="widget-image-caption wp-caption-text">Apply for Admission</figcaption>
 																			</figure>
@@ -129,7 +129,7 @@ include_once "header.php";
 																</div>
 																<div class="elementor-element elementor-element-d3afa49 elementor-widget elementor-widget-text-editor" data-id="d3afa49" data-element_type="widget" data-widget_type="text-editor.default">
 																	<div class="elementor-widget-container">
-																		<div class="elementor-text-editor elementor-clearfix"><a style="float: right; color: white; font-size: 12px; margin-right: 25px; margin-top: -0.1vw;" href="results/index.html" target="_blank" rel="noopener">Read More <i class="fa fa-caret-right" style="font-size: 12px; color: white;"></i></a></div>
+																		<div class="elementor-text-editor elementor-clearfix"><a style="float: right; color: white; font-size: 12px; margin-right: 25px; margin-top: -0.1vw;" href="results.php" target="_blank" rel="noopener">Read More <i class="fa fa-caret-right" style="font-size: 12px; color: white;"></i></a></div>
 																	</div>
 																</div>
 															</div>
@@ -482,7 +482,7 @@ include_once "header.php";
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div class="elementor-element elementor-element-4220031 elementor-widget elementor-widget-html" data-id="4220031" data-element_type="widget" data-widget_type="html.default">
 													<div class="elementor-widget-container">
-														<section id="how-it-work" style="background-image:url(https_/thescienceschool.edu.pk/tsswp/wp-content/uploads/2021/gallery/award-ceremony/IMG_5285-Medium.html)">
+														<section id="how-it-work" style="background-image:url(wp-content/uploads/2021/gallery/award-ceremony/IMG_5285-Medium.jpg)">
 
 															<section id="courses">
 																<div class="container">
@@ -575,7 +575,7 @@ include_once "header.php";
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div class="elementor-element elementor-element-a866782 elementor-widget elementor-widget-html" data-id="a866782" data-element_type="widget" data-widget_type="html.default">
 													<div class="elementor-widget-container">
-														<section id="about-us" style="background-image:url(https_/thescienceschool.edu.pk/tsswp/wp-content/uploads/2021/11/girl-1-1.html)">
+														<section id="about-us" style="background-image:url(assets/images/girl-1-1.jpg)">
 															<div class="container" style="padding-top:53px;padding-bottom:50px;">
 																<div class="row" id="whyTssPad">
 																	<div class="col-lg-6 offset-lg-2 col-md-7 col-12">
@@ -593,7 +593,7 @@ include_once "header.php";
 																				&nbsp; &nbsp;&nbsp; Two - <b>PROGRESSION</b>
 																				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 																				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-																				<a href="why-tss/index.html" style=" font-size:12px">Read More
+																				<a href="why-tss.php" style=" font-size:12px">Read More
 																					<i class="fa fa-caret-right"></i></a>
 																			</p>
 
@@ -712,7 +712,7 @@ include_once "header.php";
 												<div class="elementor-element elementor-element-d15ee41 elementor-align-right board_mem_button elementor-widget__width-inherit elementor-widget elementor-widget-button" data-id="d15ee41" data-element_type="widget" data-widget_type="button.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-button-wrapper">
-															<a href="board-members/index.html" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+															<a href="board-members.php" class="elementor-button-link elementor-button elementor-size-xs" role="button">
 																<span class="elementor-button-content-wrapper">
 																	<span class="elementor-button-text">Read More >></span>
 																</span>

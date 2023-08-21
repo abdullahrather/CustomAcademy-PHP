@@ -155,6 +155,8 @@
     <link rel='stylesheet' id='elementor-animations-css' href='wp-content/plugins/elementor/assets/lib/animations/animations.minaeb9.css?ver=3.1.4' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-frontend-css' href='wp-content/plugins/elementor/assets/css/frontend.minaeb9.css?ver=3.1.4' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-post-160-css' href='wp-content/uploads/elementor/css/post-160b34f.css?ver=1672409768' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-45-css' href='wp-content/uploads/elementor/css/post-45f726.css?ver=1672420894' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-22-css' href='wp-content/uploads/elementor/css/post-2254cc.css?ver=1672414037' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-post-2827-css' href='wp-content/uploads/elementor/css/post-2827032f.css?ver=1672452762' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-post-2823-css' href='wp-content/uploads/elementor/css/post-2823e4b6.css?ver=1672575723' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-post-2903-css' href='wp-content/uploads/elementor/css/post-2903e858.css?ver=1672761583' type='text/css' media='all' />
@@ -275,16 +277,16 @@
                                         <div class="gb_navigation clearfix">
                                             <ul id="menu-left-menu" class="clearfix mobile_nav">
                                                 <li id="menu-item-23" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-23">
-                                                    <a href="http://thescienceschool.edu.pk/tsswp" aria-current="page">Home</a>
+                                                    <a href="index.php" aria-current="page">Home</a>
                                                 </li>
                                                 <li id="menu-item-3979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3979">
-                                                    <a href="mission-statements/index.html">Mission Statement</a>
+                                                    <a href="mission-statements.php">Mission Statement</a>
                                                 </li>
                                                 <li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36">
-                                                    <a href="governing-body/index.html">Governing Body</a>
+                                                    <a href="governing-body.php">Governing Body</a>
                                                 </li>
                                                 <li id="menu-item-8549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8549">
-                                                    <a href="results/index.html">Results 2022 <blink style="color:  red;">*</blink></a>
+                                                    <a href="results.php">Results 2022 <blink style="color:  red;">*</blink></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -304,30 +306,30 @@
                                                 <div class="gb_navigation clearfix">
                                                     <ul id="menu-righ-menu" class="clearfix mobile_nav">
                                                         <li id="menu-item-1960" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1960">
-                                                            <a href="celebrating-23rd-march/index.html">Celebrating 23rd March</a>
+                                                            <a href="celebrating-23rd-march.php">Celebrating 23rd March</a>
                                                         </li>
                                                         <li id="menu-item-4719" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4719">
                                                             <a href="#">Education</a>
                                                             <ul class="sub-menu">
                                                                 <li id="menu-item-2816" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2816">
-                                                                    <a href="education/parents-and-students/index.html">Parents and Students</a>
+                                                                    <a href="parents-and-students.php">Parents and Students</a>
                                                                 </li>
                                                                 <li id="menu-item-2820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2820">
-                                                                    <a href="education/teaching-and-learning/index.html">Teaching and Learning</a>
+                                                                    <a href="teaching-and-learning.php">Teaching and Learning</a>
                                                                 </li>
                                                                 <li id="menu-item-2824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2824">
-                                                                    <a href="education/activities/index.html">Activities</a>
+                                                                    <a href="activities.php">Activities</a>
                                                                 </li>
                                                                 <li id="menu-item-2831" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2831">
-                                                                    <a href="education/science-and-tech-at-tss/index.html">Science and Tech at TSS</a>
+                                                                    <a href="science-and-tech-at-tss.php">Science and Tech at TSS</a>
                                                                 </li>
                                                             </ul>
                                                         </li>
                                                         <li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34">
-                                                            <a href="why-tss/index.html">Why TSS</a>
+                                                            <a href="why-tss.php">Why TSS</a>
                                                         </li>
                                                         <li id="menu-item-1963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1963">
-                                                            <a href="gallery/index.html">Gallery</a>
+                                                            <a href="gallery.php">Gallery</a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -339,49 +341,49 @@
                                             <p>Menu</p>
                                         </button>
                                     </div>
+                                    <!-- Menu items for Mobile View -->
                                     <div class="menu_box_mobile">
-
                                         <div id="gb_responsive" class="nav side_gb_nav mobile_menu_nav">
                                             <nav id="top_gb_menu" class="gb_nav_menu" role="navigation" aria-label="Mobile Menu">
                                                 <div class="gb_navigation clearfix">
                                                     <ul id="menu-mobile_menu" class="clearfix mobile_nav">
                                                         <li id="menu-item-1037" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-90 current_page_item menu-item-1037">
-                                                            <a href="index.html" aria-current="page">Home</a>
+                                                            <a href="index.php" aria-current="page">Home</a>
                                                         </li>
                                                         <li id="menu-item-1034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1034">
-                                                            <a href="governing-body/index.html">Governing Body</a>
+                                                            <a href="governing-body.php">Governing Body</a>
                                                         </li>
                                                         <li id="menu-item-8545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8545">
-                                                            <a href="results/index.html">Results 2022</a>
+                                                            <a href="results.php">Results 2022</a>
                                                         </li>
                                                         <li id="menu-item-1033" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1033">
-                                                            <a href="admissions/index.html">admissions</a>
+                                                            <a href="admissions.php">admissions</a>
                                                         </li>
                                                         <li id="menu-item-6436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6436">
-                                                            <a href="mission-statements/index.html">Mission Statements</a>
+                                                            <a href="mission-statements.php">Mission Statements</a>
                                                         </li>
                                                         <li id="menu-item-4958" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4958">
                                                             <a href="#">Education</a>
                                                             <ul class="sub-menu">
                                                                 <li id="menu-item-4955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4955">
-                                                                    <a href="education/parents-and-students/index.html">Parents and Students</a>
+                                                                    <a href="parents-and-students.php">Parents and Students</a>
                                                                 </li>
                                                                 <li id="menu-item-4957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4957">
-                                                                    <a href="education/teaching-and-learning/index.html">Teaching and Learning</a>
+                                                                    <a href="teaching-and-learning.php">Teaching and Learning</a>
                                                                 </li>
                                                                 <li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954">
-                                                                    <a href="education/activities/index.html">Activities</a>
+                                                                    <a href="activities.php">Activities</a>
                                                                 </li>
                                                                 <li id="menu-item-4956" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4956">
-                                                                    <a href="education/science-and-tech-at-tss/index.html">Science and Tech at TSS</a>
+                                                                    <a href="science-and-tech-at-tss.php">Science and Tech at TSS</a>
                                                                 </li>
                                                             </ul>
                                                         </li>
                                                         <li id="menu-item-1029" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1029">
-                                                            <a href="why-tss/index.html">Why TSS</a>
+                                                            <a href="why-tss.php">Why TSS</a>
                                                         </li>
                                                         <li id="menu-item-1027" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1027">
-                                                            <a href="gallery/index.html">Gallery</a>
+                                                            <a href="gallery.php">Gallery</a>
                                                         </li>
                                                     </ul>
                                                 </div> <a href="javascript:void(0)" class="closebtn gb_menu" onclick="education_insight_gb_Menu_close()">x<span class="screen-reader-text">Close Menu</span></a>

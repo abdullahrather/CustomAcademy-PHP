@@ -436,11 +436,11 @@ function myFunction2() {
     });
 </script>
 
-<!-- menu item set current_page_item -->
+<!-- Side Bar menu items set current_page_item -->
 <script>
     document.addEventListener('DOMContentLoaded', function() {
         const menuItems = document.querySelectorAll('#menu-education-side-bar .menu-item');
-        
+
         // Get the section from the URL query string
         const queryString = window.location.search;
         const urlParams = new URLSearchParams(queryString);
@@ -458,6 +458,25 @@ function myFunction2() {
                 selectedItem.parentNode.classList.add('current-menu-item', 'current_page_item');
             }
         }
+    });
+</script>
+<!-- Header menu items set current_page_item -->
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const headerMenuItems = document.querySelectorAll('#menu-left-menu .menu-item, #menu-righ-menu .menu-item, #menu-mobile_menu .menu-item, .sub-menu .menu-item');
+
+        // Get the current page filename from the URL
+        const currentPage = window.location.pathname.split('/').pop();
+
+        // Loop through menu items and compare with current page filename
+        headerMenuItems.forEach(item => {
+            const link = item.querySelector('a');
+            if (link.getAttribute('href') === currentPage) {
+                item.classList.add('current-menu-item', 'current_page_item');
+            } else {
+                item.classList.remove('current-menu-item', 'current_page_item');
+            }
+        });
     });
 </script>
 </body>
