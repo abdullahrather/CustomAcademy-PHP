@@ -172,6 +172,18 @@
 <script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/popper.min001e.js?ver=2.0.0" id="htmega-popper-js"></script>
 <script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/htbbootstrap001e.js?ver=2.0.0" id="htbbootstrap-js"></script>
 <script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/waypoints001e.js?ver=2.0.0" id="waypoints-js"></script>
+<script type="text/javascript" src="wp-content/plugins/album-and-image-gallery-plus-lightbox/assets/js/jquery.magnific-popup.min1f22.js?ver=1.6.2" id="wpos-magnific-script-js"></script>
+<script type='text/javascript' id='aigpl-public-js-js-extra'>
+		/* <![CDATA[ */
+		var Aigpl = {
+			is_mobile: 0,
+			is_rtl: 0,
+			mfp_img_counter: "%curr% of %total%",
+			is_avada: 0
+		};
+		/* ]]> */
+	</script>
+    <script type="text/javascript" src="wp-content/plugins/album-and-image-gallery-plus-lightbox/assets/js/aigpl-public1f22.js?ver=1.6.2" id="aigpl-public-js-js"></script>
 <script type="text/javascript" src="wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/universal-tilt.min8e83.js?ver=4.9.10" id="tilt-js-js"></script>
 <script type="text/javascript" src="wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/typed.min8e83.js?ver=4.9.10" id="pa-typed-js"></script>
 <script type="text/javascript" src="wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/vticker.min8e83.js?ver=4.9.10" id="pa-vticker-js"></script>

@@ -411,8 +411,8 @@
                         </div>
                         <div class="col-lg-2 col-md-3 col-sm-3">
                             <div class="logo1">
-                                <a href="index.html" class="custom-logo-link" rel="home" aria-current="page"><img width="216" height="240" src="wp-content/uploads/2021/04/cropped-tss-logo-e1637560635321.jpg" class="custom-logo" alt="The Science School" decoding="async" fetchpriority="high" /></a>
-                                <p class="site-title"><a href="index.html" rel="home">The Science School</a></p>
+                                <a href="index.php" class="custom-logo-link" rel="home" aria-current="page"><img width="216" height="240" src="wp-content/uploads/2021/04/cropped-tss-logo-e1637560635321.jpg" class="custom-logo" alt="The Science School" decoding="async" fetchpriority="high" /></a>
+                                <p class="site-title"><a href="index.php" rel="home">The Science School</a></p>
                             </div>
                         </div>
                         <div class="col-lg-5 col-md-4 col-sm-4" style="text-align:right">
@@ -427,8 +427,8 @@
                     <div class="mobile_header" id="head_down_content">
                         <div class="row">
                             <div class="logo col-3">
-                                <a href="index.html" class="custom-logo-link" rel="home" aria-current="page"><img width="216" height="240" src="wp-content/uploads/2021/04/cropped-tss-logo-e1637560635321.jpg" class="custom-logo" alt="The Science School" decoding="async" /></a>
-                                <p class="site-title"><a href="index.html" rel="home">The Science School</a></p>
+                                <a href="index.php" class="custom-logo-link" rel="home" aria-current="page"><img width="216" height="240" src="wp-content/uploads/2021/04/cropped-tss-logo-e1637560635321.jpg" class="custom-logo" alt="The Science School" decoding="async" /></a>
+                                <p class="site-title"><a href="index.php" rel="home">The Science School</a></p>
                             </div>
                             <div class="col-9" style="text-align:left">
                                 <div class="menu_down_h"> <b>
