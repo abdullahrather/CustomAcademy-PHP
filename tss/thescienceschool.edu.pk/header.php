@@ -154,7 +154,11 @@
     <link rel='stylesheet' id='elementor-icons-css' href='wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min21f9.css?ver=5.11.0' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-animations-css' href='wp-content/plugins/elementor/assets/lib/animations/animations.minaeb9.css?ver=3.1.4' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-frontend-css' href='wp-content/plugins/elementor/assets/css/frontend.minaeb9.css?ver=3.1.4' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-post-160-css' href='wp-content/uploads/elementor/css/post-160b34f.css?ver=1672409768' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-160-css' href='wp-content/uploads/elementor/css/post-160b34f.css?ver=1672409768' type='text/css' media='all' />    
+    <link rel='stylesheet' id='elementor-post-18-css' href='wp-content/uploads/elementor/css/post-18216d.css?ver=1682509436' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-1844-css' href='wp-content/uploads/elementor/css/post-184412be.css?ver=1672421716' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-6914-css' href='wp-content/uploads/elementor/css/post-69149b89.css?ver=1672414371' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-6717-css' href='wp-content/uploads/elementor/css/post-671750bc.css?ver=1672563541' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-post-45-css' href='wp-content/uploads/elementor/css/post-45f726.css?ver=1672420894' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-post-22-css' href='wp-content/uploads/elementor/css/post-2254cc.css?ver=1672414037' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-post-2827-css' href='wp-content/uploads/elementor/css/post-2827032f.css?ver=1672452762' type='text/css' media='all' />
