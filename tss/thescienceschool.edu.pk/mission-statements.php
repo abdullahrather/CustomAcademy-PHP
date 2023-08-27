@@ -34,7 +34,7 @@ include_once "header.php";
 																src="wp-content/uploads/2021/05/mission-banner-2.jpg"
 																class="attachment-full size-full" alt=""
 																decoding="async"
-																srcset="https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2021/05/mission-banner-2.jpg 1118w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2021/05/mission-banner-2-300x66.jpg 300w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2021/05/mission-banner-2-1024x226.jpg 1024w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2021/05/mission-banner-2-768x170.jpg 768w"
+																srcset="wp-content/uploads/2021/05/mission-banner-2.jpg 1118w, wp-content/uploads/2021/05/mission-banner-2.jpg 300w, wp-content/uploads/2021/05/mission-banner-2.jpg 1024w, wp-content/uploads/2021/05/mission-banner-2.jpg 768w"
 																sizes="(max-width: 1118px) 100vw, 1118px" />
 														</div>
 													</div>

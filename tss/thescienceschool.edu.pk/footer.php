@@ -101,12 +101,6 @@
                             </div>
                         </section>
                     </div>
-                    <!-- 		<div class="widget-column footer-widget-3 col-lg-3 col-md-3">
-			<//?php dynamic_sidebar( 'footer-3' ); ?>
-		</div>
-		<div class="widget-column footer-widget-4 col-lg-3 col-md-3">
-			<//?php dynamic_sidebar( 'footer-4' ); ?>
-		</div> -->
                 </div>
             </aside>
         </div>
@@ -166,53 +160,38 @@
     }
     wpfront_scroll_top_init();
 </script>
-<link rel="stylesheet" id="htmega-widgets-css" href="wp-content/plugins/ht-mega-for-elementor/assets/css/htmega-widgets001e.css?ver=2.0.0" type="text/css" media="all" />
-<link rel="stylesheet" id="slick-css" href="wp-content/plugins/ht-mega-for-elementor/assets/css/slick.min001e.css?ver=2.0.0" type="text/css" media="all" />
-<script type="text/javascript" src="wp-content/plugins/wpfront-scroll-top/js/wpfront-scroll-top.minb0d2.js?ver=2.0.4.04013" id="wpfront-scroll-top-js" async="async" defer="defer"></script>
-<script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/popper.min001e.js?ver=2.0.0" id="htmega-popper-js"></script>
-<script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/htbbootstrap001e.js?ver=2.0.0" id="htbbootstrap-js"></script>
-<script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/waypoints001e.js?ver=2.0.0" id="waypoints-js"></script>
-<script type="text/javascript" src="wp-content/plugins/album-and-image-gallery-plus-lightbox/assets/js/jquery.magnific-popup.min1f22.js?ver=1.6.2" id="wpos-magnific-script-js"></script>
+<link rel="stylesheet" id="htmega-widgets-css" href="wp-content/plugins/ht-mega-for-elementor/assets/css/htmega-widgets001e.css" type="text/css" media="all" />
+<link rel="stylesheet" id="slick-css" href="wp-content/plugins/ht-mega-for-elementor/assets/css/slick.min001e.css" type="text/css" media="all" />
+<script type="text/javascript" src="wp-content/plugins/wpfront-scroll-top/js/wpfront-scroll-top.minb0d2.js" id="wpfront-scroll-top-js" async="async" defer="defer"></script>
+<script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/popper.min001e.js" id="htmega-popper-js"></script>
+<script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/htbbootstrap001e.js" id="htbbootstrap-js"></script>
+<script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/waypoints001e.js" id="waypoints-js"></script>
+<script type="text/javascript" src="wp-content/plugins/album-and-image-gallery-plus-lightbox/assets/js/jquery.magnific-popup.min1f22.js" id="wpos-magnific-script-js"></script>
 <script type='text/javascript' id='aigpl-public-js-js-extra'>
-		/* <![CDATA[ */
-		var Aigpl = {
-			is_mobile: 0,
-			is_rtl: 0,
-			mfp_img_counter: "%curr% of %total%",
-			is_avada: 0
-		};
-		/* ]]> */
-	</script>
-    <script type="text/javascript" src="wp-content/plugins/album-and-image-gallery-plus-lightbox/assets/js/aigpl-public1f22.js?ver=1.6.2" id="aigpl-public-js-js"></script>
-<script type="text/javascript" src="wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/universal-tilt.min8e83.js?ver=4.9.10" id="tilt-js-js"></script>
-<script type="text/javascript" src="wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/typed.min8e83.js?ver=4.9.10" id="pa-typed-js"></script>
-<script type="text/javascript" src="wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/vticker.min8e83.js?ver=4.9.10" id="pa-vticker-js"></script>
-<script type="text/javascript" id="premium-addons-js-extra">
     /* <![CDATA[ */
-    var PremiumSettings = {
-        "ajaxurl": "https:\/\/thescienceschool.edu.pk\/tsswp\/wp-admin\/admin-ajax.php",
-        "nonce": "925a204c33"
+    var Aigpl = {
+        is_mobile: 0,
+        is_rtl: 0,
+        mfp_img_counter: "%curr% of %total%",
+        is_avada: 0
     };
     /* ]]> */
 </script>
-<script type="text/javascript" src="wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/premium-addons.min8e83.js?ver=4.9.10" id="premium-addons-js"></script>
-<script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/slick.min001e.js?ver=2.0.0" id="slick-js"></script>
-<script type="text/javascript" src="wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/lottie.min8e83.js?ver=4.9.10" id="lottie-js-js"></script>
-<script type="text/javascript" id="htmega-widgets-scripts-js-extra">
-    /* <![CDATA[ */
-    var HTMEGAF = {
-        "elementorpro": ""
-    };
-    /* ]]> */
-</script>
-<script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/htmega-widgets-active001e.js?ver=2.0.0" id="htmega-widgets-scripts-js"></script>
-<script type="text/javascript" src="wp-content/plugins/elementor/assets/js/webpack.runtime.minaeb9.js?ver=3.1.4" id="elementor-webpack-runtime-js"></script>
-<script type="text/javascript" src="wp-content/plugins/elementor/assets/js/frontend-modules.minaeb9.js?ver=3.1.4" id="elementor-frontend-modules-js"></script>
-<script type="text/javascript" src="wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2" id="jquery-ui-core-js"></script>
-<script type="text/javascript" src="wp-content/plugins/elementor/assets/lib/dialog/dialog.mina288.js?ver=4.8.1" id="elementor-dialog-js"></script>
-<script type="text/javascript" src="wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2" id="elementor-waypoints-js"></script>
-<script type="text/javascript" src="wp-content/plugins/elementor/assets/lib/share-link/share-link.minaeb9.js?ver=3.1.4" id="share-link-js"></script>
-<script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/swiper.min001e.js?ver=2.0.0" id="swiper-js"></script>
+<script type="text/javascript" src="wp-content/plugins/album-and-image-gallery-plus-lightbox/assets/js/aigpl-public1f22.js" id="aigpl-public-js-js"></script>
+<script type="text/javascript" src="wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/universal-tilt.min8e83.js" id="tilt-js-js"></script>
+<script type="text/javascript" src="wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/typed.min8e83.js" id="pa-typed-js"></script>
+<script type="text/javascript" src="wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/vticker.min8e83.js" id="pa-vticker-js"></script>
+<script type="text/javascript" src="wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/premium-addons.min8e83.js" id="premium-addons-js"></script>
+<script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/slick.min001e.js" id="slick-js"></script>
+<script type="text/javascript" src="wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/lottie.min8e83.js" id="lottie-js-js"></script>
+<script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/htmega-widgets-active001e.js" id="htmega-widgets-scripts-js"></script>
+<script type="text/javascript" src="wp-content/plugins/elementor/assets/js/webpack.runtime.minaeb9.js" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="wp-content/plugins/elementor/assets/js/frontend-modules.minaeb9.js" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" src="wp-includes/js/jquery/ui/core.min3f14.js" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="wp-content/plugins/elementor/assets/lib/dialog/dialog.mina288.js" id="elementor-dialog-js"></script>
+<script type="text/javascript" src="wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js" id="elementor-waypoints-js"></script>
+<script type="text/javascript" src="wp-content/plugins/elementor/assets/lib/share-link/share-link.minaeb9.js" id="share-link-js"></script>
+<script type="text/javascript" src="wp-content/plugins/ht-mega-for-elementor/assets/js/swiper.min001e.js" id="swiper-js"></script>
 <script id="elementor-frontend-js-before" type="text/javascript">
     var elementorFrontendConfig = {
         environmentMode: {
@@ -252,7 +231,7 @@
             "landing-pages": true,
         },
         urls: {
-            assets: "https:\/\/thescienceschool.edu.pk\/tsswp\/wp-content\/plugins\/elementor\/assets\/",
+            assets: "wp-content/plugins/elementor/assets/",
         },
         settings: {
             page: [],
@@ -275,8 +254,8 @@
         },
     };
 </script>
-<script type="text/javascript" src="wp-content/plugins/elementor/assets/js/frontend.minaeb9.js?ver=3.1.4" id="elementor-frontend-js"></script>
-<script type="text/javascript" src="wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.minaeb9.js?ver=3.1.4" id="preloaded-elements-handlers-js"></script>
+<script type="text/javascript" src="wp-content/plugins/elementor/assets/js/frontend.minaeb9.js" id="elementor-frontend-js"></script>
+<script type="text/javascript" src="wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.minaeb9.js" id="preloaded-elements-handlers-js"></script>
 
 <!-- <script>
 window.onload = function() {

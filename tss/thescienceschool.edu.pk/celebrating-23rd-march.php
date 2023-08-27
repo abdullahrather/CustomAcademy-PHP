@@ -47,7 +47,7 @@ include_once "header.php";
 												<div class="elementor-element elementor-element-97e67c7 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="97e67c7" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;hosted&quot;,&quot;_animation&quot;:&quot;none&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
 													<div class="elementor-widget-container">
 														<div class="e-hosted-video elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
-															<video class="elementor-video" src="https://thescienceschool.edu.pk/webportal/wp-content/uploads/2021/04/website-videonew.mp4" controls="" controlsList="nodownload"></video>
+															<video class="elementor-video" src="assets/videos/23rd-march-celebration.mp4" controls="" controlsList="nodownload"></video>
 														</div>
 													</div>
 												</div>

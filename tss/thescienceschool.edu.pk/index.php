@@ -116,7 +116,7 @@ include_once "header.php";
 																<div class="elementor-element elementor-element-395ccd7 elementor-widget elementor-widget-image" data-id="395ccd7" data-element_type="widget" data-widget_type="image.default">
 																	<div class="elementor-widget-container">
 																		<div class="elementor-image">
-																			<img width="525" height="233" src="wp-content/uploads/2021/11/SubhanAllah-1-1024x454.png" class="attachment-large size-large" alt="" decoding="async" srcset="https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2021/11/SubhanAllah-1-1024x454.png 1024w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2021/11/SubhanAllah-1-300x133.png 300w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2021/11/SubhanAllah-1-768x341.png 768w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2021/11/SubhanAllah-1-1536x681.png 1536w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2021/11/SubhanAllah-1-2048x908.png 2048w" sizes="(max-width: 525px) 100vw, 525px" />
+																			<img width="525" height="233" src="wp-content/uploads/2021/11/SubhanAllah-1-1024x454.png" class="attachment-large size-large" alt="" decoding="async" srcset="wp-content/uploads/2021/11/SubhanAllah-1-1024x454.png 1024w, wp-content/uploads/2021/11/SubhanAllah-1-1024x454.png 300w, wp-content/uploads/2021/11/SubhanAllah-1-1024x454.png 768w, wp-content/uploads/2021/11/SubhanAllah-1-1024x454.png 1536w, wp-content/uploads/2021/11/SubhanAllah-1-1024x454.png 2048w" sizes="(max-width: 525px) 100vw, 525px" />
 																		</div>
 																	</div>
 																</div>
@@ -139,7 +139,7 @@ include_once "header.php";
 																<div class="elementor-element elementor-element-7e75b40 elementor-hidden-tablet elementor-hidden-phone elementor-widget elementor-widget-image" data-id="7e75b40" data-element_type="widget" data-widget_type="image.default">
 																	<div class="elementor-widget-container">
 																		<div class="elementor-image">
-																			<img loading="lazy" width="525" height="350" src="wp-content/uploads/2022/01/DSC2775-1024x683.jpg" class="elementor-animation-grow attachment-large size-large" alt="" decoding="async" srcset="https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/01/DSC2775-1024x683.jpg 1024w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/01/DSC2775-300x200.jpg 300w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/01/DSC2775-768x512.jpg 768w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/01/DSC2775.jpg 1200w" sizes="(max-width: 525px) 100vw, 525px" />
+																			<img loading="lazy" width="525" height="350" src="wp-content/uploads/2022/01/DSC2775-1024x683.jpg" class="elementor-animation-grow attachment-large size-large" alt="" decoding="async" srcset="wp-content/uploads/2022/01/DSC2775-1024x683.jpg 1024w, wp-content/uploads/2022/01/DSC2775-1024x683.jpg 300w, wp-content/uploads/2022/01/DSC2775-1024x683.jpg 768w, wp-content/uploads/2022/01/DSC2775-1024x683.jpg 1200w" sizes="(max-width: 525px) 100vw, 525px" />
 																		</div>
 																	</div>
 																</div>
@@ -192,7 +192,7 @@ include_once "header.php";
 												<div class="elementor-element elementor-element-444e6fc elementor-widget elementor-widget-image" data-id="444e6fc" data-element_type="widget" data-widget_type="image.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-image">
-															<img loading="lazy" width="1240" height="1754" src="wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-2022.png" class="elementor-animation-float attachment-full size-full" alt="" decoding="async" srcset="https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-2022.png 1240w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-2022-212x300.png 212w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-2022-724x1024.png 724w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-2022-768x1086.png 768w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-2022-1086x1536.png 1086w" sizes="(max-width: 1240px) 100vw, 1240px" />
+															<img loading="lazy" width="1240" height="1754" src="wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-2022.png" class="elementor-animation-float attachment-full size-full" alt="" decoding="async" srcset="wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-2022.png 1240w, wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-2022.png 212w, wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-2022.png 724w, wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-2022.png 768w, wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-2022.png 1086w" sizes="(max-width: 1240px) 100vw, 1240px" />
 														</div>
 													</div>
 												</div>
@@ -203,7 +203,7 @@ include_once "header.php";
 												<div class="elementor-element elementor-element-69a5ec3 elementor-widget elementor-widget-image" data-id="69a5ec3" data-element_type="widget" data-widget_type="image.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-image">
-															<img loading="lazy" width="1240" height="1754" src="wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20222.png" class="elementor-animation-float attachment-full size-full" alt="" decoding="async" srcset="https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20222.png 1240w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20222-212x300.png 212w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20222-724x1024.png 724w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20222-768x1086.png 768w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20222-1086x1536.png 1086w" sizes="(max-width: 1240px) 100vw, 1240px" />
+															<img loading="lazy" width="1240" height="1754" src="wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20222.png" class="elementor-animation-float attachment-full size-full" alt="" decoding="async" srcset="wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20222.png 1240w, wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20222.png 212w, wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20222.png 724w, wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20222.png 768w, wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20222.png 1086w" sizes="(max-width: 1240px) 100vw, 1240px" />
 														</div>
 													</div>
 												</div>
@@ -214,7 +214,7 @@ include_once "header.php";
 												<div class="elementor-element elementor-element-5d4bb50 elementor-widget elementor-widget-image" data-id="5d4bb50" data-element_type="widget" data-widget_type="image.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-image">
-															<img loading="lazy" width="1240" height="1754" src="wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20223.png" class="elementor-animation-float attachment-full size-full" alt="" decoding="async" srcset="https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20223.png 1240w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20223-212x300.png 212w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20223-724x1024.png 724w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20223-768x1086.png 768w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20223-1086x1536.png 1086w" sizes="(max-width: 1240px) 100vw, 1240px" />
+															<img loading="lazy" width="1240" height="1754" src="wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20223.png" class="elementor-animation-float attachment-full size-full" alt="" decoding="async" srcset="wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20223.png 1240w, wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20223.png 212w, wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20223.png 724w, wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20223.png 768w, wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20223.png 1086w" sizes="(max-width: 1240px) 100vw, 1240px" />
 														</div>
 													</div>
 												</div>
@@ -392,7 +392,7 @@ include_once "header.php";
 																<div class="htb-col-md-4 htb-col-sm-6 htb-col-12">
 																	<div class="htmega-singleimage-grid htmega-singleimage-gridstyle-">
 																		<div class="thumb">
-																			<img loading="lazy" width="396" height="400" src="wp-content/uploads/2022/03/d53e256e-76a7-45c5-8bff-fcaebb1d96e6.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/03/d53e256e-76a7-45c5-8bff-fcaebb1d96e6.jpg 396w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/03/d53e256e-76a7-45c5-8bff-fcaebb1d96e6-297x300.jpg 297w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/03/d53e256e-76a7-45c5-8bff-fcaebb1d96e6-100x100.jpg 100w" sizes="(max-width: 396px) 100vw, 396px" />
+																			<img loading="lazy" width="396" height="400" src="wp-content/uploads/2022/03/d53e256e-76a7-45c5-8bff-fcaebb1d96e6.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="wp-content/uploads/2022/03/d53e256e-76a7-45c5-8bff-fcaebb1d96e6.jpg 396w, wp-content/uploads/2022/03/d53e256e-76a7-45c5-8bff-fcaebb1d96e6.jpg 297w, wp-content/uploads/2022/03/d53e256e-76a7-45c5-8bff-fcaebb1d96e6.jpg 100w" sizes="(max-width: 396px) 100vw, 396px" />
 																		</div>
 																		<div class="image-grid-content">
 																			<div class="hover-action">
@@ -405,7 +405,7 @@ include_once "header.php";
 																<div class="htb-col-md-4 htb-col-sm-6 htb-col-12">
 																	<div class="htmega-singleimage-grid htmega-singleimage-gridstyle-">
 																		<div class="thumb">
-																			<img loading="lazy" width="525" height="342" src="wp-content/uploads/2022/03/IMG_20220306_194435-1024x668.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/03/IMG_20220306_194435-1024x668.jpg 1024w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/03/IMG_20220306_194435-300x196.jpg 300w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/03/IMG_20220306_194435-768x501.jpg 768w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/03/IMG_20220306_194435-1536x1002.jpg 1536w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/03/IMG_20220306_194435-2048x1335.jpg 2048w" sizes="(max-width: 525px) 100vw, 525px" />
+																			<img loading="lazy" width="525" height="342" src="wp-content/uploads/2022/03/IMG_20220306_194435-1024x668.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="wp-content/uploads/2022/03/IMG_20220306_194435-1024x668.jpg 1024w, wp-content/uploads/2022/03/IMG_20220306_194435-1024x668.jpg 300w, wp-content/uploads/2022/03/IMG_20220306_194435-1024x668.jpg 768w, wp-content/uploads/2022/03/IMG_20220306_194435-1024x668.jpg 1536w, wp-content/uploads/2022/03/IMG_20220306_194435-1024x668.jpg 2048w" sizes="(max-width: 525px) 100vw, 525px" />
 																		</div>
 																		<div class="image-grid-content">
 																			<div class="hover-action">
@@ -418,7 +418,7 @@ include_once "header.php";
 																<div class="htb-col-md-4 htb-col-sm-6 htb-col-12">
 																	<div class="htmega-singleimage-grid htmega-singleimage-gridstyle-">
 																		<div class="thumb">
-																			<img loading="lazy" width="405" height="400" src="wp-content/uploads/2022/03/ae33771a-626e-4afb-b062-39f5289a1c57.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/03/ae33771a-626e-4afb-b062-39f5289a1c57.jpg 405w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/03/ae33771a-626e-4afb-b062-39f5289a1c57-300x296.jpg 300w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/03/ae33771a-626e-4afb-b062-39f5289a1c57-100x100.jpg 100w" sizes="(max-width: 405px) 100vw, 405px" />
+																			<img loading="lazy" width="405" height="400" src="wp-content/uploads/2022/03/ae33771a-626e-4afb-b062-39f5289a1c57.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="wp-content/uploads/2022/03/ae33771a-626e-4afb-b062-39f5289a1c57.jpg 405w, wp-content/uploads/2022/03/ae33771a-626e-4afb-b062-39f5289a1c57.jpg 300w, wp-content/uploads/2022/03/ae33771a-626e-4afb-b062-39f5289a1c57.jpg 100w" sizes="(max-width: 405px) 100vw, 405px" />
 																		</div>
 																		<div class="image-grid-content">
 																			<div class="hover-action">
@@ -431,7 +431,7 @@ include_once "header.php";
 																<div class="htb-col-md-4 htb-col-sm-6 htb-col-12">
 																	<div class="htmega-singleimage-grid htmega-singleimage-gridstyle-">
 																		<div class="thumb">
-																			<img loading="lazy" width="525" height="413" src="wp-content/uploads/2022/03/Pic-NUST-Competition-1024x805.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/03/Pic-NUST-Competition-1024x805.jpg 1024w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/03/Pic-NUST-Competition-300x236.jpg 300w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/03/Pic-NUST-Competition-768x604.jpg 768w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/03/Pic-NUST-Competition-1536x1208.jpg 1536w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/03/Pic-NUST-Competition-2048x1610.jpg 2048w" sizes="(max-width: 525px) 100vw, 525px" />
+																			<img loading="lazy" width="525" height="413" src="wp-content/uploads/2022/03/Pic-NUST-Competition-1024x805.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="wp-content/uploads/2022/03/Pic-NUST-Competition-1024x805.jpg 1024w, wp-content/uploads/2022/03/Pic-NUST-Competition-1024x805.jpg 300w, wp-content/uploads/2022/03/Pic-NUST-Competition-1024x805.jpg 768w, wp-content/uploads/2022/03/Pic-NUST-Competition-1024x805.jpg 1536w, wp-content/uploads/2022/03/Pic-NUST-Competition-1024x805.jpg 2048w" sizes="(max-width: 525px) 100vw, 525px" />
 																		</div>
 																		<div class="image-grid-content">
 																			<div class="hover-action">
@@ -444,7 +444,7 @@ include_once "header.php";
 																<div class="htb-col-md-4 htb-col-sm-6 htb-col-12">
 																	<div class="htmega-singleimage-grid htmega-singleimage-gridstyle-">
 																		<div class="thumb">
-																			<img loading="lazy" width="525" height="295" src="wp-content/uploads/2022/03/105c50db-693e-4eb9-bcaf-113a1910efdd.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/03/105c50db-693e-4eb9-bcaf-113a1910efdd.jpg 711w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/03/105c50db-693e-4eb9-bcaf-113a1910efdd-300x169.jpg 300w" sizes="(max-width: 525px) 100vw, 525px" />
+																			<img loading="lazy" width="525" height="295" src="wp-content/uploads/2022/03/105c50db-693e-4eb9-bcaf-113a1910efdd.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="wp-content/uploads/2022/03/105c50db-693e-4eb9-bcaf-113a1910efdd.jpg 711w, wp-content/uploads/2022/03/105c50db-693e-4eb9-bcaf-113a1910efdd.jpg 300w" sizes="(max-width: 525px) 100vw, 525px" />
 																		</div>
 																		<div class="image-grid-content">
 																			<div class="hover-action">
@@ -457,7 +457,7 @@ include_once "header.php";
 																<div class="htb-col-md-4 htb-col-sm-6 htb-col-12">
 																	<div class="htmega-singleimage-grid htmega-singleimage-gridstyle-">
 																		<div class="thumb">
-																			<img loading="lazy" width="401" height="400" src="wp-content/uploads/2022/03/8d8867b1-3655-439b-aa0f-b38e3e3b5f7e.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/03/8d8867b1-3655-439b-aa0f-b38e3e3b5f7e.jpg 401w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/03/8d8867b1-3655-439b-aa0f-b38e3e3b5f7e-300x300.jpg 300w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/03/8d8867b1-3655-439b-aa0f-b38e3e3b5f7e-150x150.jpg 150w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2022/03/8d8867b1-3655-439b-aa0f-b38e3e3b5f7e-100x100.jpg 100w" sizes="(max-width: 401px) 100vw, 401px" />
+																			<img loading="lazy" width="401" height="400" src="wp-content/uploads/2022/03/8d8867b1-3655-439b-aa0f-b38e3e3b5f7e.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="wp-content/uploads/2022/03/8d8867b1-3655-439b-aa0f-b38e3e3b5f7e.jpg 401w, wp-content/uploads/2022/03/8d8867b1-3655-439b-aa0f-b38e3e3b5f7e.jpg 300w, wp-content/uploads/2022/03/8d8867b1-3655-439b-aa0f-b38e3e3b5f7e.jpg 150w, wp-content/uploads/2022/03/8d8867b1-3655-439b-aa0f-b38e3e3b5f7e.jpg 100w" sizes="(max-width: 401px) 100vw, 401px" />
 																		</div>
 																		<div class="image-grid-content">
 																			<div class="hover-action">
@@ -732,7 +732,7 @@ include_once "header.php";
 													<div class="elementor-widget-container">
 														<h2 class="elementor-heading-title elementor-size-default">
 															<h3 class="heading" style="margin-right: 0px; margin-left: 0px; outline: none; box-sizing: inherit; font-family: Roboto Slab; font-weight: 800; line-height: 48px; font-size: 30px; transition-duration: 1s; text-align: center; white-space: normal;">Contact Details</h3>
-															<hr style="background-color:black" ; width:20%">
+															<hr style="background-color:black;">
 														</h2>
 													</div>
 												</div>
@@ -746,7 +746,7 @@ include_once "header.php";
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div class="elementor-element elementor-element-60cee2b elementor-widget elementor-widget-google_maps" data-id="60cee2b" data-element_type="widget" data-widget_type="google_maps.default">
 													<div class="elementor-widget-container">
-														<div class="elementor-custom-embed"><iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=The%20Science%20School&amp;t=m&amp;z=10&amp;output=embed&amp;iwloc=near" title="The Science School" aria-label="The Science School"></iframe></div>
+														<div class="elementor-custom-embed"><iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=The+Science+School&amp;t=m&amp;z=10&amp;output=embed&amp;iwloc=near" title="The Science School" aria-label="The Science School"></iframe></div>
 													</div>
 												</div>
 											</div>
