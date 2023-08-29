@@ -81,14 +81,14 @@ include_once "header.php";
 																<div class="elementor-element elementor-element-290751e elementor-widget elementor-widget-image" data-id="290751e" data-element_type="widget" data-widget_type="image.default">
 																	<div class="elementor-widget-container">
 																		<div class="elementor-image">
-																			<img width="525" height="345" src="wp-content/uploads/2021/05/hamza_portrait1-1024x672.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2021/05/hamza_portrait1-1024x672.jpg 1024w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2021/05/hamza_portrait1-300x197.jpg 300w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2021/05/hamza_portrait1-768x504.jpg 768w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2021/05/hamza_portrait1.jpg 1344w" sizes="(max-width: 525px) 100vw, 525px" />
+																			<img width="525" height="345" src="wp-content/uploads/2021/05/hamza_portrait1-1024x672.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="wp-content/uploads/2021/05/hamza_portrait1-1024x672.jpg 1024w, wp-content/uploads/2021/05/hamza_portrait1-1024x672.jpg 300w, wp-content/uploads/2021/05/hamza_portrait1-1024x672.jpg 768w, wp-content/uploads/2021/05/hamza_portrait1-1024x672.jpg 1344w" sizes="(max-width: 525px) 100vw, 525px" />
 																		</div>
 																	</div>
 																</div>
 																<div class="elementor-element elementor-element-e86cc35 elementor-widget elementor-widget-image" data-id="e86cc35" data-element_type="widget" data-widget_type="image.default">
 																	<div class="elementor-widget-container">
 																		<div class="elementor-image">
-																			<img width="525" height="295" src="wp-content/uploads/2021/05/Hamza-Khan-2.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2021/05/Hamza-Khan-2.jpg 960w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2021/05/Hamza-Khan-2-300x169.jpg 300w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2021/05/Hamza-Khan-2-768x432.jpg 768w" sizes="(max-width: 525px) 100vw, 525px" />
+																			<img width="525" height="295" src="wp-content/uploads/2021/05/Hamza-Khan-2.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="wp-content/uploads/2021/05/Hamza-Khan-2.jpg 960w, wp-content/uploads/2021/05/Hamza-Khan-2.jpg 300w, wp-content/uploads/2021/05/Hamza-Khan-2.jpg 768w" sizes="(max-width: 525px) 100vw, 525px" />
 																		</div>
 																	</div>
 																</div>
@@ -98,44 +98,10 @@ include_once "header.php";
 												</section>
 												<div class="elementor-element elementor-element-a0a659b elementor-widget elementor-widget-html" data-id="a0a659b" data-element_type="widget" data-widget_type="html.default">
 													<div class="elementor-widget-container">
-														<!--<div class=" content_page">-->
-														<!--<div class="row">-->
-														<!--    <div class="col-lg-9 col-md-8 col-sm-8">-->
-														<!--   <h2 style="color: #343434; margin-bottom:18px;">Mission Statement-->
-														<!--</h2> -->
-														<!--<h3  style="color: #343434; margin-bottom:18px;"> Hamza Khan of The Science School is top in Pakistan in Cambridge IGCSE Paksitan </h3>-->
-														<!--        <p>-->
-														<!--A Superb Performance MashaAllah!!-->
-
-
-
-														<!--Muhammad Hamza Khan appeared in the 2019 Cambridge Examinations. Hamza scored an A* in all 9 Subjects! Cambridge has now announced Hamza is Top in Pakistan in Physics IGCSE 2019 Examinations. This is Eight in the World!-->
-
-
-														<!--Congratulations Hamza! Congratulations Parents and School!-->
-														<!--Hamza joined The Science School in Class 6 in 2013. We wish him great success in the future as well.</p>-->
-														<!--    </div>-->
-														<!--    <div class="col-lg-3 col-md-4 col-sm-4"><img decoding="async" src="http://demo.thescienceschool.edu.pk/wp-content/uploads/2019/11/hamza_portrait1.jpg">-->
-
-														<!--        <img decoding="async" src="http://demo.thescienceschool.edu.pk/wp-content/uploads/2019/11/Hamza-Khan-2.jpg" style="margin-top: 14px;">-->
-
-														<!--    </div>-->
-
-														<!--</div>-->
-
-
-
-
 														<h2 style="color: #343434; margin-top:25px;margin-bottom:18px;">Muhammad Abdullah to represent Pakistan in IMO challange</h2>
-
-
-
 														<p>Muhammad Abdullah from A Level Branch, The Science School, to represent Pakistan in the International Mathematics Olympiad to be held in the UK in July 2019!
 															Abdullah is one of 4 candidates to win selection in Team Pakistan after one year of rigorous training and testing in high level mathematics in The Science School and COMSATS!
 															“Many congratulations on making it to the final team for IMO 2019 from Pakistan. You are true assets for our country mashaAllah.” Dr Qurat-ul-Ain Azim, CUI Lahore..</p>
-
-
-
 													</div>
 												</div>
 												<section class="elementor-section elementor-inner-section elementor-element elementor-element-b02b1df elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b02b1df" data-element_type="section">

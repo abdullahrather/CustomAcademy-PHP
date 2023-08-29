@@ -457,12 +457,13 @@ function myFunction2() {
         const headerMenuItems = document.querySelectorAll('#menu-left-menu .menu-item, #menu-righ-menu .menu-item, #menu-mobile_menu .menu-item, .sub-menu .menu-item');
 
         // Get the current page filename from the URL
-        const currentPage = window.location.pathname.split('/').pop();
+        const currentPage = window.location.pathname.split('/').filter(segment => segment.trim() !== '').pop() || 'index.php';
 
         // Loop through menu items and compare with current page filename
         headerMenuItems.forEach(item => {
             const link = item.querySelector('a');
-            if (link.getAttribute('href') === currentPage) {
+            const itemUrl = link.getAttribute('href');
+            if (itemUrl === currentPage) {
                 item.classList.add('current-menu-item', 'current_page_item');
             } else {
                 item.classList.remove('current-menu-item', 'current_page_item');
@@ -470,6 +471,8 @@ function myFunction2() {
         });
     });
 </script>
+
+
 </body>
 
 </html>
