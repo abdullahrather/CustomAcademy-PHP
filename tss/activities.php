@@ -40,7 +40,7 @@ include_once "header.php";
 												<div class="elementor-element elementor-element-d005580 elementor-widget elementor-widget-image" data-id="d005580" data-element_type="widget" data-widget_type="image.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-image">
-															<img width="245" height="147" src="wp-content/uploads/2021/08/1.jpg" class="attachment-large size-large" alt="" decoding="async" />
+															<img width="245" height="147" src="assets/uploads/2021/08/1.jpg" class="attachment-large size-large" alt="" decoding="async" />
 														</div>
 													</div>
 												</div>
@@ -51,7 +51,7 @@ include_once "header.php";
 												<div class="elementor-element elementor-element-000e253 elementor-widget elementor-widget-image" data-id="000e253" data-element_type="widget" data-widget_type="image.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-image">
-															<img width="245" height="147" src="wp-content/uploads/2021/08/2.jpg" class="attachment-large size-large" alt="" decoding="async" />
+															<img width="245" height="147" src="assets/uploads/2021/08/2.jpg" class="attachment-large size-large" alt="" decoding="async" />
 														</div>
 													</div>
 												</div>
@@ -62,7 +62,7 @@ include_once "header.php";
 												<div class="elementor-element elementor-element-d9ae4c1 elementor-widget elementor-widget-image" data-id="d9ae4c1" data-element_type="widget" data-widget_type="image.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-image">
-															<img width="245" height="147" src="wp-content/uploads/2021/08/3.jpg" class="attachment-large size-large" alt="" decoding="async" />
+															<img width="245" height="147" src="assets/uploads/2021/08/3.jpg" class="attachment-large size-large" alt="" decoding="async" />
 														</div>
 													</div>
 												</div>
@@ -73,7 +73,7 @@ include_once "header.php";
 												<div class="elementor-element elementor-element-7870174 elementor-widget elementor-widget-image" data-id="7870174" data-element_type="widget" data-widget_type="image.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-image">
-															<img loading="lazy" width="245" height="147" src="wp-content/uploads/2021/08/4.jpg" class="attachment-large size-large" alt="" decoding="async" />
+															<img loading="lazy" width="245" height="147" src="assets/uploads/2021/08/4.jpg" class="attachment-large size-large" alt="" decoding="async" />
 														</div>
 													</div>
 												</div>
@@ -116,7 +116,7 @@ include_once "header.php";
 												<div class="elementor-element elementor-element-cf4bdc3 elementor-widget elementor-widget-image" data-id="cf4bdc3" data-element_type="widget" data-widget_type="image.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-image">
-															<img loading="lazy" width="245" height="147" src="wp-content/uploads/2021/08/1a.jpg" class="attachment-large size-large" alt="" decoding="async" />
+															<img loading="lazy" width="245" height="147" src="assets/uploads/2021/08/1a.jpg" class="attachment-large size-large" alt="" decoding="async" />
 														</div>
 													</div>
 												</div>
@@ -127,7 +127,7 @@ include_once "header.php";
 												<div class="elementor-element elementor-element-ebab1c8 elementor-widget elementor-widget-image" data-id="ebab1c8" data-element_type="widget" data-widget_type="image.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-image">
-															<img loading="lazy" width="245" height="147" src="wp-content/uploads/2021/08/2a.jpg" class="attachment-large size-large" alt="" decoding="async" />
+															<img loading="lazy" width="245" height="147" src="assets/uploads/2021/08/2a.jpg" class="attachment-large size-large" alt="" decoding="async" />
 														</div>
 													</div>
 												</div>
@@ -138,7 +138,7 @@ include_once "header.php";
 												<div class="elementor-element elementor-element-d2d33bb elementor-widget elementor-widget-image" data-id="d2d33bb" data-element_type="widget" data-widget_type="image.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-image">
-															<img loading="lazy" width="245" height="147" src="wp-content/uploads/2021/08/3a.jpg" class="attachment-large size-large" alt="" decoding="async" />
+															<img loading="lazy" width="245" height="147" src="assets/uploads/2021/08/3a.jpg" class="attachment-large size-large" alt="" decoding="async" />
 														</div>
 													</div>
 												</div>
@@ -149,7 +149,7 @@ include_once "header.php";
 												<div class="elementor-element elementor-element-f1feb48 elementor-widget elementor-widget-image" data-id="f1feb48" data-element_type="widget" data-widget_type="image.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-image">
-															<img loading="lazy" width="245" height="147" src="wp-content/uploads/2021/08/4a.jpg" class="attachment-large size-large" alt="" decoding="async" />
+															<img loading="lazy" width="245" height="147" src="assets/uploads/2021/08/4a.jpg" class="attachment-large size-large" alt="" decoding="async" />
 														</div>
 													</div>
 												</div>
@@ -193,7 +193,7 @@ include_once "header.php";
 												<div class="elementor-element elementor-element-b39b2df elementor-widget elementor-widget-image" data-id="b39b2df" data-element_type="widget" data-widget_type="image.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-image">
-															<img loading="lazy" width="245" height="147" src="wp-content/uploads/2021/08/March1.jpg" class="attachment-large size-large" alt="" decoding="async" />
+															<img loading="lazy" width="245" height="147" src="assets/uploads/2021/08/March1.jpg" class="attachment-large size-large" alt="" decoding="async" />
 														</div>
 													</div>
 												</div>
@@ -204,7 +204,7 @@ include_once "header.php";
 												<div class="elementor-element elementor-element-fbbbc60 elementor-widget elementor-widget-image" data-id="fbbbc60" data-element_type="widget" data-widget_type="image.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-image">
-															<img loading="lazy" width="245" height="147" src="wp-content/uploads/2021/08/March2.jpg" class="attachment-large size-large" alt="" decoding="async" />
+															<img loading="lazy" width="245" height="147" src="assets/uploads/2021/08/March2.jpg" class="attachment-large size-large" alt="" decoding="async" />
 														</div>
 													</div>
 												</div>
@@ -215,7 +215,7 @@ include_once "header.php";
 												<div class="elementor-element elementor-element-db3f336 elementor-widget elementor-widget-image" data-id="db3f336" data-element_type="widget" data-widget_type="image.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-image">
-															<img loading="lazy" width="245" height="147" src="wp-content/uploads/2021/08/March3.jpg" class="attachment-large size-large" alt="" decoding="async" />
+															<img loading="lazy" width="245" height="147" src="assets/uploads/2021/08/March3.jpg" class="attachment-large size-large" alt="" decoding="async" />
 														</div>
 													</div>
 												</div>
@@ -226,7 +226,7 @@ include_once "header.php";
 												<div class="elementor-element elementor-element-91c2fb6 elementor-widget elementor-widget-image" data-id="91c2fb6" data-element_type="widget" data-widget_type="image.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-image">
-															<img loading="lazy" width="245" height="147" src="wp-content/uploads/2021/08/March4.jpg" class="attachment-large size-large" alt="" decoding="async" />
+															<img loading="lazy" width="245" height="147" src="assets/uploads/2021/08/March4.jpg" class="attachment-large size-large" alt="" decoding="async" />
 														</div>
 													</div>
 												</div>

@@ -31,10 +31,10 @@ include_once "header.php";
 													<div class="elementor-widget-container">
 														<div class="elementor-image">
 															<img width="1118" height="247"
-																src="wp-content/uploads/2021/05/mission-banner-2.jpg"
+																src="assets/uploads/2021/05/mission-banner-2.jpg"
 																class="attachment-full size-full" alt=""
 																decoding="async"
-																srcset="wp-content/uploads/2021/05/mission-banner-2.jpg 1118w, wp-content/uploads/2021/05/mission-banner-2.jpg 300w, wp-content/uploads/2021/05/mission-banner-2.jpg 1024w, wp-content/uploads/2021/05/mission-banner-2.jpg 768w"
+																srcset="assets/uploads/2021/05/mission-banner-2.jpg 1118w, assets/uploads/2021/05/mission-banner-2.jpg 300w, assets/uploads/2021/05/mission-banner-2.jpg 1024w, assets/uploads/2021/05/mission-banner-2.jpg 768w"
 																sizes="(max-width: 1118px) 100vw, 1118px" />
 														</div>
 													</div>

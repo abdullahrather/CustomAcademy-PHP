@@ -10,61 +10,61 @@
         <?php echo $pageTitle; ?> || The Science School
     </title>
     <link rel="stylesheet" href="assets/css/use.fontawesome.com/releases/v5.7.0/css/all.css">
-    <link rel='stylesheet' id='pa-frontend-css' href='wp-content/uploads/premium-addons-elementor/pa-frontend-78d006582.minc28a.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='pa-frontend-css' href='assets/uploads/premium-addons-elementor/pa-frontend-78d006582.minc28a.css' type='text/css' media='all' />
     <link rel='stylesheet' id='wp-block-library-css' href='wp-includes/css/dist/block-library/style.minf801.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='pa-frontend-css' href='wp-content/uploads/premium-addons-elementor/pa-frontend-c968aad59.mine530.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='pa-frontend-css' href='assets/uploads/premium-addons-elementor/pa-frontend-c968aad59.mine530.css' type='text/css' media='all' />
     <link rel='stylesheet' id='classic-theme-styles-inline-css' href='assets/css/classic-theme-styles-inline-css/style.css' type='text/css' media='all' />
     <link rel='stylesheet' id='global-styles-inline-css' href='assets/css/global-styles-inline-css/style-inline.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='wpos-magnific-style-css' href='wp-content/plugins/album-and-image-gallery-plus-lightbox/assets/css/magnific-popup1f22.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='wpos-slick-style-css' href='wp-content/plugins/album-and-image-gallery-plus-lightbox/assets/css/slick1f22.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='aigpl-public-css-css' href='wp-content/plugins/album-and-image-gallery-plus-lightbox/assets/css/aigpl-public1f22.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='wpfront-scroll-top-css' href='wp-content/plugins/wpfront-scroll-top/css/wpfront-scroll-top.minb0d2.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='htbbootstrap-css' href='wp-content/plugins/ht-mega-for-elementor/assets/css/htbbootstrap001e.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='font-awesome-css' href='wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min1849.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='htmega-animation-css' href='wp-content/plugins/ht-mega-for-elementor/assets/css/animation001e.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='htmega-keyframes-css' href='wp-content/plugins/ht-mega-for-elementor/assets/css/htmega-keyframes001e.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='bootstrap-style-css' href='wp-content/themes/education-insight/assets/css/bootstrapf801.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='chld_thm_cfg_parent-css' href='wp-content/themes/education-insight/stylef801.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='wpos-magnific-style-css' href='assets/plugins/album-and-image-gallery-plus-lightbox/assets/css/magnific-popup1f22.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='wpos-slick-style-css' href='assets/plugins/album-and-image-gallery-plus-lightbox/assets/css/slick1f22.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='aigpl-public-css-css' href='assets/plugins/album-and-image-gallery-plus-lightbox/assets/css/aigpl-public1f22.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='wpfront-scroll-top-css' href='assets/plugins/wpfront-scroll-top/css/wpfront-scroll-top.minb0d2.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='htbbootstrap-css' href='assets/plugins/ht-mega-for-elementor/assets/css/htbbootstrap001e.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='font-awesome-css' href='assets/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min1849.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='htmega-animation-css' href='assets/plugins/ht-mega-for-elementor/assets/css/animation001e.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='htmega-keyframes-css' href='assets/plugins/ht-mega-for-elementor/assets/css/htmega-keyframes001e.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='bootstrap-style-css' href='assets/themes/education-insight/assets/css/bootstrapf801.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='chld_thm_cfg_parent-css' href='assets/themes/education-insight/stylef801.css' type='text/css' media='all' />
     <link rel='stylesheet' id='education-insight-fonts-css' href='assets/fonts/css/roboto.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='education-insight-style-css' href='wp-content/themes/education-insight-child03/style03a8.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='education-insight-style-css' href='assets/themes/education-insight-child03/style03a8.css' type='text/css' media='all' />
     <style id='education-insight-style-inline-css' type='text/css'>
         .wrap_figure.fixed {
             position: static;
         }
     </style>
-    <link rel='stylesheet' id='font-awesome-style-css' href='wp-content/themes/education-insight/assets/css/fontawesome-allf801.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='education-insight-block-style-css' href='wp-content/themes/education-insight/assets/css/blocksf801.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-icons-css' href='wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min21f9.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-animations-css' href='wp-content/plugins/elementor/assets/lib/animations/animations.minaeb9.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-frontend-css' href='wp-content/plugins/elementor/assets/css/frontend.minaeb9.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-post-160-css' href='wp-content/uploads/elementor/css/post-160b34f.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-post-18-css' href='wp-content/uploads/elementor/css/post-18216d.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-post-1844-css' href='wp-content/uploads/elementor/css/post-184412be.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-post-6914-css' href='wp-content/uploads/elementor/css/post-69149b89.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-post-6717-css' href='wp-content/uploads/elementor/css/post-671750bc.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-post-45-css' href='wp-content/uploads/elementor/css/post-45f726.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-post-22-css' href='wp-content/uploads/elementor/css/post-2254cc.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-post-2827-css' href='wp-content/uploads/elementor/css/post-2827032f.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-post-2823-css' href='wp-content/uploads/elementor/css/post-2823e4b6.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-post-2903-css' href='wp-content/uploads/elementor/css/post-2903e858.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-post-3043-css' href='wp-content/uploads/elementor/css/post-30438394.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-post-1959-css' href='wp-content/uploads/elementor/css/post-195980df.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-post-8530-css' href='wp-content/uploads/elementor/css/post-85307546.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-post-8679-css' href='wp-content/uploads/elementor/css/post-8679ac15.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-post-5924-css' href='wp-content/uploads/elementor/css/post-5924927f.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-post-90-css' href='wp-content/uploads/elementor/css/post-90d10b.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-post-17-css' href='wp-content/uploads/elementor/css/post-17a82b.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-post-3971-css' href='wp-content/uploads/elementor/css/post-3971624c.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='font-awesome-style-css' href='assets/themes/education-insight/assets/css/fontawesome-allf801.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='education-insight-block-style-css' href='assets/themes/education-insight/assets/css/blocksf801.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-icons-css' href='assets/plugins/elementor/assets/lib/eicons/css/elementor-icons.min21f9.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-animations-css' href='assets/plugins/elementor/assets/lib/animations/animations.minaeb9.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-frontend-css' href='assets/plugins/elementor/assets/css/frontend.minaeb9.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-160-css' href='assets/uploads/elementor/css/post-160b34f.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-18-css' href='assets/uploads/elementor/css/post-18216d.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-1844-css' href='assets/uploads/elementor/css/post-184412be.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-6914-css' href='assets/uploads/elementor/css/post-69149b89.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-6717-css' href='assets/uploads/elementor/css/post-671750bc.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-45-css' href='assets/uploads/elementor/css/post-45f726.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-22-css' href='assets/uploads/elementor/css/post-2254cc.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-2827-css' href='assets/uploads/elementor/css/post-2827032f.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-2823-css' href='assets/uploads/elementor/css/post-2823e4b6.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-2903-css' href='assets/uploads/elementor/css/post-2903e858.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-3043-css' href='assets/uploads/elementor/css/post-30438394.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-1959-css' href='assets/uploads/elementor/css/post-195980df.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-8530-css' href='assets/uploads/elementor/css/post-85307546.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-8679-css' href='assets/uploads/elementor/css/post-8679ac15.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-5924-css' href='assets/uploads/elementor/css/post-5924927f.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-90-css' href='assets/uploads/elementor/css/post-90d10b.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-17-css' href='assets/uploads/elementor/css/post-17a82b.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-3971-css' href='assets/uploads/elementor/css/post-3971624c.css' type='text/css' media='all' />
     <link rel='stylesheet' id='google-fonts-1-css' href='assets/fonts/css/roboto-italic.css' type='text/css' media='all' />
     <link rel='stylesheet' id='google-fonts-1-css' href='assets/fonts/css/roboto-italic-2.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-icons-shared-0-css' href='wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min9e0b.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-icons-fa-solid-css' href='wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min9e0b.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-icons-shared-0-css' href='assets/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min9e0b.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-icons-fa-solid-css' href='assets/plugins/elementor/assets/lib/font-awesome/css/solid.min9e0b.css' type='text/css' media='all' />
     <script type='text/javascript' src='wp-includes/js/jquery/jquery.min3088.js' id='jquery-core-js'></script>
     <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
-    <script type='text/javascript' src='wp-content/themes/education-insight/assets/js/education-insight-custom68b3.js' id='education-insight-custom.js-js'></script>
-    <script type='text/javascript' src='wp-content/themes/education-insight/assets/js/navigation-focus68b3.js' id='education-insight-navigation-focus-js'></script>
-    <script type='text/javascript' src='wp-content/themes/education-insight/assets/js/jquery.superfish68b3.js' id='superfish-js-js'></script>
-    <script type='text/javascript' src='wp-content/themes/education-insight/assets/js/bootstrap68b3.js' id='bootstrap.js-js'></script>
+    <script type='text/javascript' src='assets/themes/education-insight/assets/js/education-insight-custom68b3.js' id='education-insight-custom.js-js'></script>
+    <script type='text/javascript' src='assets/themes/education-insight/assets/js/navigation-focus68b3.js' id='education-insight-navigation-focus-js'></script>
+    <script type='text/javascript' src='assets/themes/education-insight/assets/js/jquery.superfish68b3.js' id='superfish-js-js'></script>
+    <script type='text/javascript' src='assets/themes/education-insight/assets/js/bootstrap68b3.js' id='bootstrap.js-js'></script>
 
     <style type="text/css" id="wp-custom-css">
         #how-it-work:before {
@@ -255,12 +255,12 @@
                         </div>
                         <div class="col-lg-2 col-md-3 col-sm-3">
                             <div class="logo1">
-                                <a href="index.php" class="custom-logo-link" rel="home" aria-current="page"><img width="216" height="240" src="wp-content/uploads/2021/04/cropped-tss-logo-e1637560635321.jpg" class="custom-logo" alt="The Science School" decoding="async" fetchpriority="high" /></a>
+                                <a href="index.php" class="custom-logo-link" rel="home" aria-current="page"><img width="216" height="240" src="assets/uploads/2021/04/cropped-tss-logo-e1637560635321.jpg" class="custom-logo" alt="The Science School" decoding="async" fetchpriority="high" /></a>
                                 <p class="site-title"><a href="index.php" rel="home">The Science School</a></p>
                             </div>
                         </div>
                         <div class="col-lg-5 col-md-4 col-sm-4" style="text-align:right">
-                            <img src="wp-content/uploads/2021/03/Arbi.png">
+                            <img src="assets/uploads/2021/03/Arbi.png">
                             <i>
                                 <p class="menu_down_p_right">“And give us (the grace) to lead the righteous.”(Al Quran)
                                 </p>
@@ -271,7 +271,7 @@
                     <div class="mobile_header" id="head_down_content">
                         <div class="row">
                             <div class="logo col-3">
-                                <a href="index.php" class="custom-logo-link" rel="home" aria-current="page"><img width="216" height="240" src="wp-content/uploads/2021/04/cropped-tss-logo-e1637560635321.jpg" class="custom-logo" alt="The Science School" decoding="async" /></a>
+                                <a href="index.php" class="custom-logo-link" rel="home" aria-current="page"><img width="216" height="240" src="assets/uploads/2021/04/cropped-tss-logo-e1637560635321.jpg" class="custom-logo" alt="The Science School" decoding="async" /></a>
                                 <p class="site-title"><a href="index.php" rel="home">The Science School</a></p>
                             </div>
                             <div class="col-9" style="text-align:left">
@@ -284,7 +284,7 @@
                             </div>
                         </div>
                         <div style="text-align:right">
-                            <img src="wp-content/uploads/2021/03/Arbi.png">
+                            <img src="assets/uploads/2021/03/Arbi.png">
                             <i>
                                 <p class="menu_down_p_right">“And give us (the grace) to lead the righteous.”(Al Quran)
                                 </p>

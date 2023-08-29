@@ -80,19 +80,19 @@ include_once "header.php";
 														<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
 															<div class="elementor-image-carousel swiper-wrapper">
 																<div class="swiper-slide">
-																	<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2021/04/7.jpg" alt="7" /></figure>
+																	<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="assets/uploads/2021/04/7.jpg" alt="7" /></figure>
 																</div>
 																<div class="swiper-slide">
-																	<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2021/04/5-300x200.jpg" alt="5" /></figure>
+																	<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="assets/uploads/2021/04/5-300x200.jpg" alt="5" /></figure>
 																</div>
 																<div class="swiper-slide">
-																	<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2021/04/10-300x200.jpg" alt="10" /></figure>
+																	<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="assets/uploads/2021/04/10-300x200.jpg" alt="10" /></figure>
 																</div>
 																<div class="swiper-slide">
-																	<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2021/04/8-300x200.jpg" alt="8" /></figure>
+																	<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="assets/uploads/2021/04/8-300x200.jpg" alt="8" /></figure>
 																</div>
 																<div class="swiper-slide">
-																	<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2021/04/558-300x200.jpg" alt="558" /></figure>
+																	<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="assets/uploads/2021/04/558-300x200.jpg" alt="558" /></figure>
 																</div>
 															</div>
 															<div class="swiper-pagination"></div>

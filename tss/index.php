@@ -55,7 +55,7 @@ include_once "header.php";
 																		<div class="elementor-image">
 																			<figure class="wp-caption">
 																				<a href="students-achievements.php">
-																					<img decoding="async" src="wp-content/uploads/elementor/thumbs/e-7-1-p5b6zw42qy960qv03ipi5yo6mkgg52d0esbl4q26vs.png" title="e-7" alt="e-7" /> </a>
+																					<img decoding="async" src="assets/uploads/elementor/thumbs/e-7-1-p5b6zw42qy960qv03ipi5yo6mkgg52d0esbl4q26vs.png" title="e-7" alt="e-7" /> </a>
 																				<figcaption class="widget-image-caption wp-caption-text">High Achievers / Pride of TSS</figcaption>
 																			</figure>
 																		</div>
@@ -66,7 +66,7 @@ include_once "header.php";
 																		<div class="elementor-image">
 																			<figure class="wp-caption">
 																				<a href="results.php">
-																					<img width="53" height="51" src="wp-content/uploads/2021/04/e-14.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" /> </a>
+																					<img width="53" height="51" src="assets/uploads/2021/04/e-14.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" /> </a>
 																				<figcaption class="widget-image-caption wp-caption-text">Results 2022</figcaption>
 																			</figure>
 																		</div>
@@ -77,7 +77,7 @@ include_once "header.php";
 																		<div class="elementor-image">
 																			<figure class="wp-caption">
 																				<a href="news.php">
-																					<img width="60" height="39" src="wp-content/uploads/2021/04/e-6.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" /> </a>
+																					<img width="60" height="39" src="assets/uploads/2021/04/e-6.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" /> </a>
 																				<figcaption class="widget-image-caption wp-caption-text">News<blink>*</blink>
 																				</figcaption>
 																			</figure>
@@ -89,7 +89,7 @@ include_once "header.php";
 																		<div class="elementor-image">
 																			<figure class="wp-caption">
 																				<a href="admissions.php">
-																					<img decoding="async" src="wp-content/uploads/elementor/thumbs/students-cap-pbqv9wgqdrz26vay7xusurkum4yds1dkjtgsxsirxu.png" title="students-cap" alt="students-cap" /> </a>
+																					<img decoding="async" src="assets/uploads/elementor/thumbs/students-cap-pbqv9wgqdrz26vay7xusurkum4yds1dkjtgsxsirxu.png" title="students-cap" alt="students-cap" /> </a>
 																				<figcaption class="widget-image-caption wp-caption-text">Apply for Admission</figcaption>
 																			</figure>
 																		</div>
@@ -116,7 +116,7 @@ include_once "header.php";
 																<div class="elementor-element elementor-element-395ccd7 elementor-widget elementor-widget-image" data-id="395ccd7" data-element_type="widget" data-widget_type="image.default">
 																	<div class="elementor-widget-container">
 																		<div class="elementor-image">
-																			<img width="525" height="233" src="wp-content/uploads/2021/11/SubhanAllah-1-1024x454.png" class="attachment-large size-large" alt="" decoding="async" srcset="wp-content/uploads/2021/11/SubhanAllah-1-1024x454.png 1024w, wp-content/uploads/2021/11/SubhanAllah-1-1024x454.png 300w, wp-content/uploads/2021/11/SubhanAllah-1-1024x454.png 768w, wp-content/uploads/2021/11/SubhanAllah-1-1024x454.png 1536w, wp-content/uploads/2021/11/SubhanAllah-1-1024x454.png 2048w" sizes="(max-width: 525px) 100vw, 525px" />
+																			<img width="525" height="233" src="assets/uploads/2021/11/SubhanAllah-1-1024x454.png" class="attachment-large size-large" alt="" decoding="async" srcset="assets/uploads/2021/11/SubhanAllah-1-1024x454.png 1024w, assets/uploads/2021/11/SubhanAllah-1-1024x454.png 300w, assets/uploads/2021/11/SubhanAllah-1-1024x454.png 768w, assets/uploads/2021/11/SubhanAllah-1-1024x454.png 1536w, assets/uploads/2021/11/SubhanAllah-1-1024x454.png 2048w" sizes="(max-width: 525px) 100vw, 525px" />
 																		</div>
 																	</div>
 																</div>
@@ -139,7 +139,7 @@ include_once "header.php";
 																<div class="elementor-element elementor-element-7e75b40 elementor-hidden-tablet elementor-hidden-phone elementor-widget elementor-widget-image" data-id="7e75b40" data-element_type="widget" data-widget_type="image.default">
 																	<div class="elementor-widget-container">
 																		<div class="elementor-image">
-																			<img loading="lazy" width="525" height="350" src="wp-content/uploads/2022/01/DSC2775-1024x683.jpg" class="elementor-animation-grow attachment-large size-large" alt="" decoding="async" srcset="wp-content/uploads/2022/01/DSC2775-1024x683.jpg 1024w, wp-content/uploads/2022/01/DSC2775-1024x683.jpg 300w, wp-content/uploads/2022/01/DSC2775-1024x683.jpg 768w, wp-content/uploads/2022/01/DSC2775-1024x683.jpg 1200w" sizes="(max-width: 525px) 100vw, 525px" />
+																			<img loading="lazy" width="525" height="350" src="assets/uploads/2022/01/DSC2775-1024x683.jpg" class="elementor-animation-grow attachment-large size-large" alt="" decoding="async" srcset="assets/uploads/2022/01/DSC2775-1024x683.jpg 1024w, assets/uploads/2022/01/DSC2775-1024x683.jpg 300w, assets/uploads/2022/01/DSC2775-1024x683.jpg 768w, assets/uploads/2022/01/DSC2775-1024x683.jpg 1200w" sizes="(max-width: 525px) 100vw, 525px" />
 																		</div>
 																	</div>
 																</div>
@@ -160,13 +160,13 @@ include_once "header.php";
 														<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
 															<div class="elementor-image-carousel swiper-wrapper">
 																<div class="swiper-slide">
-																	<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-2022-724x1024.png" alt="Newsletter TSS 02-Dec-2022" /></figure>
+																	<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="assets/uploads/2022/12/Newsletter-TSS-02-Dec-2022-724x1024.png" alt="Newsletter TSS 02-Dec-2022" /></figure>
 																</div>
 																<div class="swiper-slide">
-																	<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20222-724x1024.png" alt="Newsletter TSS 02-Dec-2022(2)" /></figure>
+																	<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="assets/uploads/2022/12/Newsletter-TSS-02-Dec-20222-724x1024.png" alt="Newsletter TSS 02-Dec-2022(2)" /></figure>
 																</div>
 																<div class="swiper-slide">
-																	<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20223-724x1024.png" alt="Newsletter TSS 02-Dec-2022(3)" /></figure>
+																	<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="assets/uploads/2022/12/Newsletter-TSS-02-Dec-20223-724x1024.png" alt="Newsletter TSS 02-Dec-2022(3)" /></figure>
 																</div>
 															</div>
 															<div class="swiper-pagination"></div>
@@ -192,7 +192,7 @@ include_once "header.php";
 												<div class="elementor-element elementor-element-444e6fc elementor-widget elementor-widget-image" data-id="444e6fc" data-element_type="widget" data-widget_type="image.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-image">
-															<img loading="lazy" width="1240" height="1754" src="wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-2022.png" class="elementor-animation-float attachment-full size-full" alt="" decoding="async" srcset="wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-2022.png 1240w, wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-2022.png 212w, wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-2022.png 724w, wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-2022.png 768w, wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-2022.png 1086w" sizes="(max-width: 1240px) 100vw, 1240px" />
+															<img loading="lazy" width="1240" height="1754" src="assets/uploads/2022/12/Newsletter-TSS-02-Dec-2022.png" class="elementor-animation-float attachment-full size-full" alt="" decoding="async" srcset="assets/uploads/2022/12/Newsletter-TSS-02-Dec-2022.png 1240w, assets/uploads/2022/12/Newsletter-TSS-02-Dec-2022.png 212w, assets/uploads/2022/12/Newsletter-TSS-02-Dec-2022.png 724w, assets/uploads/2022/12/Newsletter-TSS-02-Dec-2022.png 768w, assets/uploads/2022/12/Newsletter-TSS-02-Dec-2022.png 1086w" sizes="(max-width: 1240px) 100vw, 1240px" />
 														</div>
 													</div>
 												</div>
@@ -203,7 +203,7 @@ include_once "header.php";
 												<div class="elementor-element elementor-element-69a5ec3 elementor-widget elementor-widget-image" data-id="69a5ec3" data-element_type="widget" data-widget_type="image.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-image">
-															<img loading="lazy" width="1240" height="1754" src="wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20222.png" class="elementor-animation-float attachment-full size-full" alt="" decoding="async" srcset="wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20222.png 1240w, wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20222.png 212w, wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20222.png 724w, wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20222.png 768w, wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20222.png 1086w" sizes="(max-width: 1240px) 100vw, 1240px" />
+															<img loading="lazy" width="1240" height="1754" src="assets/uploads/2022/12/Newsletter-TSS-02-Dec-20222.png" class="elementor-animation-float attachment-full size-full" alt="" decoding="async" srcset="assets/uploads/2022/12/Newsletter-TSS-02-Dec-20222.png 1240w, assets/uploads/2022/12/Newsletter-TSS-02-Dec-20222.png 212w, assets/uploads/2022/12/Newsletter-TSS-02-Dec-20222.png 724w, assets/uploads/2022/12/Newsletter-TSS-02-Dec-20222.png 768w, assets/uploads/2022/12/Newsletter-TSS-02-Dec-20222.png 1086w" sizes="(max-width: 1240px) 100vw, 1240px" />
 														</div>
 													</div>
 												</div>
@@ -214,7 +214,7 @@ include_once "header.php";
 												<div class="elementor-element elementor-element-5d4bb50 elementor-widget elementor-widget-image" data-id="5d4bb50" data-element_type="widget" data-widget_type="image.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-image">
-															<img loading="lazy" width="1240" height="1754" src="wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20223.png" class="elementor-animation-float attachment-full size-full" alt="" decoding="async" srcset="wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20223.png 1240w, wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20223.png 212w, wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20223.png 724w, wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20223.png 768w, wp-content/uploads/2022/12/Newsletter-TSS-02-Dec-20223.png 1086w" sizes="(max-width: 1240px) 100vw, 1240px" />
+															<img loading="lazy" width="1240" height="1754" src="assets/uploads/2022/12/Newsletter-TSS-02-Dec-20223.png" class="elementor-animation-float attachment-full size-full" alt="" decoding="async" srcset="assets/uploads/2022/12/Newsletter-TSS-02-Dec-20223.png 1240w, assets/uploads/2022/12/Newsletter-TSS-02-Dec-20223.png 212w, assets/uploads/2022/12/Newsletter-TSS-02-Dec-20223.png 724w, assets/uploads/2022/12/Newsletter-TSS-02-Dec-20223.png 768w, assets/uploads/2022/12/Newsletter-TSS-02-Dec-20223.png 1086w" sizes="(max-width: 1240px) 100vw, 1240px" />
 														</div>
 													</div>
 												</div>
@@ -235,7 +235,7 @@ include_once "header.php";
 																<div class="premium-banner-br premium-banner-btop premium-banner-brtb"></div>
 																<div class="premium-banner-br premium-banner-bottom premium-banner-brtb"></div>
 															</div>
-															<img decoding="async" loading="lazy" width="600" height="400" src="wp-content/uploads/2022/01/1-1.jpg" class="attachment-full size-full" alt="" />
+															<img decoding="async" loading="lazy" width="600" height="400" src="assets/uploads/2022/01/1-1.jpg" class="attachment-full size-full" alt="" />
 															<div class="premium-banner-ib-desc">
 																<div class="premium-banner-desc-centered">
 																	<h3 class="premium-banner-ib-title premium_banner_title">High Achievers</h3>
@@ -257,7 +257,7 @@ include_once "header.php";
 																<div class="premium-banner-br premium-banner-btop premium-banner-brtb"></div>
 																<div class="premium-banner-br premium-banner-bottom premium-banner-brtb"></div>
 															</div>
-															<img decoding="async" loading="lazy" width="878" height="567" src="wp-content/uploads/2022/01/DSC09545-e1672397574508.jpg" class="attachment-full size-full" alt="" />
+															<img decoding="async" loading="lazy" width="878" height="567" src="assets/uploads/2022/01/DSC09545-e1672397574508.jpg" class="attachment-full size-full" alt="" />
 															<div class="premium-banner-ib-desc">
 																<div class="premium-banner-desc-centered">
 																	<h3 class="premium-banner-ib-title premium_banner_title">High Achievers</h3>
@@ -279,7 +279,7 @@ include_once "header.php";
 																<div class="premium-banner-br premium-banner-btop premium-banner-brtb"></div>
 																<div class="premium-banner-br premium-banner-bottom premium-banner-brtb"></div>
 															</div>
-															<img decoding="async" loading="lazy" width="1200" height="800" src="wp-content/uploads/2022/01/DSC2668.jpg" class="attachment-full size-full" alt="" />
+															<img decoding="async" loading="lazy" width="1200" height="800" src="assets/uploads/2022/01/DSC2668.jpg" class="attachment-full size-full" alt="" />
 															<div class="premium-banner-ib-desc">
 																<div class="premium-banner-desc-centered">
 																	<h3 class="premium-banner-ib-title premium_banner_title">High Achievers</h3>
@@ -392,7 +392,7 @@ include_once "header.php";
 																<div class="htb-col-md-4 htb-col-sm-6 htb-col-12">
 																	<div class="htmega-singleimage-grid htmega-singleimage-gridstyle-">
 																		<div class="thumb">
-																			<img loading="lazy" width="396" height="400" src="wp-content/uploads/2022/03/d53e256e-76a7-45c5-8bff-fcaebb1d96e6.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="wp-content/uploads/2022/03/d53e256e-76a7-45c5-8bff-fcaebb1d96e6.jpg 396w, wp-content/uploads/2022/03/d53e256e-76a7-45c5-8bff-fcaebb1d96e6.jpg 297w, wp-content/uploads/2022/03/d53e256e-76a7-45c5-8bff-fcaebb1d96e6.jpg 100w" sizes="(max-width: 396px) 100vw, 396px" />
+																			<img loading="lazy" width="396" height="400" src="assets/uploads/2022/03/d53e256e-76a7-45c5-8bff-fcaebb1d96e6.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="assets/uploads/2022/03/d53e256e-76a7-45c5-8bff-fcaebb1d96e6.jpg 396w, assets/uploads/2022/03/d53e256e-76a7-45c5-8bff-fcaebb1d96e6.jpg 297w, assets/uploads/2022/03/d53e256e-76a7-45c5-8bff-fcaebb1d96e6.jpg 100w" sizes="(max-width: 396px) 100vw, 396px" />
 																		</div>
 																		<div class="image-grid-content">
 																			<div class="hover-action">
@@ -405,7 +405,7 @@ include_once "header.php";
 																<div class="htb-col-md-4 htb-col-sm-6 htb-col-12">
 																	<div class="htmega-singleimage-grid htmega-singleimage-gridstyle-">
 																		<div class="thumb">
-																			<img loading="lazy" width="525" height="342" src="wp-content/uploads/2022/03/IMG_20220306_194435-1024x668.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="wp-content/uploads/2022/03/IMG_20220306_194435-1024x668.jpg 1024w, wp-content/uploads/2022/03/IMG_20220306_194435-1024x668.jpg 300w, wp-content/uploads/2022/03/IMG_20220306_194435-1024x668.jpg 768w, wp-content/uploads/2022/03/IMG_20220306_194435-1024x668.jpg 1536w, wp-content/uploads/2022/03/IMG_20220306_194435-1024x668.jpg 2048w" sizes="(max-width: 525px) 100vw, 525px" />
+																			<img loading="lazy" width="525" height="342" src="assets/uploads/2022/03/IMG_20220306_194435-1024x668.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="assets/uploads/2022/03/IMG_20220306_194435-1024x668.jpg 1024w, assets/uploads/2022/03/IMG_20220306_194435-1024x668.jpg 300w, assets/uploads/2022/03/IMG_20220306_194435-1024x668.jpg 768w, assets/uploads/2022/03/IMG_20220306_194435-1024x668.jpg 1536w, assets/uploads/2022/03/IMG_20220306_194435-1024x668.jpg 2048w" sizes="(max-width: 525px) 100vw, 525px" />
 																		</div>
 																		<div class="image-grid-content">
 																			<div class="hover-action">
@@ -418,7 +418,7 @@ include_once "header.php";
 																<div class="htb-col-md-4 htb-col-sm-6 htb-col-12">
 																	<div class="htmega-singleimage-grid htmega-singleimage-gridstyle-">
 																		<div class="thumb">
-																			<img loading="lazy" width="405" height="400" src="wp-content/uploads/2022/03/ae33771a-626e-4afb-b062-39f5289a1c57.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="wp-content/uploads/2022/03/ae33771a-626e-4afb-b062-39f5289a1c57.jpg 405w, wp-content/uploads/2022/03/ae33771a-626e-4afb-b062-39f5289a1c57.jpg 300w, wp-content/uploads/2022/03/ae33771a-626e-4afb-b062-39f5289a1c57.jpg 100w" sizes="(max-width: 405px) 100vw, 405px" />
+																			<img loading="lazy" width="405" height="400" src="assets/uploads/2022/03/ae33771a-626e-4afb-b062-39f5289a1c57.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="assets/uploads/2022/03/ae33771a-626e-4afb-b062-39f5289a1c57.jpg 405w, assets/uploads/2022/03/ae33771a-626e-4afb-b062-39f5289a1c57.jpg 300w, assets/uploads/2022/03/ae33771a-626e-4afb-b062-39f5289a1c57.jpg 100w" sizes="(max-width: 405px) 100vw, 405px" />
 																		</div>
 																		<div class="image-grid-content">
 																			<div class="hover-action">
@@ -431,7 +431,7 @@ include_once "header.php";
 																<div class="htb-col-md-4 htb-col-sm-6 htb-col-12">
 																	<div class="htmega-singleimage-grid htmega-singleimage-gridstyle-">
 																		<div class="thumb">
-																			<img loading="lazy" width="525" height="413" src="wp-content/uploads/2022/03/Pic-NUST-Competition-1024x805.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="wp-content/uploads/2022/03/Pic-NUST-Competition-1024x805.jpg 1024w, wp-content/uploads/2022/03/Pic-NUST-Competition-1024x805.jpg 300w, wp-content/uploads/2022/03/Pic-NUST-Competition-1024x805.jpg 768w, wp-content/uploads/2022/03/Pic-NUST-Competition-1024x805.jpg 1536w, wp-content/uploads/2022/03/Pic-NUST-Competition-1024x805.jpg 2048w" sizes="(max-width: 525px) 100vw, 525px" />
+																			<img loading="lazy" width="525" height="413" src="assets/uploads/2022/03/Pic-NUST-Competition-1024x805.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="assets/uploads/2022/03/Pic-NUST-Competition-1024x805.jpg 1024w, assets/uploads/2022/03/Pic-NUST-Competition-1024x805.jpg 300w, assets/uploads/2022/03/Pic-NUST-Competition-1024x805.jpg 768w, assets/uploads/2022/03/Pic-NUST-Competition-1024x805.jpg 1536w, assets/uploads/2022/03/Pic-NUST-Competition-1024x805.jpg 2048w" sizes="(max-width: 525px) 100vw, 525px" />
 																		</div>
 																		<div class="image-grid-content">
 																			<div class="hover-action">
@@ -444,7 +444,7 @@ include_once "header.php";
 																<div class="htb-col-md-4 htb-col-sm-6 htb-col-12">
 																	<div class="htmega-singleimage-grid htmega-singleimage-gridstyle-">
 																		<div class="thumb">
-																			<img loading="lazy" width="525" height="295" src="wp-content/uploads/2022/03/105c50db-693e-4eb9-bcaf-113a1910efdd.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="wp-content/uploads/2022/03/105c50db-693e-4eb9-bcaf-113a1910efdd.jpg 711w, wp-content/uploads/2022/03/105c50db-693e-4eb9-bcaf-113a1910efdd.jpg 300w" sizes="(max-width: 525px) 100vw, 525px" />
+																			<img loading="lazy" width="525" height="295" src="assets/uploads/2022/03/105c50db-693e-4eb9-bcaf-113a1910efdd.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="assets/uploads/2022/03/105c50db-693e-4eb9-bcaf-113a1910efdd.jpg 711w, assets/uploads/2022/03/105c50db-693e-4eb9-bcaf-113a1910efdd.jpg 300w" sizes="(max-width: 525px) 100vw, 525px" />
 																		</div>
 																		<div class="image-grid-content">
 																			<div class="hover-action">
@@ -457,7 +457,7 @@ include_once "header.php";
 																<div class="htb-col-md-4 htb-col-sm-6 htb-col-12">
 																	<div class="htmega-singleimage-grid htmega-singleimage-gridstyle-">
 																		<div class="thumb">
-																			<img loading="lazy" width="401" height="400" src="wp-content/uploads/2022/03/8d8867b1-3655-439b-aa0f-b38e3e3b5f7e.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="wp-content/uploads/2022/03/8d8867b1-3655-439b-aa0f-b38e3e3b5f7e.jpg 401w, wp-content/uploads/2022/03/8d8867b1-3655-439b-aa0f-b38e3e3b5f7e.jpg 300w, wp-content/uploads/2022/03/8d8867b1-3655-439b-aa0f-b38e3e3b5f7e.jpg 150w, wp-content/uploads/2022/03/8d8867b1-3655-439b-aa0f-b38e3e3b5f7e.jpg 100w" sizes="(max-width: 401px) 100vw, 401px" />
+																			<img loading="lazy" width="401" height="400" src="assets/uploads/2022/03/8d8867b1-3655-439b-aa0f-b38e3e3b5f7e.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="assets/uploads/2022/03/8d8867b1-3655-439b-aa0f-b38e3e3b5f7e.jpg 401w, assets/uploads/2022/03/8d8867b1-3655-439b-aa0f-b38e3e3b5f7e.jpg 300w, assets/uploads/2022/03/8d8867b1-3655-439b-aa0f-b38e3e3b5f7e.jpg 150w, assets/uploads/2022/03/8d8867b1-3655-439b-aa0f-b38e3e3b5f7e.jpg 100w" sizes="(max-width: 401px) 100vw, 401px" />
 																		</div>
 																		<div class="image-grid-content">
 																			<div class="hover-action">
@@ -482,7 +482,7 @@ include_once "header.php";
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div class="elementor-element elementor-element-4220031 elementor-widget elementor-widget-html" data-id="4220031" data-element_type="widget" data-widget_type="html.default">
 													<div class="elementor-widget-container">
-														<section id="how-it-work" style="background-image:url(wp-content/uploads/2021/gallery/award-ceremony/IMG_5285-Medium.jpg)">
+														<section id="how-it-work" style="background-image:url(assets/uploads/2021/gallery/award-ceremony/IMG_5285-Medium.jpg)">
 
 															<section id="courses">
 																<div class="container">
@@ -606,15 +606,15 @@ include_once "header.php";
 																	<div class="col-lg-4 col-md-5 col-12 abt_media">
 																		<div class="row">
 																			<div class="col-lg-6 col-6 pr-0">
-																				<img decoding="async" src="wp-content/uploads/2021/09/1.jpg" class="pb-3">
-																				<img decoding="async" src="wp-content/uploads/2021/04/3-1.jpg">
+																				<img decoding="async" src="assets/uploads/2021/09/1.jpg" class="pb-3">
+																				<img decoding="async" src="assets/uploads/2021/04/3-1.jpg">
 
 																			</div>
 
 																			<div class="col-lg-6 col-6 about_img">
-																				<img decoding="async" src="wp-content/uploads/2021/04/1-1.jpg" class="pb-3">
+																				<img decoding="async" src="assets/uploads/2021/04/1-1.jpg" class="pb-3">
 
-																				<img decoding="async" src="wp-content/uploads/2021/09/3.jpg">
+																				<img decoding="async" src="assets/uploads/2021/09/3.jpg">
 
 																			</div>
 																		</div>
@@ -660,7 +660,7 @@ include_once "header.php";
 														<div class="htmega-testimonial-area htmega-sl-arraow-style-1 htmega-testimonial-style-4 sidad46a19 htmega-testimonial-activation" data-settings="{&quot;sectionid&quot;:&quot;sidad46a19&quot;,&quot;arrows&quot;:true,&quot;arrow_prev_txt&quot;:&quot;&lt;i aria-hidden=\&quot;true\&quot; class=\&quot;fas fa-chevron-circle-left\&quot;&gt;&lt;\/i&gt;&quot;,&quot;arrow_next_txt&quot;:&quot;&lt;i aria-hidden=\&quot;true\&quot; class=\&quot;fas fa-chevron-circle-right\&quot;&gt;&lt;\/i&gt;&quot;,&quot;dots&quot;:false,&quot;autoplay&quot;:true,&quot;autoplay_speed&quot;:3500,&quot;animation_speed&quot;:300,&quot;pause_on_hover&quot;:true,&quot;center_mode&quot;:true,&quot;center_padding&quot;:0,&quot;testimonial_style_ck&quot;:4,&quot;display_columns&quot;:1,&quot;scroll_columns&quot;:1,&quot;tablet_width&quot;:750,&quot;tablet_display_columns&quot;:1,&quot;tablet_scroll_columns&quot;:1,&quot;mobile_width&quot;:480,&quot;mobile_display_columns&quot;:1,&quot;mobile_scroll_columns&quot;:1}" style="display:none;">
 
 															<div class="testimonal">
-																<div class="testimonal-image"><img decoding="async" src="wp-content/uploads/elementor/thumbs/Dr-attaurrehman-p6d7bh75h3pk67nrv37qtwe5zrtk1mi9kachh7gyxc.jpg" title="Dr attaurrehman" alt="DR. ISHFAQ AHMAD NI, HI, SI  It gives me immense pleasure to congratulate the Strategic Plans Division (SPD) for taking up yet another initiative which has a potential of further improving the quality of" /></div>
+																<div class="testimonal-image"><img decoding="async" src="assets/uploads/elementor/thumbs/Dr-attaurrehman-p6d7bh75h3pk67nrv37qtwe5zrtk1mi9kachh7gyxc.jpg" title="Dr attaurrehman" alt="DR. ISHFAQ AHMAD NI, HI, SI  It gives me immense pleasure to congratulate the Strategic Plans Division (SPD) for taking up yet another initiative which has a potential of further improving the quality of" /></div>
 																<div class="content">
 																	<p>Quality education is the single most important pillar that determines progress. Countries that have realized that they need to invest in their most precious resource, their children, through a high quality education system, science, technology and innovation have marched forward, leaving others behind.
 																		In this strange and wonderful world of discovery, science and technology are impacting our lives in a multitude of ways, in every sphere of human endeavor. The advent of nanotechnology has resulted in the development of lighter. </p>
@@ -669,7 +669,7 @@ include_once "header.php";
 															</div>
 
 															<div class="testimonal">
-																<div class="testimonal-image"><img decoding="async" src="wp-content/uploads/elementor/thumbs/asfaq-ahmed-p6ctq4fzg5tjuih3ck9xqdx4k7saqdsyy7i9191ia8.jpg" title="asfaq ahmed" alt="PROF DR. ATTA UR REHMAN FRS, NI, HI, SI, TI  Quality education is the single most important pillar that determines progress. Countries that have realized that they need to invest in" /></div>
+																<div class="testimonal-image"><img decoding="async" src="assets/uploads/elementor/thumbs/asfaq-ahmed-p6ctq4fzg5tjuih3ck9xqdx4k7saqdsyy7i9191ia8.jpg" title="asfaq ahmed" alt="PROF DR. ATTA UR REHMAN FRS, NI, HI, SI, TI  Quality education is the single most important pillar that determines progress. Countries that have realized that they need to invest in" /></div>
 																<div class="content">
 																	<p>The Science School is the concrete realisation of a dream. Pakistan’s scientists and engineers, its armed forces, its dreamers, have reached for the impossible – and won. Pakistan is today a responsible nuclear power, with the capacity to deter aggression, and defend its frontiers and its ideology. It is accepted by the world as such.
 
@@ -679,7 +679,7 @@ include_once "header.php";
 															</div>
 
 															<div class="testimonal">
-																<div class="testimonal-image"><img decoding="async" src="wp-content/uploads/elementor/thumbs/gen-kud2-p8qfw9tcir5u99klou0fkhfjgt6wqhyrm21t1qadao.jpg" title="gen-kud2" alt="gen-kud2" /></div>
+																<div class="testimonal-image"><img decoding="async" src="assets/uploads/elementor/thumbs/gen-kud2-p8qfw9tcir5u99klou0fkhfjgt6wqhyrm21t1qadao.jpg" title="gen-kud2" alt="gen-kud2" /></div>
 																<div class="content">
 																	<p>The Science School is the concrete realisation of a dream. Pakistan’s scientists and engineers, its armed forces, its dreamers, have reached for the impossible – and won. Pakistan is today a responsible nuclear power, with the capacity to deter aggression, and defend its frontiers and its ideology. It is accepted by the world as such.
 
@@ -689,7 +689,7 @@ include_once "header.php";
 															</div>
 
 															<div class="testimonal">
-																<div class="testimonal-image"><img decoding="async" src="wp-content/uploads/elementor/thumbs/lubna-big-p8qfwar6pl74kvj8jcf24z702729y72hy6paj08z4g.png" title="lubna-big" alt="lubna-big" /></div>
+																<div class="testimonal-image"><img decoding="async" src="assets/uploads/elementor/thumbs/lubna-big-p8qfwar6pl74kvj8jcf24z702729y72hy6paj08z4g.png" title="lubna-big" alt="lubna-big" /></div>
 																<div class="content">
 																	<p>The Prospectus and Website of The Science School provide a useful insight into the aims, objectives, and methodologies of the school. Readers can learn why the school has been established, its noble purpose in the service of the defense of Pakistan, and tells us who are the people involved in the important national project.
 
@@ -698,7 +698,7 @@ include_once "header.php";
 																</div>
 															</div>
 															<div class="testimonal">
-																<div class="testimonal-image"><img decoding="async" src="wp-content/uploads/elementor/thumbs/Principal-img-pja3a76nq1ka96gluqwt4ge6lg0wxssfkad3gujhzk.jpg" title="Principal &#8211; img" alt="Principal - img" /></div>
+																<div class="testimonal-image"><img decoding="async" src="assets/uploads/elementor/thumbs/Principal-img-pja3a76nq1ka96gluqwt4ge6lg0wxssfkad3gujhzk.jpg" title="Principal &#8211; img" alt="Principal - img" /></div>
 																<div class="content">
 																	<p>At THE SCIENCE SCHOOL (TSS) we believe that education sets the foundations for life and should be a profoundly positive, rich experience for our students. TSS offers a broad and balanced curriculum with a focus in senior school on the sciences, a happy, safe, and conducive atmosphere and a strong commitment to help our students succeed. We endeavour to enable our learners to develop academically, socially and emotionally so that they can take pride in their learning and begin to achieve their goals and aspirations.</p>
 																	<h4>MS SHEHREEN KAMAL</h4><span>The Principal</span>

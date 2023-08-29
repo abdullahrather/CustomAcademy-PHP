@@ -81,14 +81,14 @@ include_once "header.php";
 																<div class="elementor-element elementor-element-290751e elementor-widget elementor-widget-image" data-id="290751e" data-element_type="widget" data-widget_type="image.default">
 																	<div class="elementor-widget-container">
 																		<div class="elementor-image">
-																			<img width="525" height="345" src="wp-content/uploads/2021/05/hamza_portrait1-1024x672.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="wp-content/uploads/2021/05/hamza_portrait1-1024x672.jpg 1024w, wp-content/uploads/2021/05/hamza_portrait1-1024x672.jpg 300w, wp-content/uploads/2021/05/hamza_portrait1-1024x672.jpg 768w, wp-content/uploads/2021/05/hamza_portrait1-1024x672.jpg 1344w" sizes="(max-width: 525px) 100vw, 525px" />
+																			<img width="525" height="345" src="assets/uploads/2021/05/hamza_portrait1-1024x672.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="assets/uploads/2021/05/hamza_portrait1-1024x672.jpg 1024w, assets/uploads/2021/05/hamza_portrait1-1024x672.jpg 300w, assets/uploads/2021/05/hamza_portrait1-1024x672.jpg 768w, assets/uploads/2021/05/hamza_portrait1-1024x672.jpg 1344w" sizes="(max-width: 525px) 100vw, 525px" />
 																		</div>
 																	</div>
 																</div>
 																<div class="elementor-element elementor-element-e86cc35 elementor-widget elementor-widget-image" data-id="e86cc35" data-element_type="widget" data-widget_type="image.default">
 																	<div class="elementor-widget-container">
 																		<div class="elementor-image">
-																			<img width="525" height="295" src="wp-content/uploads/2021/05/Hamza-Khan-2.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="wp-content/uploads/2021/05/Hamza-Khan-2.jpg 960w, wp-content/uploads/2021/05/Hamza-Khan-2.jpg 300w, wp-content/uploads/2021/05/Hamza-Khan-2.jpg 768w" sizes="(max-width: 525px) 100vw, 525px" />
+																			<img width="525" height="295" src="assets/uploads/2021/05/Hamza-Khan-2.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="assets/uploads/2021/05/Hamza-Khan-2.jpg 960w, assets/uploads/2021/05/Hamza-Khan-2.jpg 300w, assets/uploads/2021/05/Hamza-Khan-2.jpg 768w" sizes="(max-width: 525px) 100vw, 525px" />
 																		</div>
 																	</div>
 																</div>

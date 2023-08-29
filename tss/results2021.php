@@ -58,7 +58,7 @@ include_once "header.php";
 												<div class="elementor-element elementor-element-ab56ad2 elementor-widget elementor-widget-image" data-id="ab56ad2" data-element_type="widget" data-widget_type="image.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-image">
-															<img width="525" height="233" src="wp-content/uploads/2021/11/SubhanAllah-1-1024x454.png" class="attachment-large size-large" alt="" decoding="async" srcset="https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2021/11/SubhanAllah-1-1024x454.png 1024w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2021/11/SubhanAllah-1-300x133.png 300w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2021/11/SubhanAllah-1-768x341.png 768w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2021/11/SubhanAllah-1-1536x681.png 1536w, https://thescienceschool.edu.pk/tsswp/wp-content/uploads/2021/11/SubhanAllah-1-2048x908.png 2048w" sizes="(max-width: 525px) 100vw, 525px" />
+															<img width="525" height="233" src="assets/uploads/2021/11/SubhanAllah-1-1024x454.png" class="attachment-large size-large" alt="" decoding="async" srcset="https://thescienceschool.edu.pk/tsswp/assets/uploads/2021/11/SubhanAllah-1-1024x454.png 1024w, https://thescienceschool.edu.pk/tsswp/assets/uploads/2021/11/SubhanAllah-1-300x133.png 300w, https://thescienceschool.edu.pk/tsswp/assets/uploads/2021/11/SubhanAllah-1-768x341.png 768w, https://thescienceschool.edu.pk/tsswp/assets/uploads/2021/11/SubhanAllah-1-1536x681.png 1536w, https://thescienceschool.edu.pk/tsswp/assets/uploads/2021/11/SubhanAllah-1-2048x908.png 2048w" sizes="(max-width: 525px) 100vw, 525px" />
 														</div>
 													</div>
 												</div>
