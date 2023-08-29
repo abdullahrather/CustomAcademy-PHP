@@ -11,7 +11,7 @@
     </title>
     <link rel="stylesheet" href="assets/css/use.fontawesome.com/releases/v5.7.0/css/all.css">
     <link rel='stylesheet' id='pa-frontend-css' href='assets/uploads/premium-addons-elementor/pa-frontend-78d006582.minc28a.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='wp-block-library-css' href='wp-includes/css/dist/block-library/style.minf801.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='wp-block-library-css' href='assets/css/dist/block-library/style.minf801.css' type='text/css' media='all' />
     <link rel='stylesheet' id='pa-frontend-css' href='assets/uploads/premium-addons-elementor/pa-frontend-c968aad59.mine530.css' type='text/css' media='all' />
     <link rel='stylesheet' id='classic-theme-styles-inline-css' href='assets/css/classic-theme-styles-inline-css/style.css' type='text/css' media='all' />
     <link rel='stylesheet' id='global-styles-inline-css' href='assets/css/global-styles-inline-css/style-inline.css' type='text/css' media='all' />
@@ -59,8 +59,8 @@
     <link rel='stylesheet' id='google-fonts-1-css' href='assets/fonts/css/roboto-italic-2.css' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-icons-shared-0-css' href='assets/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min9e0b.css' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-solid-css' href='assets/plugins/elementor/assets/lib/font-awesome/css/solid.min9e0b.css' type='text/css' media='all' />
-    <script type='text/javascript' src='wp-includes/js/jquery/jquery.min3088.js' id='jquery-core-js'></script>
-    <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+    <script type='text/javascript' src='assets/js/jquery/jquery.min3088.js' id='jquery-core-js'></script>
+    <script type='text/javascript' src='assets/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
     <script type='text/javascript' src='assets/themes/education-insight/assets/js/education-insight-custom68b3.js' id='education-insight-custom.js-js'></script>
     <script type='text/javascript' src='assets/themes/education-insight/assets/js/navigation-focus68b3.js' id='education-insight-navigation-focus-js'></script>
     <script type='text/javascript' src='assets/themes/education-insight/assets/js/jquery.superfish68b3.js' id='superfish-js-js'></script>
