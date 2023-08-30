@@ -371,14 +371,14 @@ function myFunction2() {
                 return false;
             }
             // email required
-            var campus = $("input#email").val();
+            var campus = $("input#campus").val();
             if (campus == "") {
                 $("#error").fadeIn().text("Campus required");
                 $("input#campus").focus();
                 return false;
             }
             // email required
-            var clas = $("input#email").val();
+            var clas = $("input#class").val();
             if (clas == "") {
                 $("#error").fadeIn().text("Class required");
                 $("input#class").focus();
@@ -394,14 +394,14 @@ function myFunction2() {
             // password number required
             var password = $("input#password").val();
             if (password == "") {
-                $("#error").fadeIn().text("Password number required");
+                $("#error").fadeIn().text("Password required");
                 $("input#password").focus();
                 return false;
             }
             // password number required
             var re_password = $("input#re-password").val();
             if (re_password == "") {
-                $("#error").fadeIn().text("Re-Password number required");
+                $("#error").fadeIn().text("Re-Password required");
                 $("input#re-password").focus();
                 return false;
             }
@@ -415,11 +415,12 @@ function myFunction2() {
             // ajax
             $.ajax({
                 type: "POST",
-                url: "https://emis.thescienceschool.edu.pk/RegistrationAPI/api/UserRegistrationApi.php",
+                url: "http://192.168.100.54/tss-emis-10/workplace/RegistrationAPI/api/UserRegistrationApi.php",
                 data: $(this).serialize(), // get all form field value in serialize form
-                success: function() {
+                success: function(resp) {
                     $("#show_message").fadeIn();
                     //$("#ajax-form").fadeOut();
+                    alert(JSON.stringify(resp))
                 },
             });
         });

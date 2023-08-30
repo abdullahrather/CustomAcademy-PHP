@@ -84,17 +84,17 @@ include_once "header.php";
 												<div class="elementor-element elementor-element-01a0f08 elementor-widget elementor-widget-html" data-id="01a0f08" data-element_type="widget" data-widget_type="html.default">
 													<div class="elementor-widget-container">
 
-														<p id="show_message" style="display: none">Form data sent. Thanks for your comments.We will update you within 24 hours. </p>
-														<span id="error" style="display: none"></span>
+														<p class="alert alert-success" id="show_message" style="display: none; background-color:#dff0d8">Form data sent. Thanks for your comments.We will update you within 24 hours. </p>
+														<span class="alert alert-danger" id="error" style="display: none; background-color:#dff0d8"></span>
 
 														<form action="#" method="post" id="registrationForm">
 
-															<span class="wpcf7-form-control-wrap your-name"><input type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-name wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your name"></span><br>
+															<span class="wpcf7-form-control-wrap your-name"><input type="text" name="name" id="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-name wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your name"></span><br>
 
-															<span class="wpcf7-form-control-wrap your-email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email address"></span><br>
+															<span class="wpcf7-form-control-wrap your-email"><input type="email" name="email"id="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email address"></span><br>
 
 															<span class="wpcf7-form-control-wrap your-email">
-																<select class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" name="campus">
+																<select class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" name="campus" id="campus">
 																	<option>Select Campus</option>
 																	<option>Rawalpindi</option>
 																	<option>Islamabad</option>
@@ -102,7 +102,7 @@ include_once "header.php";
 															</span><br>
 
 															<span class="wpcf7-form-control-wrap your-email">
-																<select class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" name="class">
+																<select class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" name="class" id="class">
 																	<option>Select Class</option>
 																	<option>5</option>
 																	<option>6</option>
@@ -112,11 +112,11 @@ include_once "header.php";
 															</span><br>
 
 
-															<span class="wpcf7-form-control-wrap your-email"><input type="text" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Phone No."></span><br>
+															<span class="wpcf7-form-control-wrap your-email"><input type="text" name="phone" id="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Phone No."></span><br>
 
-															<span class="wpcf7-form-control-wrap your-email"><input type="text" name="password" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Password"></span><br>
+															<span class="wpcf7-form-control-wrap your-email"><input type="text" name="password" id="password" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Password"></span><br>
 
-															<span class="wpcf7-form-control-wrap your-email"><input type="text" name="re-password" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="retype-Password"></span><br>
+															<span class="wpcf7-form-control-wrap your-email"><input type="text" name="re-password" id="re-password" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="retype-Password"></span><br>
 
 															<!--<img decoding="async" src="captcha_code_file.php?rand=<?php echo rand(); ?>" -->
 															<!--id="captchaimg" >-->
