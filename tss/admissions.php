@@ -84,8 +84,8 @@ include_once "header.php";
 												<div class="elementor-element elementor-element-01a0f08 elementor-widget elementor-widget-html" data-id="01a0f08" data-element_type="widget" data-widget_type="html.default">
 													<div class="elementor-widget-container">
 
-														<p class="alert alert-success" id="show_message" style="display: none; background-color:#dff0d8">Form data sent. Thanks for your comments.We will update you within 24 hours. </p>
-														<span class="alert alert-danger" id="error" style="display: none; background-color:#dff0d8"></span>
+														<p class="alert alert-success" id="show_message" style="display: none; background-color:#dff0d8">Form submitted, thanks for regisration we will update you within 24 hours. </p>
+														<p class="alert alert-danger" id="error" style="display: none; background-color:#dff0d8"></p>
 
 														<form action="#" method="post" id="registrationForm">
 
@@ -96,18 +96,18 @@ include_once "header.php";
 															<span class="wpcf7-form-control-wrap your-email">
 																<select class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" name="campus" id="campus">
 																	<option>Select Campus</option>
-																	<option>Rawalpindi</option>
-																	<option>Islamabad</option>
+																	<option>H9</option>
+																	<option>DHA</option>
 																</select>
 															</span><br>
 
 															<span class="wpcf7-form-control-wrap your-email">
 																<select class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" name="class" id="class">
 																	<option>Select Class</option>
-																	<option>5</option>
-																	<option>6</option>
-																	<option>7</option>
-																	<option>8</option>
+																	<option>V</option>
+																	<option>VI</option>
+																	<option>VII</option>
+																	<option>VIII</option>
 																</select>
 															</span><br>
 

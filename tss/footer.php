@@ -345,17 +345,15 @@ function myFunction2() {
 
 <!-- Submit Admission Form   -->
 <script type="text/javascript">
-    //alert('a1');
     jQuery(document).ready(function($) {
-        //alert('a2');
         // hide messages 
         $("#error").hide();
         $("#show_message").hide();
         // on submit...
         $("#registrationForm").submit(function(e) {
-            //alert('a3');
             e.preventDefault();
             $("#error").hide();
+
             //name required
             var name = $("input#name").val();
             if (name == "") {
@@ -370,15 +368,15 @@ function myFunction2() {
                 $("input#email").focus();
                 return false;
             }
-            // email required
-            var campus = $("input#campus").val();
+            // campus required
+            var campus = $("select#campus").val();
             if (campus == "") {
                 $("#error").fadeIn().text("Campus required");
                 $("input#campus").focus();
                 return false;
             }
-            // email required
-            var clas = $("input#class").val();
+            // class required
+            var clas = $("select#class").val();
             if (clas == "") {
                 $("#error").fadeIn().text("Class required");
                 $("input#class").focus();
@@ -391,14 +389,14 @@ function myFunction2() {
                 $("input#phone").focus();
                 return false;
             }
-            // password number required
+            // password required
             var password = $("input#password").val();
             if (password == "") {
                 $("#error").fadeIn().text("Password required");
                 $("input#password").focus();
                 return false;
             }
-            // password number required
+            // re-password required
             var re_password = $("input#re-password").val();
             if (re_password == "") {
                 $("#error").fadeIn().text("Re-Password required");
@@ -416,11 +414,36 @@ function myFunction2() {
             $.ajax({
                 type: "POST",
                 url: "http://192.168.100.54/tss-emis-10/workplace/RegistrationAPI/api/UserRegistrationApi.php",
-                data: $(this).serialize(), // get all form field value in serialize form
+                data: {
+                    name: name,
+                    email: email,
+                    campus: campus,
+                    class: clas,
+                    phone: phone,
+                    password: password
+                },
+
                 success: function(resp) {
-                    $("#show_message").fadeIn();
-                    //$("#ajax-form").fadeOut();
-                    alert(JSON.stringify(resp))
+                    if (resp == "Error Occur") {
+                        $("#error").fadeIn().text('Error 404 occured');
+                        $("#error").fadeOut(5000);
+                    } else if (resp == "Success") {
+                        $("#show_message").fadeIn();
+                        $("#show_message").fadeOut(5000);
+                    } else if (resp == "Email Error") {
+                        $("#error").fadeIn().text('Email Already Exists');
+                        $("#error").fadeOut(5000);
+                    } else if (resp == "Field missing") {
+                        $("#error").fadeIn().text('Required Field is missing');
+                        $("#error").fadeOut(5000);
+                    } else if (resp == "Server connection") {
+                        $("#error").fadeIn().text('Problem connecting to server');
+                        $("#error").fadeOut(5000);
+                    } else {
+                        $("#error").fadeIn();
+                        $("#error").fadeOut(5000);
+                    }
+
                 },
             });
         });
