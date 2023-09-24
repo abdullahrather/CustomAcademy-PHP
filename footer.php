@@ -447,6 +447,9 @@ function myFunction2() {
             $.ajax({
               type: "POST",
               url: "https://path-to-your-form-submission-api.com",
+
+              // local api path for testing
+              // url: "http://192.168.0.100/tss-emis-10/api-and-portal/RegistrationAPI/api/UserRegistrationApi.php",
               data: {
                 name: name,
                 email: email,
@@ -457,6 +460,7 @@ function myFunction2() {
               },
 
               success: function(resp) {
+                console.log('AJAX Response:', resp);  // Log the response
                 hideLoader();
 
                 if (resp == "Error Occur") {
@@ -581,7 +585,7 @@ function myFunction2() {
     const headerMenuItems = document.querySelectorAll('#menu-left-menu .menu-item, #menu-righ-menu .menu-item, #menu-mobile_menu .menu-item, .sub-menu .menu-item');
 
     // Get the current page filename from the URL
-    const currentPage = window.location.pathname.split('/').filter(segment => segment.trim() !== '').pop() || 'index.php';
+    const currentPage = window.location.pathname.split('/tss-web/').filter(segment => segment.trim() !== '').pop() || 'index.php';
 
     // Loop through menu items and compare with current page filename
     headerMenuItems.forEach(item => {

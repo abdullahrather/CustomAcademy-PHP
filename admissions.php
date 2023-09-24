@@ -96,10 +96,10 @@ include_once "header.php";
 
                             <form action="#" method="post" id="registrationForm">
                               <div class="form-field">
-                                <input type="text" name="name" id="name" placeholder="Student Name">
+                                <input type="text" name="name" id="name" placeholder="Student Name" autocomplete="name" >
                               </div><br>
                               <div class="form-field">
-                                <input type="email" name="email" id="email" placeholder="Email address">
+                                <input type="email" name="email" id="email" placeholder="Email address" autocomplete="email" >
                               </div><br>
                               <div class="form-field">
                                 <select name="campus" id="campus">
@@ -118,7 +118,7 @@ include_once "header.php";
                                 </select>
                               </div><br>
                               <div class="form-field">
-                                <input type="text" name="phone" id="phone" placeholder="Phone No." onkeypress="return isNumber(event)">
+                                <input type="text" name="phone" id="phone" placeholder="Phone No." onkeypress="return isNumber(event)" autocomplete="phone" >
                               </div><br>
                               <div class="form-field">
                                 <input type="password" name="password" id="password" class="password-toggle" data-target="password" placeholder="Enter Password">
