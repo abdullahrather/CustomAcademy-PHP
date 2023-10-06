@@ -1,6 +1,6 @@
 <?php
 $bodyClass = "page-template-default page page-id-1959 wp-custom-logo page-two-column elementor-default elementor-kit-160 elementor-page elementor-page-1959";
-$pageTitle = "Celebrating 23rd March";
+$pageTitle = "Festival";
 include_once "header.php";
 ?>
 <main id="content">
@@ -21,7 +21,7 @@ include_once "header.php";
                       <div class="elementor-widget-wrap elementor-element-populated">
                         <div class="elementor-element elementor-element-8350e61 elementor-widget elementor-widget-heading" data-id="8350e61" data-element_type="widget" data-widget_type="heading.default">
                           <div class="elementor-widget-container">
-                            <h2 class="elementor-heading-title elementor-size-default">Celebrating 23rd March 2021
+                            <h2 class="elementor-heading-title elementor-size-default">Festival 2021
 
                             </h2>
                           </div>
