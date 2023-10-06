@@ -7,7 +7,7 @@
   <meta name='robots' content='max-image-preview:large' />
   <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
   <title>
-    <?php echo $pageTitle; ?> || The Science School
+    <?php echo $pageTitle; ?> || High School
   </title>
   <link rel="stylesheet" href="assets/sweetalert2/bootstrap-4.min.css">
   <link rel="stylesheet" href="assets/css/form-fields/form-field.css">
@@ -100,7 +100,7 @@
     <div class="top_header row">
 
       <!--p class="tempnotice">
-                    <a href="#notice12" class="atempnotice"> In the memory of Uzair Ahmad... <em>The Great  loss to The Science School..!</em>
+                    <a href="#notice12" class="atempnotice"> In the memory of Uzair Ahmad... <em>The Great  loss to High School..!</em>
                     </a> 
             </p-->
       <!-- 	toogle bar for mob view		 -->
@@ -113,7 +113,7 @@
       <!-- 	toogle bar for mob view	END	 -->
       <div class="container contact_cap col-xl-12 col-lg-12 col-md-8 col-sm-10">
 
-        <span><i class="fa fa-envelope"></i>info@thescienceschool.edu.pk</span>
+        <span><i class="fa fa-envelope"></i>highschool@education.com</span>
       </div>
     </div>
     <div id="header">
@@ -131,13 +131,13 @@
                           <a href="index.php" aria-current="page">Home</a>
                         </li>
                         <li id="menu-item-3979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3979">
-                          <a href="mission-statements.php">Mission Statement</a>
+                          <a href="mission-statements.php">Vision</a>
                         </li>
                         <li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36">
-                          <a href="governing-body.php">Governing Body</a>
+                          <a href="governing-body.php">Committee</a>
                         </li>
                         <li id="menu-item-8549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8549">
-                          <a href="results.php">Results 2022 <blink style="color:  red;">*</blink></a>
+                          <a href="results.php">Results <blink style="color:  red;">*</blink></a>
                         </li>
                       </ul>
                     </div>
@@ -157,7 +157,7 @@
                         <div class="gb_navigation clearfix">
                           <ul id="menu-righ-menu" class="clearfix mobile_nav">
                             <li id="menu-item-1960" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1960">
-                              <a href="celebrating-23rd-march.php">Celebrating 23rd March</a>
+                              <a href="celebrating-23rd-march.php">Festival</a>
                             </li>
                             <li id="menu-item-4719" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4719">
                               <a href="#">Education</a>
@@ -177,10 +177,10 @@
                               </ul>
                             </li>
                             <li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34">
-                              <a href="why-tss.php">Why TSS</a>
+                              <a href="why-tss.php">Why Us</a>
                             </li>
                             <li id="menu-item-1963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1963">
-                              <a href="gallery.php">Gallery</a>
+                              <a href="gallery.php">ShowCase</a>
                             </li>
                           </ul>
                         </div>
@@ -202,16 +202,16 @@
                               <a href="index.php" aria-current="page">Home</a>
                             </li>
                             <li id="menu-item-1034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1034">
-                              <a href="governing-body.php">Governing Body</a>
+                              <a href="governing-body.php">Committee</a>
                             </li>
                             <li id="menu-item-8545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8545">
-                              <a href="results.php">Results 2022</a>
+                              <a href="results.php">Results</a>
                             </li>
                             <li id="menu-item-1033" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1033">
                               <a href="admissions.php">admissions</a>
                             </li>
                             <li id="menu-item-6436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6436">
-                              <a href="mission-statements.php">Mission Statements</a>
+                              <a href="mission-statements.php">Vision</a>
                             </li>
                             <li id="menu-item-4958" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4958">
                               <a href="#">Education</a>
@@ -231,10 +231,10 @@
                               </ul>
                             </li>
                             <li id="menu-item-1029" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1029">
-                              <a href="why-tss.php">Why TSS</a>
+                              <a href="why-tss.php">Why Us</a>
                             </li>
                             <li id="menu-item-1027" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1027">
-                              <a href="gallery.php">Gallery</a>
+                              <a href="gallery.php">ShowCase</a>
                             </li>
                           </ul>
                         </div> <a href="javascript:void(0)" class="closebtn gb_menu" onclick="education_insight_gb_Menu_close()">x<span class="screen-reader-text">Close Menu</span></a>
@@ -249,54 +249,46 @@
           <div class="row desktop_header" id="head_down_content">
             <div class="col-lg-5 col-md-5 col-sm-5">
               <div class="menu_down_h"> <b>
-                  <h1>The Science School</h1>
+                  <h1>HIGH SCHOOL</h1>
                 </b> </div>
               <div class="menu_down_p"><i>
-                  <p> &nbsp; Faith – Purpose – Action – Leadership </p>
+                  <p> &nbsp; A Great Place to Learn </p>
                 </i></div>
             </div>
             <div class="col-lg-2 col-md-3 col-sm-3">
               <div class="logo1">
-                <a href="index.php" class="custom-logo-link" rel="home" aria-current="page"><img width="216" height="240" src="assets/uploads/2021/04/cropped-tss-logo-e1637560635321.jpg" class="custom-logo" alt="The Science School" decoding="async" fetchpriority="high" /></a>
-                <p class="site-title"><a href="index.php" rel="home">The Science School</a></p>
+                <a href="index.php" class="custom-logo-link" rel="home" aria-current="page"><img width="216" height="240" src="assets/uploads/2021/04/logo.jpg" class="custom-logo" alt="High School" decoding="async" fetchpriority="high" /></a>
+                <p class="site-title"><a href="index.php" rel="home">High School</a></p>
               </div>
             </div>
-            <div class="col-lg-5 col-md-4 col-sm-4" style="text-align:right">
-              <img src="assets/uploads/2021/03/Arbi.png">
-              <i>
-                <p class="menu_down_p_right">“And give us (the grace) to lead the righteous.”(Al Quran)
-                </p>
-              </i>
+            <div class="col-lg-5 col-md-4 col-sm-4" style="text-align:right;">
+              <img class="lg-logo-position" src="assets/uploads/2021/03/slogan.png">
             </div>
           </div>
 
           <div class="mobile_header" id="head_down_content">
             <div class="row">
               <div class="logo col-3">
-                <a href="index.php" class="custom-logo-link" rel="home" aria-current="page"><img width="216" height="240" src="assets/uploads/2021/04/cropped-tss-logo-e1637560635321.jpg" class="custom-logo" alt="The Science School" decoding="async" /></a>
-                <p class="site-title"><a href="index.php" rel="home">The Science School</a></p>
+                <a href="index.php" class="custom-logo-link" rel="home" aria-current="page"><img width="216" height="240" src="assets/uploads/2021/04/logo.jpg" class="custom-logo" alt="High School" decoding="async" /></a>
+                <p class="site-title"><a href="index.php" rel="home">High School</a></p>
               </div>
               <div class="col-9" style="text-align:left">
                 <div class="menu_down_h"> <b>
-                    <h1>The Science School</h1>
+                    <h1>High School</h1>
                   </b> </div>
                 <div class="menu_down_p"><i>
-                    <p>Faith – Purpose – Action – Leadership </p>
+                    <p>A Great Place to Learn </p>
                   </i></div>
               </div>
             </div>
-            <div style="text-align:right">
-              <img src="assets/uploads/2021/03/Arbi.png">
-              <i>
-                <p class="menu_down_p_right">“And give us (the grace) to lead the righteous.”(Al Quran)
-                </p>
-              </i>
+            <div>
+              <img class=sm-logo-position src="assets/uploads/2021/03/slogan.png">
             </div>
           </div>
 
           <!-- <marquee id="header-marquee" width="100%" direction="left">
                             <a href="#point_result" style="position: relative;width:100%;line-height:10px;">
-                            <span style="color: red; font-size:12px !important;">The Science School AS and O Level Results</span>
+                            <span style="color: red; font-size:12px !important;">High School AS and O Level Results</span>
                             </a>
                             <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
                             <a href="#point_nustCompetition" style="position: relative;width:100%;line-height:10px;">
