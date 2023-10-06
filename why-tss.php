@@ -1,6 +1,6 @@
 <?php
 $bodyClass = "page-template page-template-elementor_theme page page-id-22 wp-custom-logo page-two-column elementor-default elementor-kit-160 elementor-page elementor-page-22";
-$pageTitle = "Why TSS";
+$pageTitle = "Why Us";
 include_once "header.php";
 ?>
 <main id="content">

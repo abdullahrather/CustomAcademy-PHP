@@ -1,6 +1,6 @@
 <?php
 $bodyClass = "page-template-default page page-id-3971 wp-custom-logo page-two-column elementor-default elementor-kit-160 elementor-page elementor-page-3971";
-$pageTitle = "Mission Statement";
+$pageTitle = "Vision";
 include_once "header.php";
 ?>
 <main id="content">
@@ -39,7 +39,7 @@ include_once "header.php";
                         <div class="elementor-element elementor-element-8571884 elementor-widget elementor-widget-heading" data-id="8571884" data-element_type="widget" data-widget_type="heading.default">
                           <div class="elementor-widget-container">
                             <h2 class="elementor-heading-title elementor-size-default">
-                              Mission Statement</h2>
+                              Vision</h2>
                           </div>
                         </div>
                         <div class="elementor-element elementor-element-d32e4df elementor-widget elementor-widget-text-editor" data-id="d32e4df" data-element_type="widget" data-widget_type="text-editor.default">

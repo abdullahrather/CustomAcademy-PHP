@@ -252,7 +252,7 @@
                   <h1>HIGH SCHOOL</h1>
                 </b> </div>
               <div class="menu_down_p"><i>
-                  <p> &nbsp; A Great Place to Learn </p>
+                  <p style="color: #ffffff;"> &nbsp; A Great Place to Learn </p>
                 </i></div>
             </div>
             <div class="col-lg-2 col-md-3 col-sm-3">
@@ -277,7 +277,7 @@
                     <h1>High School</h1>
                   </b> </div>
                 <div class="menu_down_p"><i>
-                    <p>A Great Place to Learn </p>
+                    <p style="color: #ffffff;">A Great Place to Learn </p>
                   </i></div>
               </div>
             </div>

@@ -1,6 +1,6 @@
 <?php
 $bodyClass = "page-template-default page page-id-17 wp-custom-logo page-two-column elementor-default elementor-kit-160 elementor-page elementor-page-17";
-$pageTitle = "Governing Body";
+$pageTitle = "Committee";
 include_once "header.php";
 ?>
 <main id="content">
@@ -21,7 +21,7 @@ include_once "header.php";
                       <div class="elementor-widget-wrap elementor-element-populated">
                         <div class="elementor-element elementor-element-393e786 elementor-widget elementor-widget-heading" data-id="393e786" data-element_type="widget" data-widget_type="heading.default">
                           <div class="elementor-widget-container">
-                            <h2 class="elementor-heading-title elementor-size-default">Governing Body </h2>
+                            <h2 class="elementor-heading-title elementor-size-default">Committee </h2>
                           </div>
                         </div>
                       </div>
