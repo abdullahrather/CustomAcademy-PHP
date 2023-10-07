@@ -712,7 +712,7 @@ include_once "header.php";
                         <div class="elementor-element elementor-element-d15ee41 elementor-align-right board_mem_button elementor-widget__width-inherit elementor-widget elementor-widget-button" data-id="d15ee41" data-element_type="widget" data-widget_type="button.default">
                           <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
-                              <a href="board-members.php" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+                              <a href="executive-committee.php" class="elementor-button-link elementor-button elementor-size-xs" role="button">
                                 <span class="elementor-button-content-wrapper">
                                   <span class="elementor-button-text">Read More >></span>
                                 </span>
