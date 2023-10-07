@@ -7,7 +7,7 @@
   <meta name='robots' content='max-image-preview:large' />
   <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
   <title>
-    <?php echo $pageTitle; ?> || High School
+    <?php echo $pageTitle; ?> || Intellect Academy
   </title>
   <link rel="stylesheet" href="assets/sweetalert2/bootstrap-4.min.css">
   <link rel="stylesheet" href="assets/css/form-fields/form-field.css">
@@ -70,15 +70,15 @@
 
   <style type="text/css" id="wp-custom-css">
     #how-it-work:before {
-      background-color: #42661a !important;
+      background-color: #4fa0e53b !important;
     }
 
     .result_grid .box-grid {
-      background-color: #2f4812 !important;
+      background-color: #4fa0e5 !important;
     }
 
     .result_grid .box-grid:hover {
-      background-color: #395616 !important;
+      background-color: #ee5507 !important;
     }
 
     .heading {
@@ -98,22 +98,13 @@
 <body class=<?php echo $bodyClass ?>>
   <div id="page" class="site">
     <div class="top_header row">
-
-      <!--p class="tempnotice">
-                    <a href="#notice12" class="atempnotice"> In the memory of Uzair Ahmad... <em>The Great  loss to High School..!</em>
-                    </a> 
-            </p-->
-      <!-- 	toogle bar for mob view		 -->
       <div class="toggle-menu gb_menu mobile_view_toggle col-md-4 col-sm-2">
         <button onclick="education_insight_gb_Menu_open()" class="gb_toggle"><i class="fas fa-bars"></i></button>
 
-        <!-- 					<button onclick="education_insight_gb_Menu_open()" class="gb_toggle"><i class="fas fa-ellipsis-h"></i><p></p></button> -->
-
       </div>
-      <!-- 	toogle bar for mob view	END	 -->
       <div class="container contact_cap col-xl-12 col-lg-12 col-md-8 col-sm-10">
 
-        <span><i class="fa fa-envelope"></i>highschool@education.com</span>
+        <span><i class="fa fa-envelope"></i>intellect@academy.com</span>
       </div>
     </div>
     <div id="header">
@@ -148,7 +139,6 @@
 
             <div class="col-lg-6" id="right-menus">
               <div class="row toggle_design">
-                <!-- 								<div class="col-lg-12 col-md-9 col-3"> -->
                 <div class="col-lg-12 col-md-12 col-12">
                   <div class="menu_box">
 
@@ -249,7 +239,7 @@
           <div class="row desktop_header" id="head_down_content">
             <div class="col-lg-5 col-md-5 col-sm-5">
               <div class="menu_down_h"> <b>
-                  <h1>HIGH SCHOOL</h1>
+                  <h1>Intellect Academy</h1>
                 </b> </div>
               <div class="menu_down_p"><i>
                   <p style="color: #ffffff;"> &nbsp; A Great Place to Learn </p>
@@ -257,8 +247,8 @@
             </div>
             <div class="col-lg-2 col-md-3 col-sm-3">
               <div class="logo1">
-                <a href="index.php" class="custom-logo-link" rel="home" aria-current="page"><img width="216" height="240" src="assets/uploads/2021/04/logo.jpg" class="custom-logo" alt="High School" decoding="async" fetchpriority="high" /></a>
-                <p class="site-title"><a href="index.php" rel="home">High School</a></p>
+                <a href="index.php" class="custom-logo-link" rel="home" aria-current="page"><img width="216" height="240" src="assets/uploads/2021/04/logo.jpg" class="custom-logo" alt="Intellect Academy" decoding="async" fetchpriority="high" /></a>
+                <p class="site-title"><a href="index.php" rel="home">Intellect Academy</a></p>
               </div>
             </div>
             <div class="col-lg-5 col-md-4 col-sm-4" style="text-align:right;">
@@ -269,12 +259,12 @@
           <div class="mobile_header" id="head_down_content">
             <div class="row">
               <div class="logo col-3">
-                <a href="index.php" class="custom-logo-link" rel="home" aria-current="page"><img width="216" height="240" src="assets/uploads/2021/04/logo.jpg" class="custom-logo" alt="High School" decoding="async" /></a>
-                <p class="site-title"><a href="index.php" rel="home">High School</a></p>
+                <a href="index.php" class="custom-logo-link" rel="home" aria-current="page"><img width="216" height="240" src="assets/uploads/2021/04/logo.jpg" class="custom-logo" alt="Intellect Academy" decoding="async" /></a>
+                <p class="site-title"><a href="index.php" rel="home">Intellect Academy</a></p>
               </div>
               <div class="col-9" style="text-align:left">
                 <div class="menu_down_h"> <b>
-                    <h1>High School</h1>
+                    <h1>Intellect Academy</h1>
                   </b> </div>
                 <div class="menu_down_p"><i>
                     <p style="color: #ffffff;">A Great Place to Learn </p>
@@ -285,19 +275,7 @@
               <img class=sm-logo-position src="assets/uploads/2021/03/slogan.png">
             </div>
           </div>
-
-          <!-- <marquee id="header-marquee" width="100%" direction="left">
-                            <a href="#point_result" style="position: relative;width:100%;line-height:10px;">
-                            <span style="color: red; font-size:12px !important;">High School AS and O Level Results</span>
-                            </a>
-                            <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                            <a href="#point_nustCompetition" style="position: relative;width:100%;line-height:10px;">
-                            <span style="color: red; font-size:12px !important;">A science technology, mathematics competition organised by the NUST University.</span>
-                            </a>
-                        </marquee> -->
-
         </div>
       </div>
-
     </div>
   </div>
