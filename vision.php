@@ -46,79 +46,32 @@ include_once "header.php";
                           <div class="elementor-widget-container">
                             <div class="elementor-text-editor elementor-clearfix">
                               <p style="margin-top: 0in; text-align: justify; background: white;">
-                                <span style="font-family: sans-serif; color: #666c6e;">The
-                                  Mission of The Science School is to identify and
-                                  support the development of scientists and engineers
-                                  at the level of school education so as to serve the
-                                  needs of Pakistan’s future scientific and strategic
-                                  goals. This will require successful graduating
-                                  students to be provided higher education facilities
-                                  and opportunities for employment in Pakistan’s
-                                  Strategic and Scientific organizations.</span>
+                                <span style="font-family: sans-serif; color: #666c6e;">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores consectetur possimus pariatur quaerat quo quis corporis, aliquid harum temporibus. Commodi voluptatibus aliquid rem asperiores. Fugit ad temporibus fugiat ab ex.</span>
                               </p>
                               <p style="margin-top: 0in; text-align: justify; background: white;">
-                                <span style="font-family: sans-serif; color: #666c6e;">Pakistan’s
-                                  scientific and strategic organizations require the
-                                  services of scientists and engineers with the
-                                  knowledge, skills, and attitudes that can help
-                                  advance progress in the field and meet its dynamic
-                                  and complex challenges. This programme is therefore
-                                  designed to identify and support the development of
-                                  young learners, who will inshaAllah one day, join
-                                  these organisations to serve Pakistan.</span>
+                                <span style="font-family: sans-serif; color: #666c6e;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident vitae deserunt, obcaecati vero ducimus labore est asperiores, odio soluta corrupti fugit assumenda iusto nam debitis, exercitationem maiores repellat officiis quidem?</span>
                               </p>
                               <p style="margin-top: 0in; text-align: justify; background: white; box-sizing: border-box; margin-bottom: 1rem; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;">
-                                <span style="box-sizing: border-box;"><span style="font-family: sans-serif; color: #666c6e;">The
-                                    Science School aspires to provide an environment
-                                    that encourages students to explore their world
-                                    freely, using the ideas and processes of science
-                                    to solve problems, reach out to question and
-                                    expand knowledge frontiers.  We aim to promote
-                                    academic excellence as well as the personal and
-                                    social skills of leaders, loyal and patriotic to
-                                    the Islamic Republic of Pakistan. The School
-                                    provides a rigorous, modern, science based
-                                    curriculum, outdoor education to expand
-                                    curricular learning to the field, encourages
-                                    physical and social development, knowledge and
-                                    understanding of the arts, religion, culture and
-                                    history of the people of Pakistan and our geo
-                                    political environment.</span></span>
+                                <span style="box-sizing: border-box;"><span style="font-family: sans-serif; color: #666c6e;">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet labore excepturi quasi, possimus quo nulla veniam quisquam provident quidem minus natus eum sit dolorem tenetur vero nisi libero totam error.</span></span>
                               </p>
                               <p style="margin-top: 0in; text-align: justify; background: white; box-sizing: border-box; margin-bottom: 1rem; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;">
-                                <span style="box-sizing: border-box;"><span style="font-family: sans-serif; color: #666c6e;">In
-                                    order to attract the best and the brightest
-                                    learners, The Science School offers an advanced
-                                    science based curriculum, highly qualified
-                                    teachers, excellent facilities and professional
-                                    education management.</span></span>
+                                <span style="box-sizing: border-box;"><span style="font-family: sans-serif; color: #666c6e;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus officiis temporibus quod, fugit numquam eum quo itaque libero dolor ipsum, molestiae cumque voluptate quidem, reiciendis tempora pariatur ipsa iusto adipisci.</span></span>
                               </p>
                             </div>
                           </div>
                         </div>
                         <div class="elementor-element elementor-element-80cd73c elementor-widget elementor-widget-heading" data-id="80cd73c" data-element_type="widget" data-widget_type="heading.default">
                           <div class="elementor-widget-container">
-                            <h3 class="elementor-heading-title elementor-size-default">Aim
-                              of the Science School</h3>
+                            <h3 class="elementor-heading-title elementor-size-default">Lorem ipsum dolor sit.</h3>
                           </div>
                         </div>
                         <div class="elementor-element elementor-element-4784e89 elementor-widget elementor-widget-text-editor" data-id="4784e89" data-element_type="widget" data-widget_type="text-editor.default">
                           <div class="elementor-widget-container">
                             <div class="elementor-text-editor elementor-clearfix">
                               <ul>
-                                <li>To promote academic excellence, as well as the
-                                  personal and social skills of leaders, loyal and
-                                  patriotic to Islam, and the Islamic Republic of
-                                  Pakistan.</li>
-                                <li>To identify and support the development of
-                                  scientists and engineers at the level of school
-                                  education to serve the needs of Pakistan’s
-                                  scientific and the strategic organizations.</li>
-                                <li>To provide an environment that encourages students
-                                  to excel, to explore their world freely, using the
-                                  ideas and processes of science, to solve problems
-                                  and reach out to question and expand knowledge
-                                  frontiers.</li>
+                                <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut vero quisquam earum, eligendi, nemo voluptate sapiente repudiandae doloribus maiores sequi qui modi non magnam libero fuga fugiat esse aspernatur! Maiores.</li>
+                                <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim, voluptates natus, amet inventore necessitatibus deleniti sit, facilis consectetur modi itaque error? Suscipit culpa alias voluptatem enim, quidem et nihil sunt.</li>
+                                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro rerum nulla quas unde aut tempore? Dolorem in expedita officia eum consectetur hic, ab suscipit et at ducimus rerum voluptatum non!</li>
                               </ul>
                             </div>
                           </div>

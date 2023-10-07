@@ -446,10 +446,10 @@ function myFunction2() {
             showLoader();
             $.ajax({
               type: "POST",
-              url: "https://path-to-your-form-submission-api.com",
+              url: "application_submit.php",
 
               // local api path for testing
-              // url: "http://192.168.0.100/tss-emis-10/api-and-portal/RegistrationAPI/api/UserRegistrationApi.php",
+              // url: "http://192.168.0.100/emis/api-and-portal/RegistrationAPI/api/UserRegistrationApi.php",
               data: {
                 name: name,
                 email: email,
@@ -460,7 +460,7 @@ function myFunction2() {
               },
 
               success: function(resp) {
-                console.log('AJAX Response:', resp);  // Log the response
+                console.log('AJAX Response:', resp); // Log response
                 hideLoader();
 
                 if (resp == "Error Occur") {
@@ -477,7 +477,7 @@ function myFunction2() {
                   Swal.fire({
                     icon: 'success',
                     title: 'Success',
-                    text: 'Form submitted, thanks for registration. Check your email for further details.',
+                    text: 'Form submitted, thanks for registration. Login for Access.',
                     toast: true,
                     position: 'top-end',
                     showConfirmButton: false,
@@ -553,7 +553,6 @@ function myFunction2() {
     });
   });
 </script>
-
 
 <!-- Side Bar menu items set current_page_item -->
 <script>

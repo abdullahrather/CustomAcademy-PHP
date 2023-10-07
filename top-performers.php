@@ -21,7 +21,7 @@ include_once "header.php";
                       <div class="elementor-widget-wrap elementor-element-populated">
                         <div class="elementor-element elementor-element-6c21c7d elementor-widget elementor-widget-html" data-id="6c21c7d" data-element_type="widget" id="side_bar" data-widget_type="html.default">
                           <div class="elementor-widget-container">
-                            <h3 class="widget-title"><a href="results.php">Results</a></h3>
+                            <h3 class="widget-title"><a href="grades.php">Grades</a></h3>
                             <!--<ul>-->
                             <!-- <li><a href="#">November 2020</a></li>-->
                             <!-- <li><a href="#">October 2020</a></li>-->

@@ -1,3 +1,6 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html lang="en-US" class="no-js no-svg">
 
@@ -62,7 +65,7 @@
   <link rel='stylesheet' id='elementor-icons-shared-0-css' href='assets/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min9e0b.css' type='text/css' media='all' />
   <link rel='stylesheet' id='elementor-icons-fa-solid-css' href='assets/plugins/elementor/assets/lib/font-awesome/css/solid.min9e0b.css' type='text/css' media='all' />
   <link rel='stylesheet' href='assets/css/custom/top-ribbon-header.css' type='text/css' media='all' />
- 
+
   <script type='text/javascript' src='assets/js/jquery/jquery.min3088.js' id='jquery-core-js'></script>
   <script type='text/javascript' src='assets/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
   <script type='text/javascript' src='assets/themes/education-insight/assets/js/education-insight-custom68b3.js' id='education-insight-custom.js-js'></script>
@@ -108,7 +111,7 @@
         <div class="row">
           <div class="col-4">
             <div class="top-content" id="marquee">
-              <span><a class="top_header" href="results.php" target="_blank">Intellect Academy - <strong>Results</strong></a></span>
+              <span><a class="top_header" href="grades.php" target="_blank">Intellect Academy - <strong>Grades</strong></a></span>
             </div>
           </div>
           <div class="container contact_cap col-8">
@@ -117,7 +120,7 @@
         </div>
       </div>
 
-      
+
       <!-- <div class="container contact_cap col-xl-12 col-lg-12 col-md-8 col-sm-10">
         <span><i class="fa fa-envelope"></i>intellect@academy.com</span>
       </div> -->
@@ -137,13 +140,13 @@
                           <a href="index.php" aria-current="page">Home</a>
                         </li>
                         <li id="menu-item-3979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3979">
-                          <a href="mission-statements.php">Vision</a>
+                          <a href="vision.php">Vision</a>
                         </li>
                         <li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36">
-                          <a href="governing-body.php">Committee</a>
+                          <a href="committee.php">Committee</a>
                         </li>
                         <li id="menu-item-8549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8549">
-                          <a href="results.php">Results <blink style="color:  red;">*</blink></a>
+                          <a href="grades.php">Grades <blink style="color:  red;">*</blink></a>
                         </li>
                       </ul>
                     </div>
@@ -162,7 +165,7 @@
                         <div class="gb_navigation clearfix">
                           <ul id="menu-righ-menu" class="clearfix mobile_nav">
                             <li id="menu-item-1960" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1960">
-                              <a href="celebrating-23rd-march.php">Festival</a>
+                              <a href="festival.php">Festival</a>
                             </li>
                             <li id="menu-item-4719" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4719">
                               <a href="#">Education</a>
@@ -182,11 +185,25 @@
                               </ul>
                             </li>
                             <li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34">
-                              <a href="why-tss.php">Why Us</a>
+                              <a href="why-us.php">Why Us</a>
                             </li>
                             <li id="menu-item-1963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1963">
-                              <a href="gallery.php">ShowCase</a>
+                              <a href="showcase.php">ShowCase</a>
                             </li>
+                            <!-- Account Dropdown -->
+                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
+                              <a href="#">Account</a>
+                              <ul class="sub-menu">
+                                <?php if (isset($_SESSION['user_id'])) : ?>
+                                  <li><a href="dashboard.php">Profile</a></li>
+                                  <li><a href="logout.php">Logout</a></li>
+                                <?php else : ?>
+                                  <li><a href="login.php">Login</a></li>
+                                  <li><a href="application_form.php">Register</a></li>
+                                <?php endif; ?>
+                              </ul>
+                            </li>
+                            <!-- End Account Dropdown -->
                           </ul>
                         </div>
                       </nav>
@@ -207,16 +224,16 @@
                               <a href="index.php" aria-current="page">Home</a>
                             </li>
                             <li id="menu-item-1034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1034">
-                              <a href="governing-body.php">Committee</a>
+                              <a href="committee.php">Committee</a>
                             </li>
                             <li id="menu-item-8545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8545">
-                              <a href="results.php">Results</a>
+                              <a href="grades.php">Grades</a>
                             </li>
                             <li id="menu-item-1033" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1033">
-                              <a href="admissions.php">admissions</a>
+                              <a href="application_form.php">admissions</a>
                             </li>
                             <li id="menu-item-6436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6436">
-                              <a href="mission-statements.php">Vision</a>
+                              <a href="vision.php">Vision</a>
                             </li>
                             <li id="menu-item-4958" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4958">
                               <a href="#">Education</a>
@@ -236,11 +253,25 @@
                               </ul>
                             </li>
                             <li id="menu-item-1029" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1029">
-                              <a href="why-tss.php">Why Us</a>
+                              <a href="why-us.php">Why Us</a>
                             </li>
                             <li id="menu-item-1027" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1027">
-                              <a href="gallery.php">ShowCase</a>
+                              <a href="showcase.php">ShowCase</a>
                             </li>
+                            <!-- Account Dropdown -->
+                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
+                              <a href="#">Account</a>
+                              <ul class="sub-menu">
+                                <?php if (isset($_SESSION['user_id'])) : ?>
+                                  <li><a href="dashboard.php">Profile</a></li>
+                                  <li><a href="logout.php">Logout</a></li>
+                                <?php else : ?>
+                                  <li><a href="login.php">Login</a></li>
+                                  <li><a href="application_form.php">Register</a></li>
+                                <?php endif; ?>
+                              </ul>
+                            </li>
+                            <!-- End Account Dropdown -->
                           </ul>
                         </div> <a href="javascript:void(0)" class="closebtn gb_menu" onclick="education_insight_gb_Menu_close()">x<span class="screen-reader-text">Close Menu</span></a>
                       </nav>

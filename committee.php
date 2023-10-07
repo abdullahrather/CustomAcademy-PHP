@@ -38,45 +38,45 @@ include_once "header.php";
                               <table class="table table-striped table-bordered">
                                 <tbody>
                                   <tr>
-                                    <td>Director General Strategic Plans Division (SPD)<br>
-                                      (Represented By Advisor Development National Command Authority)</td>
+                                    <td>Lorem ipsum, dolor sit amet consectetur adipisicing elit.<br>
+                                      (At libero tenetur natus corrupti aut quibusdam.)</td>
                                     <td>Chairman</td>
                                   </tr>
                                   <tr>
-                                    <td>Chairman of Scientific Strategic Commission</td>
+                                    <td>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</td>
                                     <td>&nbsp;Member</td>
                                   </tr>
                                   <tr>
-                                    <td>Director General Policy Planning, Doctrine and Strategy Branch, SPD</td>
+                                    <td>Lorem ipsum dolor sit amet consectetur adipisicing elit.</td>
                                     <td>&nbsp;Member</td>
                                   </tr>
                                   <tr>
-                                    <td>Rector Pakistan Institute of Engineering and Applied Sciences (PIEAS) – PAEC</td>
+                                    <td>Lorem ipsum dolor sit amet consectetur adipisicing elit.</td>
                                     <td>&nbsp;Member</td>
                                   </tr>
                                   <tr>
-                                    <td>Rector Institute of Space Technology (IST) SUPARCO</td>
+                                    <td>Lorem ipsum dolor sit amet consectetur adipisicing elit.</td>
                                     <td>&nbsp;&nbsp;Member</td>
                                   </tr>
                                   <tr>
-                                    <td>Head Academic Board</td>
+                                    <td>Laudantium velit.</td>
                                     <td>&nbsp;&nbsp;Member</td>
                                   </tr>
                                   <tr>
-                                    <td>Principal The Science School</td>
+                                    <td>Laudantium ut assumenda illum maxime!</td>
                                     <td>&nbsp;&nbsp;Member</td>
                                   </tr>
                                   <tr>
-                                    <td>Director General Finance SPD</td>
+                                    <td>Sint minima totam beatae maxime molestiae cumque enim?</td>
                                     <td>&nbsp;&nbsp;Member</td>
                                   </tr>
                                   <tr>
-                                    <td>Director General Conventional and Open Programmes SPD</td>
+                                    <td>fugiat ipsa iusto doloremque!</td>
                                     <td>&nbsp;Member/Secretary</td>
                                   </tr>
                                   <tr>
-                                    <td>By Invitation</td>
-                                    <td>&nbsp;Others, as required</td>
+                                    <td>minus pariatur.</td>
+                                    <td>&nbsp;Others</td>
                                   </tr>
                                 </tbody>
                               </table>
