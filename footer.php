@@ -5,7 +5,7 @@
         <div class="row">
           <div class="widget-column footer-widget-1 col-lg-6 col-md-6">
             <section id="custom_html-8" class="widget_text widget widget_custom_html">
-              <h3 class="widget-title">H9 Campus</h3>
+              <h3 class="widget-title">Academy CA</h3>
               <div class="textwidget custom-html-widget">
                 <div>
                   <div class="row">
@@ -14,7 +14,7 @@
                     </div>
                     <div class="col-lg-10 col-sm-10 col-12">
                       <p>
-                        Plot No. 26, Street No. 6, H - 9/1 Islamabad
+                        CA-1, California, USA
                       </p>
                     </div>
                   </div>
@@ -24,7 +24,7 @@
                     </div>
                     <div class="col-lg-10 col-sm-10 col-12">
                       <p>
-                        051 - 4865465 & 67
+                        (415) 555 - 2677, (415) 555 - 2677
                       </p>
                     </div>
                   </div>
@@ -34,7 +34,7 @@
                     </div>
                     <div class="col-lg-10 col-sm-10 col-12">
                       <p>
-                        03205005561 , 03205005539
+                        +1 (415) 555 - 2671 , +1 (415) 555 - 2672
                       </p>
                     </div>
                   </div>
@@ -44,7 +44,7 @@
                     </div>
                     <div class="col-lg-10 col-sm-10 col-12">
                       <p>
-                        info@thescienceschool.edu.pk
+                        intellect@academy.com
                       </p>
                     </div>
                   </div>
@@ -54,7 +54,7 @@
           </div>
           <div class="widget-column footer-widget-2 col-lg-6 col-md-6">
             <section id="custom_html-7" class="widget_text widget widget_custom_html">
-              <h3 class="widget-title">DHA Campus</h3>
+              <h3 class="widget-title">Academy GA</h3>
               <div class="textwidget custom-html-widget">
                 <div>
                   <div class="row">
@@ -63,7 +63,7 @@
                     </div>
                     <div class="col-lg-11 col-sm-10 col-12">
                       <p>
-                        T Chowk, GT Road, Rawat (1 Km East of Gate 4, DHA Phase-2)
+                        Watkinsville, GA 30677, USA
                       </p>
                     </div>
                   </div>
@@ -73,7 +73,7 @@
                     </div>
                     <div class="col-lg-10 col-sm-10 col-12">
                       <p>
-                        051 - 8738494 , 051 - 8314782
+                        (415) 555 - 2675 , (415) 555 - 2676
                       </p>
                     </div>
                   </div>
@@ -83,7 +83,7 @@
                     </div>
                     <div class="col-lg-10 col-sm-10 col-12">
                       <p>
-                        03205005562 , 03205004497
+                        +1 (415) 555 - 2673 , +1 (415) 555 - 2674
                       </p>
                     </div>
                   </div>
@@ -93,7 +93,7 @@
                     </div>
                     <div class="col-lg-10 col-sm-10 col-12">
                       <p>
-                        info@thescienceschool.edu.pk
+                        intellect@academy.com
                       </p>
                     </div>
                   </div>
@@ -107,7 +107,7 @@
   </div>
 
   <div class="site-info">
-    <i class="fa fa-copyright" aria-hidden="true"></i> 2013 - <?php echo date('Y'); ?> The Science School
+    <i class="fa fa-copyright" aria-hidden="true"></i> <?php echo date('Y'); ?> - All Rights Reserved. Intellect Academy
   </div>
 </footer>
 <script type="text/javascript">
