@@ -36,11 +36,11 @@ include_once "header.php";
                       <div class="elementor-widget-wrap elementor-element-populated">
                         <div class="elementor-element elementor-element-5dd584c elementor-widget elementor-widget-heading" data-id="5dd584c" data-element_type="widget" data-widget_type="heading.default">
                           <div class="elementor-widget-container">
-                            <div class="alert" style="background-color: #b4c87d; border-color: #faf2cc; color: #666c6e; border-radius: 10px;">
+                            <div class="alert" style="background-color: #4fa0e53b; color: #666c6e; border-radius: 10px;">
                               <!-- Top Row -->
                               <div class="row">
                                 <div class="col text-center">
-                                  <h3 style="font-family: Roboto, Sans-serif; font-weight: 600;">Registered Already?</h3>
+                                  <h3 style="font-family: Roboto, Sans-serif; font-weight: 600;">Submit Already?</h3>
                                 </div>
                               </div>
                               <!-- Second Row -->
@@ -51,8 +51,8 @@ include_once "header.php";
                                 </div>
                                 <!-- 2nd Column -->
                                 <div class="form-field col-md-8 col-12 text-center mt-md-3">
-                                  <a href="https://google.com" target="_blank">
-                                    <input type="submit" style="border-radius: 10px;" value="Log in to access">
+                                  <a href="login.php" target="_self">
+                                    <input type="submit" style="border-radius: 10px;" value="Sign In">
                                   </a>
                                 </div>
                                 <!-- 3rd Column -->
@@ -63,20 +63,20 @@ include_once "header.php";
                             </div>
                           </div>
                           <div class="elementor-widget-container">
-                            <h2 class="elementor-heading-title elementor-size-default">The Admission process and criteria</h2>
+                            <h2 class="elementor-heading-title elementor-size-default">Lorem, ipsum dolor sit.</h2>
                           </div>
                         </div>
                         <div class="elementor-element elementor-element-7392bf83 elementor-widget elementor-widget-text-editor" data-id="7392bf83" data-element_type="widget" data-widget_type="text-editor.default">
                           <div class="elementor-widget-container">
                             <div class="elementor-text-editor elementor-clearfix"><!-- wp:paragraph -->
-                              <p>Parents desirous of their children/child’s admission to The Science School will undertake the following procedure for admission to The Science School:</p>
+                              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem accusamus quae autem neque, vel molestiae reiciendis delectus sapiente veniam omnis id blanditiis magni repellendus optio non nulla ducimus. Vitae, magni:</p>
                               <!-- /wp:paragraph --><!-- wp:list -->
                               <ul>
-                                <li><strong>Step 1:</strong> Submit Form B/Birth Certificate and the child/children’s last school report to The Science School Office.</li>
-                                <li><strong>Step 2:</strong> Register the child with The Science School by paying a small nonrefundable registration fee and collecting The Science School Prospectus for rules and regulations and other details. It is highly recommended that parents read the Prospectus in detail to understand the School’s mission, values and what it stands for in the community and what it expects of its students and their parents.</li>
-                                <li><strong>Step 3:</strong> Upon registration, the School will inform the parents about the dates for test and interview.</li>
-                                <li><strong>Step 4:</strong> Students will be tested in English, Mathematics and Science subjects. Students will also be interviewed. The test and interview will take place the same day.</li>
-                                <li><strong>Step 5:</strong> Parents will be informed when to collect their child’s result. Along with the result, remaining procedure for confirming admission to The Science School will also be explained.</li>
+                                <li><strong>Step 1:</strong> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam obcaecati iure dolor laborum quasi doloribus nemo officia doloremque magni.</li>
+                                <li><strong>Step 2:</strong> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex autem fugiat quasi quam totam illo commodi nisi, iusto doloribus, error laboriosam placeat, iste ullam dolorem labore aperiam. Dolores, nemo tempore.</li>
+                                <li><strong>Step 3:</strong> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore, laboriosam eligendi</li>
+                                <li><strong>Step 4:</strong> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quaerat optio distinctio minima aperiam deserunt sunt dolorem atque fuga tempore sit deleniti.</li>
+                                <li><strong>Step 5:</strong> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam debitis nostrum itaque ipsum eligendi ea exercitationem recusandae praesentium vel sapiente sint ipsam.</li>
                               </ul>
                               <!-- /wp:list --><!-- wp:shortcode --><!-- /wp:shortcode -->
                             </div>
@@ -88,7 +88,7 @@ include_once "header.php";
                       <div class="elementor-widget-wrap elementor-element-populated">
                         <div class="elementor-element elementor-element-2423bb0 elementor-widget elementor-widget-heading" data-id="2423bb0" data-element_type="widget" data-widget_type="heading.default">
                           <div class="elementor-widget-container">
-                            <h3 class="elementor-heading-title elementor-size-default">Registration Form</h3>
+                            <h3 class="elementor-heading-title elementor-size-default">Application</h3>
                           </div>
                         </div>
                         <div class="elementor-element elementor-element-01a0f08 elementor-widget elementor-widget-html" data-id="01a0f08" data-element_type="widget" data-widget_type="html.default">
@@ -104,17 +104,26 @@ include_once "header.php";
                               <div class="form-field">
                                 <select name="campus" id="campus">
                                   <option>Select Campus</option>
-                                  <option>H9</option>
-                                  <option>DHA</option>
+                                  <option>Intellect Academy - CA</option>
+                                  <option>Intellect Academy - GA</option>
                                 </select>
                               </div><br>
                               <div class="form-field">
                                 <select name="class" id="class">
                                   <option>Select Class</option>
+                                  <option>I</option>
+                                  <option>II</option>
+                                  <option>III</option>
+                                  <option>VI</option>
                                   <option>V</option>
                                   <option>VI</option>
                                   <option>VII</option>
                                   <option>VIII</option>
+                                  <option>IX</option>
+                                  <option>X</option>
+                                  <option>XI</option>
+                                  <option>A-I</option>
+                                  <option>A-II</option>
                                 </select>
                               </div><br>
                               <div class="form-field">
@@ -160,9 +169,9 @@ include_once "header.php";
                             <div class="alert" style="background-color: #fcf8e3; border-color: #faf2cc; color: #8a6d3b;">
                               <p>Note:</p>
                               <ul class="list-group ">
-                                <li class="list-group-item" style="display:inline"><span class="glyphicon glyphicon-arrow-right"></span> <i class="fas fa-arrow-right"></i> The Science School has limited its classroom size to absolutely 24 students. Therefore, all admissions will be based on a “first come first served” basis. Seats will be cancelled and offered to other students on the waiting list if admission procedures are not completed within the stipulated date provided by the School.</li>
-                                <li class="list-group-item" style="display:inline"><span class="glyphicon glyphicon-arrow-right"></span><i class="fas fa-arrow-right"></i> A child scoring less than 50% will not be considered for admission to The Science School.</li>
-                                <li class="list-group-item" style="display:inline"><span class="glyphicon glyphicon-arrow-right"></span> <i class="fas fa-arrow-right"></i> The Science School will be transparent in all aspects of student testing and announcement and discussion of results with the parents. Nevertheless, final decision-making rests with The Science School authorities, which will be non-contestable and non-negotiable. Space, facilities, etc, need financing and will be considerations in numbers of students admitted to the School.</li>
+                                <li class="list-group-item" style="display:inline"><span class="glyphicon glyphicon-arrow-right"></span> <i class="fas fa-arrow-right"></i> Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum, aut pariatur. Architecto sed enim, ipsam totam adipisci accusantium ea facere! Quo voluptate quidem pariatur asperiores deserunt eligendi iure corrupti nulla. enim, ipsam totam adipisci accusantium ea facere! Quo voluptate quidem pariatur asperiores deserunt eligendi iure corrupti nulla.</li>
+                                <li class="list-group-item" style="display:inline"><span class="glyphicon glyphicon-arrow-right"></span><i class="fas fa-arrow-right"></i> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis id repellendus consequuntur soluta</li>
+                                <li class="list-group-item" style="display:inline"><span class="glyphicon glyphicon-arrow-right"></span> <i class="fas fa-arrow-right"></i> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit reprehenderit nihil ratione quo fugiat nisi laudantium ipsum quos iste in officiis dignissimos, quia quis ducimus, qui et perspiciatis sunt consectetur?</li>
                               </ul>
                             </div>
                           </div>

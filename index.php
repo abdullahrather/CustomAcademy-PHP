@@ -54,7 +54,7 @@ include_once "header.php";
                                   <div class="elementor-widget-container">
                                     <div class="elementor-image">
                                       <figure class="wp-caption">
-                                        <a href="students-achievements.php">
+                                        <a href="top-performers.php">
                                           <img decoding="async" src="assets/uploads/elementor/thumbs/e-7-1-p5b6zw42qy960qv03ipi5yo6mkgg52d0esbl4q26vs.png" title="e-7" alt="e-7" /> </a>
                                         <figcaption class="widget-image-caption wp-caption-text">Intellect Academy / Place to Learn</figcaption>
                                       </figure>
@@ -65,9 +65,9 @@ include_once "header.php";
                                   <div class="elementor-widget-container">
                                     <div class="elementor-image">
                                       <figure class="wp-caption">
-                                        <a href="results.php">
+                                        <a href="grades.php">
                                           <img width="53" height="51" src="assets/uploads/2021/04/e-14.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" /> </a>
-                                        <figcaption class="widget-image-caption wp-caption-text">Results</figcaption>
+                                        <figcaption class="widget-image-caption wp-caption-text">Grades</figcaption>
                                       </figure>
                                     </div>
                                   </div>
@@ -88,7 +88,7 @@ include_once "header.php";
                                   <div class="elementor-widget-container">
                                     <div class="elementor-image">
                                       <figure class="wp-caption">
-                                        <a href="admissions.php">
+                                        <a href="application_form.php">
                                           <img decoding="async" src="assets/uploads/elementor/thumbs/students-cap-pbqv9wgqdrz26vay7xusurkum4yds1dkjtgsxsirxu.png" title="students-cap" alt="students-cap" /> </a>
                                         <figcaption class="widget-image-caption wp-caption-text">Apply for Admission</figcaption>
                                       </figure>
@@ -129,7 +129,7 @@ include_once "header.php";
                                 </div>
                                 <div class="elementor-element elementor-element-d3afa49 elementor-widget elementor-widget-text-editor" data-id="d3afa49" data-element_type="widget" data-widget_type="text-editor.default">
                                   <div class="elementor-widget-container">
-                                    <div class="elementor-text-editor elementor-clearfix"><a style="float: right; color: white; font-size: 12px; margin-right: 25px; margin-top: -0.1vw;" href="results.php" target="_blank" rel="noopener">Read More <i class="fa fa-caret-right" style="font-size: 12px; color: white;"></i></a></div>
+                                    <div class="elementor-text-editor elementor-clearfix"><a style="float: right; color: white; font-size: 12px; margin-right: 25px; margin-top: -0.1vw;" href="grades.php" target="_blank" rel="noopener">Read More <i class="fa fa-caret-right" style="font-size: 12px; color: white;"></i></a></div>
                                   </div>
                                 </div>
                               </div>
@@ -593,7 +593,7 @@ include_once "header.php";
                                         &nbsp; &nbsp;&nbsp; vel - <b>PELLENTESQUE</b>
                                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                        <a href="why-tss.php" style=" font-size:12px">Read More
+                                        <a href="why-us.php" style=" font-size:12px">Read More
                                           <i class="fa fa-caret-right"></i></a>
                                       </p>
 
