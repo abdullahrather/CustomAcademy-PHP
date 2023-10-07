@@ -403,6 +403,8 @@ function myFunction2() {
           timer: 3000
         });
         hasValidationError = true;
+        // Refresh captcha
+        refreshCaptcha();
         return false;
       }
       var captcha = $("input#captcha").val();
@@ -496,6 +498,8 @@ function myFunction2() {
                     showConfirmButton: false,
                     timer: 3000
                   });
+                  // Refresh captcha
+                  refreshCaptcha();
                 } else if (resp == "Field missing") {
                   Swal.fire({
                     icon: 'error',
