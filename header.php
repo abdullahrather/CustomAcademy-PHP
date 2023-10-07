@@ -61,6 +61,8 @@
   <link rel='stylesheet' id='google-fonts-1-css' href='assets/fonts/css/roboto-italic-2.css' type='text/css' media='all' />
   <link rel='stylesheet' id='elementor-icons-shared-0-css' href='assets/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min9e0b.css' type='text/css' media='all' />
   <link rel='stylesheet' id='elementor-icons-fa-solid-css' href='assets/plugins/elementor/assets/lib/font-awesome/css/solid.min9e0b.css' type='text/css' media='all' />
+  <link rel='stylesheet' href='assets/css/custom/top-ribbon-header.css' type='text/css' media='all' />
+ 
   <script type='text/javascript' src='assets/js/jquery/jquery.min3088.js' id='jquery-core-js'></script>
   <script type='text/javascript' src='assets/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
   <script type='text/javascript' src='assets/themes/education-insight/assets/js/education-insight-custom68b3.js' id='education-insight-custom.js-js'></script>
@@ -100,12 +102,25 @@
     <div class="top_header row">
       <div class="toggle-menu gb_menu mobile_view_toggle col-md-4 col-sm-2">
         <button onclick="education_insight_gb_Menu_open()" class="gb_toggle"><i class="fas fa-bars"></i></button>
-
       </div>
-      <div class="container contact_cap col-xl-12 col-lg-12 col-md-8 col-sm-10">
 
+      <div class="container contact_cap">
+        <div class="row">
+          <div class="col-4">
+            <div class="top-content" id="marquee">
+              <span><a class="top_header" href="results.php" target="_blank">Intellect Academy - <strong>Results</strong></a></span>
+            </div>
+          </div>
+          <div class="container contact_cap col-8">
+            <span><i class="fa fa-envelope"></i>intellect@academy.com</span>
+          </div>
+        </div>
+      </div>
+
+      
+      <!-- <div class="container contact_cap col-xl-12 col-lg-12 col-md-8 col-sm-10">
         <span><i class="fa fa-envelope"></i>intellect@academy.com</span>
-      </div>
+      </div> -->
     </div>
     <div id="header">
       <div class="wrap_figure">

@@ -2638,15 +2638,9 @@ video {
   left: 22em;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 576px) {
   .sm-logo-position {
-    left: 19em;
-  }
-}
-
-@media (max-width: 320px) {
-  .sm-logo-position {
-    left: 16em;
+    display: none;
   }
 }
 
