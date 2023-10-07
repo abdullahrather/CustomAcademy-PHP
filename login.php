@@ -1,6 +1,6 @@
 <?php
 $bodyClass = "page-template-default page page-id-18 wp-custom-logo page-two-column elementor-default elementor-kit-160 elementor-page elementor-page-18";
-$pageTitle = "Admissions";
+$pageTitle = "Login";
 include('header.php');
 
 // If the user is already logged in, redirect to the dashboard

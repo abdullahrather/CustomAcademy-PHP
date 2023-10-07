@@ -65,7 +65,7 @@ include_once "header.php";
             <h1 class="entry-title"><span><?php echo $pageTitle ?></span></h1>
             <style>
               .aigpl-img-link {
-                color: #e9a502;
+                color: #230253;
               }
             </style>
           </header>
