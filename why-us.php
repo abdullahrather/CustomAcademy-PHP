@@ -63,7 +63,7 @@ include_once "header.php";
                               <div class="elementor-widget-wrap elementor-element-populated">
                                 <div class="elementor-element elementor-element-f0b1e60 elementor-widget elementor-widget-heading" data-id="f0b1e60" data-element_type="widget" data-widget_type="heading.default">
                                   <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default">Objective of The Science School
+                                    <h2 class="elementor-heading-title elementor-size-default">Objective of Academy
                                     </h2>
                                   </div>
                                 </div>
@@ -71,15 +71,15 @@ include_once "header.php";
                                   <div class="elementor-widget-container">
                                     <div class="elementor-text-editor elementor-clearfix">
                                       <ul>
-                                        <li>To hold in high esteem, and to take all necessary actions, to further the Aim of The Science School in developing leaders in science and engineering, loyal and patriotic to Islam, and the Islamic Republic of Pakistan.</li>
+                                        <li>To hold in high esteem, and to take all necessary actions, to further the Aim of Academy in developing leaders in science and engineering, loyal and patriotic to Islam, and the Islamic Republic of Pakistan.</li>
                                         <li>To identify and support the development of young scientists and engineers at the level of school education, “through the provision of high standards of curricula experiences as are defined among the best curriculums available.”</li>
                                         <li>To provide a curriculum experience that is challenging, rigorous, modern. The core focus of the curriculum will remain on Science, Technology and Mathematics. English will be the medium of instruction and learning. Secondary subjects will include languages, knowledge and understanding of the arts, Islam, culture and history of the people of Pakistan, Pakistan’s geo-political environment, sports and outdoor education.</li>
-                                        <li>To provide facilities of teacher and curricula development and the provision of academic infrastructure and facilities such as libraries, materials, technology, in pursuance of the aims and objectives of The Science School.</li>
+                                        <li>To provide facilities of teacher and curricula development and the provision of academic infrastructure and facilities such as libraries, materials, technology, in pursuance of the aims and objectives of Academy.</li>
                                         <li>To provide a safe, secure, enabling environment that encourages students to explore their world freely, using the ideas and processes of science, to solve problems and reach out to question and   expand knowledge frontiers.</li>
                                         <li>To set, maintain, and expect, the highest standards of moral, ethical, rational, behavior in keeping with the nobility of academic institutions, Pakistan’s Scientific Organizations, and Defence Forces, and indeed the principles and values upheld by the founders and defenders of Pakistan.</li>
-                                        <li>To constantly endeavor to learn and achieve best practices in education and school management through individual and institutional policies of self-evaluation, research and reflection as befits a learning organization in pursuance of the noble Aim and Objectives of The Science School.</li>
+                                        <li>To constantly endeavor to learn and achieve best practices in education and school management through individual and institutional policies of self-evaluation, research and reflection as befits a learning organization in pursuance of the noble Aim and Objectives of Academy.</li>
                                         <li id="WhatTSS">To maintain a school ethos of a search for excellence through collaboration and openness as a learning organization. To be a supportive organization for the development of pupils as well as teachers, managers and all employees within the constraints and opportunities of Pakistan’s environment.</li>
-                                        <li>To select young learners on merit, from the students of The Science School for higher education in the Institutes and Colleges of Pakistan’s Scientific and Strategic Organizations.</li>
+                                        <li>To select young learners on merit, from the students of Academy for higher education in the Institutes and Colleges of Pakistan’s Scientific and Strategic Organizations.</li>
                                         <li>An open system of continuous, criterion based assessment will be used to select candidates for the status of Young Scientists and Engineers. Students, Parents, School and Scientific and Strategic Organizations, will be expected to collaborate in this joint endeavor.</li>
                                       </ul>
                                     </div>
@@ -87,7 +87,7 @@ include_once "header.php";
                                 </div>
                                 <div class="elementor-element elementor-element-b010075 elementor-widget elementor-widget-heading" data-id="b010075" data-element_type="widget" data-widget_type="heading.default">
                                   <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default">WHAT MAKES THE SCIENCE SCHOOL DIFFERENT
+                                    <h2 class="elementor-heading-title elementor-size-default">WHAT MAKES Academy DIFFERENT
                                     </h2>
                                   </div>
                                 </div>
@@ -100,7 +100,7 @@ include_once "header.php";
                                 <div class="elementor-element elementor-element-b2d48d9 mob_txt_12 elementor-widget elementor-widget-text-editor" data-id="b2d48d9" data-element_type="widget" data-widget_type="text-editor.default">
                                   <div class="elementor-widget-container">
                                     <div class="elementor-text-editor elementor-clearfix">
-                                      <p>With so many schools already operating, parents are likely to ask why The Science School? The Science School is different from other schools in a number of ways. It is the first school of its kind in Pakistan, with a special focus on high standards learning in science, mathematics, engineering and technology. Learning activity is integrated with the social sciences, humanities, and outdoor education.</p>
+                                      <p>With so many schools already operating, parents are likely to ask why Academy? Academy is different from other schools in a number of ways. It is the first school of its kind in Pakistan, with a special focus on high standards learning in science, mathematics, engineering and technology. Learning activity is integrated with the social sciences, humanities, and outdoor education.</p>
                                       <p>We recognize that scientific activity does not function in a vacuum. The scientist is seen as human, inspired by beliefs and goals, by education that embeds science as a purposeful activity within the larger human enterprise. The personal, ethical, and moral values of the scientist are recognized as playing a role in the direction of their activities. Thus, while our education is primarily focused on developing the skills of Science, Mathematics, Design and Technology, we integrate learning with questions of purpose and values of faith, culture, and ethos.</p>
                                     </div>
                                   </div>
@@ -113,9 +113,9 @@ include_once "header.php";
                                 <div class="elementor-element elementor-element-96bb192 mob_txt_12 elementor-widget elementor-widget-text-editor" data-id="96bb192" data-element_type="widget" data-widget_type="text-editor.default">
                                   <div class="elementor-widget-container">
                                     <div class="elementor-text-editor elementor-clearfix">
-                                      <p>The Science School offers progression in higher education to Colleges and Universities of Science and Technology in Pakistan as well as abroad. The Institute of Space Technology (IST), Islamabad, Pakistan Institute of Engineering and Applied Sciences (PIEAS), Islamabad, Karachi Institute of Nuclear and Power Engineering (KINPOE) are highly rated by HEC and on our list of choices for further study. Scholarships for education abroad will be available for those who achieve Merit and Distinction in their assessments.</p>
+                                      <p>Academy offers progression in higher education to Colleges and Universities of Science and Technology in Pakistan as well as abroad. The Institute of Space Technology (IST), Islamabad, Pakistan Institute of Engineering and Applied Sciences (PIEAS), Islamabad, Karachi Institute of Nuclear and Power Engineering (KINPOE) are highly rated by HEC and on our list of choices for further study. Scholarships for education abroad will be available for those who achieve Merit and Distinction in their assessments.</p>
                                       <p>Career progression to appointments in Pakistan’s Strategic and Scientific Organizations will be possible for all achieving students after appropriate clearance.</p>
-                                      <p>The Science School being a not-for-profit organization will offer scholarships and provide funding on merit, for higher education at home and abroad according to the students merit and requirements of the scientific organizations.</p>
+                                      <p>Academy being a not-for-profit organization will offer scholarships and provide funding on merit, for higher education at home and abroad according to the students merit and requirements of the scientific organizations.</p>
                                       <p> </p>
                                     </div>
                                   </div>

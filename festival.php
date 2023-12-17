@@ -34,7 +34,7 @@ include_once "header.php";
                                   <div id=":pi" class="ii gt">
                                     <div id=":ph" class="a3s aiL ">
                                       <div dir="ltr">
-                                        <p>Students of the science school were given a challenge to make videos to commemorate March 23rd, Youm Azadi. These videos have been recorded by students from their own cameras using content given to them. We are proud of their efforts and patriotism for Pakistan.</p>
+                                        <p>Students of Academy were given a challenge to make videos to commemorate March 23rd, Youm Azadi. These videos have been recorded by students from their own cameras using content given to them. We are proud of their efforts and patriotism for Pakistan.</p>
                                         <div>We hope you will enjoy them and praise their efforts.</div>
                                       </div>
                                     </div>

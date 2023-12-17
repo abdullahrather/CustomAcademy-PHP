@@ -41,7 +41,7 @@ include_once "header.php";
                         </div>
                         <div class="elementor-element elementor-element-86ade60 elementor-widget elementor-widget-heading" data-id="86ade60" data-element_type="widget" data-widget_type="heading.default">
                           <div class="elementor-widget-container">
-                            <h3 class="elementor-heading-title elementor-size-default">Competition: Research in The Science School</h3>
+                            <h3 class="elementor-heading-title elementor-size-default">Competition: Research in Academy</h3>
                           </div>
                         </div>
                         <div class="elementor-element elementor-element-5340ef5 elementor-widget elementor-widget-text-editor" data-id="5340ef5" data-element_type="widget" data-widget_type="text-editor.default">
