@@ -28,7 +28,7 @@ include_once "header.php";
                           <div class="elementor-widget-container">
                             <div id="img-beside-content-education">
                               <!--<div class="page-heading">-->
-                              <!--      <h2>Science at The Science School</h2>-->
+                              <!--      <h2>Science at Academy</h2>-->
                               <!--    </div>-->
 
                               <p>
@@ -55,7 +55,7 @@ include_once "header.php";
                           <div class="elementor-widget-container">
                             <div id="img-beside-content-education">
                               <!--<div class="page-heading">-->
-                              <!--      <h2>Science at The Science School</h2>-->
+                              <!--      <h2>Science at Academy</h2>-->
                               <!--    </div>-->
 
                               <p><img decoding="async" src="assets/uploads/elementor/thumbs/asfaq-ahmed-p6ctq4fzg5tjuih3ck9xqdx4k7saqdsyy7i9191ia8.jpg" class="img-right img-rounded">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium porro consequatur ratione natus aliquid magni corrupti enim itaque eveniet sit eum reiciendis temporibus accusamus magnam recusandae modi culpa, sequi nihil. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Neque nam, esse repellendus commodi praesentium ipsam, fugiat ut modi quas sapiente nulla. Voluptatum labore officiis earum recusandae aliquam ut! Tenetur, placeat? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsum debitis asperiores adipisci nam ipsa voluptatum cumque culpa, quisquam quod quibusdam aperiam quas porro, ab nisi esse veritatis rerum quasi sapiente!</p>
@@ -80,7 +80,7 @@ include_once "header.php";
                           <div class="elementor-widget-container">
                             <div id="img-beside-content-education">
                               <!--<div class="page-heading">-->
-                              <!--      <h2>Science at The Science School</h2>-->
+                              <!--      <h2>Science at Academy</h2>-->
                               <!--    </div>-->
 
                               <p><img decoding="async" src="assets/uploads/elementor/thumbs/gen-kud2-p8qfw9tcir5u99klou0fkhfjgt6wqhyrm21t1qadao.jpg" class="img-right img-rounded">Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati explicabo saepe, cum non tempora laudantium deleniti delectus ipsa cupiditate, amet atque sapiente perferendis eligendi laborum natus inventore veniam fugit quasi! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur odio voluptatum minima impedit! Delectus assumenda libero fuga molestias, repudiandae aliquid expedita atque corrupti veniam cupiditate vero et excepturi facilis amet. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti quos nihil aperiam voluptatibus blanditiis dolore provident earum ad, illo rerum eligendi facere facilis porro expedita suscipit sed! Deleniti, unde doloribus. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perspiciatis voluptatum, quasi voluptatem nulla iusto officiis voluptates sit corporis consequuntur a voluptatibus architecto rerum temporibus ex, laudantium culpa! Quam, rerum ratione!</p>
@@ -105,7 +105,7 @@ include_once "header.php";
                           <div class="elementor-widget-container">
                             <div id="img-beside-content-education">
                               <!--<div class="page-heading">-->
-                              <!--      <h2>Science at The Science School</h2>-->
+                              <!--      <h2>Science at Academy</h2>-->
                               <!--    </div>-->
 
                               <p><img decoding="async" src="assets/uploads/elementor/thumbs/lubna-big-p8qfwar6pl74kvj8jcf24z702729y72hy6paj08z4g.png">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis expedita dicta repudiandae minus, magni sed. Omnis, fuga labore. Voluptate dignissimos consequatur reprehenderit. Distinctio, ea excepturi! Ducimus fugiat voluptate omnis dicta. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium delectus mollitia, perferendis voluptatum recusandae quidem. Sed optio dicta provident maiores quibusdam exercitationem? Adipisci, laborum. Saepe aspernatur ipsum labore sunt explicabo.</p>
@@ -132,7 +132,7 @@ include_once "header.php";
                           <div class="elementor-widget-container">
                             <div id="img-beside-content-education">
                               <!--<div class="page-heading">-->
-                              <!--      <h2>Science at The Science School</h2>-->
+                              <!--      <h2>Science at Academy</h2>-->
                               <!--    </div>-->
 
                               <p>
